@@ -1,0 +1,448 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  /* =================== */
+  /* === CTA BUTTONS === */
+  /* =================== */
+
+  .btn {
+    @apply flex items-center gap-3 bg-gray-950 text-white font-medium leading-none rounded-full transition-[transform,_background-color] duration-300 hover:scale-95 hover:bg-primary;
+  }
+
+  .btn {
+    @apply p-2 pl-4;
+  }
+
+  .btn {
+    div {
+      @apply p-1.5 bg-white rounded-full;
+    }
+
+    &.bg-white {
+      div {
+        @apply bg-gray-950;
+      }
+    }
+  }
+
+  .btn-lg {
+    @apply py-2.5 pl-6 pr-3 ~text-base/lg;
+  }
+
+  /* ============== */
+  /* === TOPPER === */
+  /* ============== */
+
+  .topper {
+    @apply font-lora text-primary font-bold leading-none uppercase;
+  }
+
+
+  /* ================================ */
+  /* === DYNAMIC CATEGORY STYLING === */
+  /* ================================ */
+
+  /* === DYNAMIC BACKGROUND COLOR === */
+  .bg-category {
+    /* === ŠKOLA === */
+    &[data-category="skola"] {
+      @apply bg-skola;
+    }
+
+    /* === MŠ KORÁLEK === */
+    &[data-category="koralek"] {
+      @apply bg-koralek;
+    }
+  
+    /* === MŠ KAMARÁD === */
+    &[data-category="kamarad"] {
+      @apply bg-kamarad;
+    }
+  
+    /* === DRUŽINA === */
+    &[data-category="druzina"] {
+      @apply bg-druzina;
+    }
+  
+    /* === JÍDELNA === */
+    &[data-category="jidelna"] {
+      @apply bg-jidelna;
+    }
+  
+    /* === SPOLEČNÉ === */
+    &[data-category="spolecne"] {
+      @apply bg-spolecne;
+    }
+  }
+
+  /* === DYNAMIC TEXT COLOR === */
+  .text-category {
+    /* === ŠKOLA === */
+    &[data-category="skola"] {
+      @apply text-skola;
+    }
+
+    /* === MŠ KORÁLEK === */
+    &[data-category="koralek"] {
+      @apply text-koralek;
+    }
+  
+    /* === MŠ KAMARÁD === */
+    &[data-category="kamarad"] {
+      @apply text-kamarad;
+    }
+  
+    /* === DRUŽINA === */
+    &[data-category="druzina"] {
+      @apply text-druzina;
+    }
+  
+    /* === JÍDELNA === */
+    &[data-category="jidelna"] {
+      @apply text-jidelna;
+    }
+  
+    /* === SPOLEČNÉ === */
+    &[data-category="spolecne"] {
+      @apply text-spolecne;
+    }
+  }
+
+  /* === DYNAMIC BORDER COLOR === */
+  .border-category {
+    /* === ŠKOLA === */
+    &[data-category="skola"] {
+      @apply border-skola;
+    }
+
+    /* === MŠ KORÁLEK === */
+    &[data-category="koralek"] {
+      @apply border-koralek;
+    }
+  
+    /* === MŠ KAMARÁD === */
+    &[data-category="kamarad"] {
+      @apply border-kamarad;
+    }
+  
+    /* === DRUŽINA === */
+    &[data-category="druzina"] {
+      @apply border-druzina;
+    }
+  
+    /* === JÍDELNA === */
+    &[data-category="jidelna"] {
+      @apply border-jidelna;
+    }
+  
+    /* === SPOLEČNÉ === */
+    &[data-category="spolecne"] {
+      @apply border-spolecne;
+    }
+  }
+
+  /* ======================================== */
+  /* === MAIN NAVIGATION CATEGORY STYLING === */
+  /* ======================================== */
+  header nav {
+    /* === DOMŮ === */
+    [data-category="domu"][aria-current="page"] {
+      @apply bg-gray-100 text-domu;
+    }
+  
+    /* === ŠKOLA === */
+    [data-category="skola"][aria-current="page"] {
+      @apply bg-blue-100 text-skola;
+    }
+  
+    /* === MŠ KORÁLEK === */
+    [data-category="koralek"][aria-current="page"] {
+      @apply bg-pink-100 text-koralek;
+    }
+  
+    /* === MŠ KAMARÁD === */
+    [data-category="kamarad"][aria-current="page"] {
+      @apply bg-purple-100 text-kamarad;
+    }
+  
+    /* === DRUŽINA === */
+    [data-category="druzina"][aria-current="page"] {
+      @apply bg-orange-100 text-druzina;
+    }
+  
+    /* === JÍDELNA === */
+    [data-category="jidelna"][aria-current="page"] {
+      @apply bg-green-100 text-jidelna;
+    }
+  
+    /* === SPOLEČNÉ === */
+    [data-category="spolecne"][aria-current="page"] {
+        @apply bg-gray-100 text-spolecne;
+    }
+  }
+
+  /* ======================================== */
+  /* === MAIN NAVIGATION CATEGORY STYLING === */
+  /* ======================================== */
+  nav#services {
+    /* === ŠKOLA === */
+    [data-category="skola"] {
+      @apply border-blue-900 hover:bg-blue-700;
+    }
+
+    /* === MŠ KORÁLEK === */
+    [data-category="koralek"] {
+      @apply border-pink-900 hover:bg-pink-700;
+    }
+  
+    /* === MŠ KAMARÁD === */
+    [data-category="kamarad"] {
+      @apply border-purple-900 hover:bg-purple-700;
+    }
+  
+    /* === DRUŽINA === */
+    [data-category="druzina"] {
+      @apply border-orange-900 hover:bg-orange-700;
+    }
+  
+    /* === JÍDELNA === */
+    [data-category="jidelna"] {
+      @apply border-green-900 hover:bg-green-700;
+    }
+  
+    /* === SPOLEČNÉ === */
+    [data-category="spolecne"] {
+      @apply border-gray-900 hover:bg-gray-800;
+    }
+  }
+}
+
+/* poppins-regular - latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/poppins-v24-latin-ext-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* poppins-500 - latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  src: url('../fonts/poppins-v24-latin-ext-500.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* poppins-600 - latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  src: url('../fonts/poppins-v24-latin-ext-600.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* poppins-800 - latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 800;
+  src: url('../fonts/poppins-v24-latin-ext-800.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* lora-regular - latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Lora';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/lora-v37-latin-ext-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* lora-700 - latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Lora';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../fonts/lora-v37-latin-ext-700.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* ====================================== */
+/* === DARKMODE SWITCH AND TRANSITION === */
+/* ====================================== */
+
+:root {
+  --bg-planet-bright: #ecd590;
+  --bg-polygon-bright: #f2a54c;
+  --bg-planet-shadow: #828894;
+  --bg-planet-lightshadow: #3a3a3a;
+  --dot-size: 0.25rem;
+}
+
+html {  
+  body {
+    label.darkmode-container {
+      height: 100%;
+      cursor: pointer;
+      position: relative;
+      /* To make outline on mobile invisible */
+      -webkit-tap-highlight-color:  rgba(255, 255, 255, 0);
+    
+      input[type="checkbox"] {
+          height: 0;
+          width: 0;
+          visibility: hidden;
+          position: absolute;
+      }
+    
+      .planet {
+        display: block;
+        width: 1.25rem;
+        height: 1.25rem;
+        border-radius: 50%;
+        overflow: hidden;
+        background:
+          radial-gradient(3.75em, 99%, transparent 100%);
+        background-color: var(--bg-planet-bright);
+        background-repeat: no-repeat;
+        position: relative;
+        will-change: background;
+        transition: all 400ms ease;
+        z-index: 11;
+      
+        /* Safari transition issue */
+        backface-visibility: hidden;
+        transform: translate3d(0, 0, 0);
+        
+        &::after {
+          content: "";
+          background-color: var(--bg-planet-shadow);
+          width: 1.25rem;
+          height: 1.25rem;
+          position: absolute;
+          border-radius: 50%;
+          will-change: opacity, transform, background-color;
+          opacity: 0;
+          transform: translate(2em, -2em);
+          transition: opacity 400ms ease, transform 400ms ease, background-color 400ms ease;
+        }
+      }
+    
+      .elements {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+        transition: transform 400ms ease;
+        z-index: 10;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      
+        svg {
+          position: absolute;
+          width: 12px;
+          height: 12px;
+          opacity: 1;
+          transition: transform 400ms ease, opacity 200ms ease, width 200ms ease, height 200ms ease;
+          polygon {
+            fill: var(--bg-polygon-bright);
+            transition: fill 400ms ease;
+          }
+          &:first-child {
+            transform: translate(0, -0.8rem);
+          }
+          &:nth-child(2) {
+            transform: translate(0.55em, -0.55em) rotate(45deg);
+          }
+          &:nth-child(3) {
+            transform: translate(0.8em, 0) rotate(90deg);
+          }
+          &:nth-child(4) {
+            transform: translate(0.55em, 0.55em) rotate(135deg);
+          }
+          &:nth-child(5) {
+            transform: translate(0, 0.8em) rotate(180deg);
+          }
+          &:nth-child(6) {
+            transform: translate(-0.55em, 0.55em) rotate(225deg);
+          }
+          &:nth-child(7) {
+            transform: translate(-0.8em, 0) rotate(270deg);
+          }
+          &:nth-child(8) {
+            transform: translate(-0.55em, -0.55em) rotate(315deg);
+          }
+          &:nth-child(9) {
+            transform: translate(0em, -1em);
+            opacity: 0;
+          }
+          &:nth-child(10) {
+            transform: translate(0em, -1.5em);
+            opacity: 0;
+          }
+          &:nth-child(11) {
+            transform: translate(0em, -1.25em);
+            opacity: 0;
+          }
+        }
+      }
+    }
+  }
+
+  &.dark {
+      label.darkmode-container {
+          input[type="checkbox"] {
+            &+.planet {
+              --bg-planet-bright: #D7D7D8;
+      
+              &::after {
+                opacity: 1;
+                transform: translate(0.4em, -0.3em);
+              }
+            }
+      
+            &~.elements {
+              transform: rotate(180deg);
+              z-index: 12;
+      
+              svg {
+                transform: translate(0.5em, 1em);
+                opacity: 0;
+
+                &:nth-child(9) {
+                  transform: translate(-0.2em, 0.4em);
+                  width: 0.2em;
+                  height: 0.2em;
+                  opacity: 1;
+                  circle {
+                    fill: var(--bg-planet-lightshadow);
+                  }
+                }
+                &:nth-child(10) {
+                  transform: translate(-0.35em, 0);
+                  width: 0.45em;
+                  height: 0.45em;
+                  opacity: 1;
+                  circle {
+                    fill: var(--bg-planet-lightshadow);
+                  }
+                }
+                &:nth-child(11) {
+                  transform: translate(0, 0.2em);
+                  width: 0.25em;
+                  height: 0.25em;
+                  opacity: 1;
+                  circle {
+                    fill: var(--bg-planet-lightshadow);
+                  }
+                }
+              }
+            }
+          }
+      }
+  }
+}

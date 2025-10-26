@@ -1,0 +1,90 @@
+{
+    "topBar": {
+        "miscLinks": [
+            {
+                "href": "/kontakty",
+                "target": "_self",
+                "icon": {
+                    "url": "/assets/svgs/header/call.svg",
+                    "alt": "Ikona telefonu"
+                },
+                "text": "Kontakty"
+            },
+            {
+                "href": "/jidelna/jidelni-listek",
+                "target": "_self",
+                "icon": {
+                    "url": "/assets/svgs/header/menu_book_2.svg",
+                    "alt": "Ikona jídelního lístku"
+                },
+                "text": "Jídelní lístek"
+            }
+        ],
+        "contacts": [
+            {
+                "href": "https://maps.app.goo.gl/ArFj6T9S9ih1TWbJ7",
+                "target": "_blank",
+                "icon": {
+                    "url": "/assets/svgs/header/location_on.svg",
+                    "alt": "Ikona lokace"
+                },
+                "text": "Dolní Libchavy 153, 561 16 Libchavy"
+            },
+            {
+                "href": "mailto:skola@zslibchavy.cz",
+                "target": "_self",
+                "icon": {
+                    "url": "/assets/svgs/header/mail.svg",
+                    "alt": "Ikona mailu"
+                },
+                "text": "skola@zslibchavy.cz"
+            },
+            {
+                "href": "https://www.facebook.com/ZSaMSLibchavy/",
+                "target": "_blank",
+                "icon": {
+                    "url": "/assets/svgs/header/facebook.svg",
+                    "alt": "Ikona Facebook"
+                },
+                "text": "fb.com/zsamslibchavy"
+            }
+        ]
+    },
+    "navigation": [
+        {
+            "category": "domu",
+            "href": "/",
+            "text": "Domů"
+        },
+        {
+            "category": "skola",
+            "href": "/skola",
+            "text": "Škola"
+        },
+        {
+            "category": "koralek",
+            "href": "/ms-koralek",
+            "text": "MŠ Korálek"
+        },
+        {
+            "category": "kamarad",
+            "href": "/ms-kamarad",
+            "text": "MŠ Kamarád"
+        },
+        {
+            "category": "druzina",
+            "href": "/druzina",
+            "text": "Družina"
+        },
+        {
+            "category": "jidelna",
+            "href": "/jidelna",
+            "text": "Jídelna"
+        },
+        {
+            "category": "spolecne",
+            "href": "/spolecne",
+            "text": "Společné"
+        }
+    ]
+}

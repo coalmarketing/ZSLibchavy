@@ -1,0 +1,42 @@
+{% extends "layouts/base.njk" %}
+
+{% block body %}
+    {% include "sections/landing.njk" %}
+
+    <!-- SIDEBAR + CONTENT -->
+    <div class="~py-16/24 ~px-4/8 flex items-start gap-16 bg-white">
+        <div class="container m-auto">
+            <!-- SIDEBAR -->
+            <div class="sidebar sticky top-32 w-full max-w-sm pt-10 pb-6 px-4 shadow-md rounded-4xl">
+                <!-- BADGE -->
+                <span class="absolute top-0 -translate-y-1/2 left-4 bg-category" data-category="{{ category }}"></span>
+
+                <!-- NAVIGATION -->
+                <nav>
+                    <ul class="flex flex-col gap-0.5">
+                        {% set pages = collections.all | whereAll({category: category, "eleventyNavigation.parent": eleventyNavigation.parent}) %}
+
+                        {% for entry in pages %}
+                            <li>
+                                <a href="{{ entry.url }}" class="py-1 px-4 font-medium rounded-full" data-category="{{ entry.data.category }}"
+                                {%- if entry.url === page.url -%}aria-current="page"{%- endif -%}>
+                                    {{ entry.data.eleventyNavigation.key }}
+                                </a>
+                            </li>
+                        {% endfor %}
+                    </ul>
+                </nav>
+            </div>
+
+            <!-- INNER CONTENT -->
+            <div class="~space-y-16/24">
+                <!-- SECTION -->
+                <section class="py-24 ~px-4/8">
+                    <div class="container m-auto"></div>
+                </section>
+            </div>
+        </div>
+    </div>
+
+    {% include "sections/cta.njk" %}
+{% endblock body %}
