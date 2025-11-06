@@ -1,0 +1,29 @@
+<li class="flex flex-col items-center gap-5 p-6 bg-white border-2 border-gray-200 shadow-md rounded-4xl">
+    <!-- TITLE + TEXT -->
+    <div class="flex flex-col justify-center items-center gap-1">
+        <span class="text-center text-lg text-gray-950 dark:text-white font-semibold">{{ item.title }}</span>
+        <p class="font-lora text-center text-gray-800 dark:text-gray-200">{{ item.text }}</p>
+    </div>
+
+    {% if item.email %}
+        <!-- EMAIL -->
+        <div class="flex items-center gap-2">
+            <!-- ICON -->
+            <div class="p-1 bg-category rounded-lg" data-category="{{ category }}">
+                <img
+                    src="/assets/svgs/header/mail.svg"
+                    alt="Ikona emailu"
+                    width="20"
+                    height="20"
+                    loading="lazy"
+                    decoding="async"
+                    aria-hidden="true"
+                    draggable="false">
+            </div>
+
+            <a href="mailto:{{ item.email }}" class="font-lora text-gray-800 dark:text-gray-200 hover:text-black underline">
+                {{ item.email }}
+            </a>
+        </div>
+    {% endif %}
+</li>

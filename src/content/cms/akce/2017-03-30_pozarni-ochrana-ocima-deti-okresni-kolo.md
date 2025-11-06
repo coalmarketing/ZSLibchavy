@@ -1,0 +1,13 @@
+---
+title: Požární ochrana očima dětí - okresní kolo
+date: '2017-03-30T22:00:00.000Z'
+author: ZŠ &amp; MŠ Libchavy
+section: Škola
+images: []
+tags:
+- akce
+---
+
+# Požární ochrana očima dětí - okresní kolo
+
+V okresním kole soutěže získali žáci naší školy mnohá ocenění v nemalé konkurenci soutěžících z řad žáků základních škol a mladých hasičů.

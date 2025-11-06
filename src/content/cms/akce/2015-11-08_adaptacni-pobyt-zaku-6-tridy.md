@@ -1,0 +1,13 @@
+---
+title: Adaptační pobyt žáků 6. třídy
+date: '2015-11-08T23:00:00.000Z'
+author: ZŠ &amp; MŠ Libchavy
+section: Škola
+images: []
+tags:
+- akce
+---
+
+# Adaptační pobyt žáků 6. třídy
+
+V týdnu od 9. 11. do 13. 11. 2015 se uskutečnil pobyt žáků 6. třídy naší školy ve středisku ekologické výchovy PALETA Oucmanice – středisku ekologické výchovy Pardubického kraje. Týdenního ekologicko – výchovného programu se zúčastnilo 29 žáků naší školy. Část nákladů na jejich pobyt byla hrazena z grantu Pardubického kraje. Konkrétně se jedná o 26 % pobytových nákladů. Škola podávala prostřednictvím zřizovatele, kterým je Obec Libchavy, grantovou žádost v rámci Programu pro vzdělávání, výchovu a osvětu v oblasti životního prostředí v Pardubickém kraji pro rok 2015, se žádostí uspěla a byla jí přidělena částka 14 000,- Kč.

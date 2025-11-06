@@ -1,0 +1,19 @@
+{% extends "layouts/base.njk" %}
+
+{% block body %}
+    {% include "sections/landing.njk" %}
+
+    <!-- SIDEBAR + CONTENT -->
+    <div class="~py-16/24 ~px-4/8 flex items-start gap-16 bg-white">
+        <div class="container m-auto flex max-xl:flex-col items-start gap-16">
+            {% include "sections/sidebar.njk" %}
+
+            <!-- INNER CONTENT -->
+            <div class="flex-1 ~space-y-16/24">
+                {% include "sections/inner-content.njk" %}
+            </div>
+        </div>
+    </div>
+
+    {% include "sections/cta.njk" %}
+{% endblock body %}

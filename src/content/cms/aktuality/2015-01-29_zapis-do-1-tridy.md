@@ -1,0 +1,23 @@
+---
+title: zápis do 1. třídy
+date: '2015-01-29T00:00:00.000Z'
+author: ZŠ &amp; MŠ Libchavy
+section: Škola
+images: []
+tags:
+- aktuality
+---
+
+# zápis do 1. třídy
+
+**_Seznam dětí přijatých do Základní školy a mateřské školy Libchavy_**
+
+**_pro školní rok 2015/2016_**
+
+**po zápisu ze dne 27. 1. 2015**
+
+Seznam dětí _nepřijatých _do Základní školy a mateřské školy Libchavy
+
+pro školní rok 2015/2016
+
+**Děkujeme rodičům za trpělivost a zájem o naši školu ![smiley](/archive/novinky/ckeditor/plugins/smiley/images/regular_smile.gif)**

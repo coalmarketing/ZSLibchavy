@@ -1,0 +1,13 @@
+---
+title: Úniková hra
+date: '2020-01-29T12:38:07.000Z'
+author: Mgr. Veronika Vaňousová
+section: Škola
+images: []
+tags:
+- akce
+---
+
+# Úniková hra
+
+Členové Klubu zábavné logiky a deskových her z druhého stupně se v pondělí 27. ledna zúčastnili únikové hry v Ústí nad Orlicí. Úniková hra (escape game) je zážitková hra odehrávající se v uzavřených místnostech, hráči musí logicky přemýšlet, týmově spolupracovat pod tíhou časového limitu. Jejich úkolem je v daném čase vyřešit rébusy, hádanky, otevřít zámky a dostat se do cíle – ven ze zamčené místnosti. Velmi živá hra nejen zabaví, postraší, potrápí mozkové závity i prověří spolupráci a kreativitu. Únikovka v Ústí nad Orlicí vtáhne hráče do místní pověsti o nelítostném hejtmanovi zvaném Dešvenda.

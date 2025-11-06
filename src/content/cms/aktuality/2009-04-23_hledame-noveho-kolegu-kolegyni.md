@@ -1,0 +1,17 @@
+---
+title: Hledáme nového kolegu - kolegyni
+date: '2009-04-23T00:00:00.000Z'
+author: ZŠ &amp; MŠ Libchavy
+section: Škola
+images: []
+tags:
+- aktuality
+---
+
+# Hledáme nového kolegu - kolegyni
+
+**_Důležité oznámení ![](/fckeditor/editor/images/smiley/msn/42.gif)_**
+
+**Od školního roku 2009/2010 se na naší škole uvolní místo učitele II.stupně - F, Ch, informatika. Zájemci se mohou hlásit osobně, e-mailem nebo na tel.čísle 465 582203**
+
+** Linhartová Marie**

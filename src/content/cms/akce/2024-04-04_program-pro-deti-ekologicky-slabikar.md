@@ -1,0 +1,13 @@
+---
+title: 'PROGRAM PRO DĚTI: ,,EKOLOGICKÝ SLABIKÁŘ"'
+date: '2024-04-04T13:51:10.000Z'
+author: Monika Frimlová
+section: MŠ Kamarád
+images: []
+tags:
+- akce
+---
+
+# PROGRAM PRO DĚTI: ,,EKOLOGICKÝ SLABIKÁŘ"
+
+[gallery ids="101589,101592,101583,101588,101593,101591,101582,101594,101586,101587,101584,101590,101585"

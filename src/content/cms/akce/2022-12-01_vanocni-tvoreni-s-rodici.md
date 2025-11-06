@@ -1,0 +1,13 @@
+---
+title: VÁNOČNÍ TVOŘENÍ S RODIČI
+date: '2022-12-01T15:21:23.000Z'
+author: Monika Frimlová
+section: MŠ Kamarád
+images: []
+tags:
+- akce
+---
+
+# VÁNOČNÍ TVOŘENÍ S RODIČI
+
+[gallery ids="81204,81205,81206,81207,81208,81209,81210,81211,81212,81213,81214,81215,81216,81217,81218,81219,81220,81221,81222,81223,81224,81225,81226"

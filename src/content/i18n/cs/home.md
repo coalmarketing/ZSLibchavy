@@ -38,7 +38,7 @@ services:
     heading: Škola
     url: /skola
 
-  - category: koralek
+  - category: ms-koralek
   
     icon:
       url: /assets/svgs/services/playground.svg
@@ -47,7 +47,7 @@ services:
     heading: MŠ Korálek
     url: /ms-koralek
 
-  - category: kamarad
+  - category: ms-kamarad
   
     icon:
       url: /assets/svgs/services/playground_2.svg
@@ -81,7 +81,7 @@ services:
       alt: Ikona informací
 
     heading: Společné
-    url: /spolecne
+    url: /spolecne/aktuality
 
 
 news:

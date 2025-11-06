@@ -27,6 +27,10 @@
     }
   }
 
+  .btn-sm {
+    @apply p-1.5 pl-4;
+  }
+
   .btn-lg {
     @apply py-2.5 pl-6 pr-3 ~text-base/lg;
   }
@@ -46,18 +50,23 @@
 
   /* === DYNAMIC BACKGROUND COLOR === */
   .bg-category {
+    /* === DOMŮ === */
+    &[data-category="domu"] {
+      @apply bg-domu;
+    }
+
     /* === ŠKOLA === */
     &[data-category="skola"] {
       @apply bg-skola;
     }
 
     /* === MŠ KORÁLEK === */
-    &[data-category="koralek"] {
+    &[data-category="ms-koralek"] {
       @apply bg-koralek;
     }
   
     /* === MŠ KAMARÁD === */
-    &[data-category="kamarad"] {
+    &[data-category="ms-kamarad"] {
       @apply bg-kamarad;
     }
   
@@ -79,18 +88,23 @@
 
   /* === DYNAMIC TEXT COLOR === */
   .text-category {
+    /* === DOMŮ === */
+    &[data-category="domu"] {
+      @apply text-domu;
+    }
+
     /* === ŠKOLA === */
     &[data-category="skola"] {
       @apply text-skola;
     }
 
     /* === MŠ KORÁLEK === */
-    &[data-category="koralek"] {
+    &[data-category="ms-koralek"] {
       @apply text-koralek;
     }
   
     /* === MŠ KAMARÁD === */
-    &[data-category="kamarad"] {
+    &[data-category="ms-kamarad"] {
       @apply text-kamarad;
     }
   
@@ -112,18 +126,23 @@
 
   /* === DYNAMIC BORDER COLOR === */
   .border-category {
+    /* === DOMŮ === */
+    &[data-category="domu"] {
+      @apply border-domu;
+    }
+
     /* === ŠKOLA === */
     &[data-category="skola"] {
       @apply border-skola;
     }
 
     /* === MŠ KORÁLEK === */
-    &[data-category="koralek"] {
+    &[data-category="ms-koralek"] {
       @apply border-koralek;
     }
   
     /* === MŠ KAMARÁD === */
-    &[data-category="kamarad"] {
+    &[data-category="ms-kamarad"] {
       @apply border-kamarad;
     }
   
@@ -158,12 +177,12 @@
     }
   
     /* === MŠ KORÁLEK === */
-    [data-category="koralek"][aria-current="page"] {
+    [data-category="ms-koralek"][aria-current="page"] {
       @apply bg-pink-100 text-koralek;
     }
   
     /* === MŠ KAMARÁD === */
-    [data-category="kamarad"][aria-current="page"] {
+    [data-category="ms-kamarad"][aria-current="page"] {
       @apply bg-purple-100 text-kamarad;
     }
   
@@ -183,9 +202,9 @@
     }
   }
 
-  /* ======================================== */
-  /* === MAIN NAVIGATION CATEGORY STYLING === */
-  /* ======================================== */
+  /* ============================================ */
+  /* === SERVICES NAVIGATION CATEGORY STYLING === */
+  /* ============================================ */
   nav#services {
     /* === ŠKOLA === */
     [data-category="skola"] {
@@ -193,12 +212,12 @@
     }
 
     /* === MŠ KORÁLEK === */
-    [data-category="koralek"] {
+    [data-category="ms-koralek"] {
       @apply border-pink-900 hover:bg-pink-700;
     }
   
     /* === MŠ KAMARÁD === */
-    [data-category="kamarad"] {
+    [data-category="ms-kamarad"] {
       @apply border-purple-900 hover:bg-purple-700;
     }
   
@@ -215,6 +234,65 @@
     /* === SPOLEČNÉ === */
     [data-category="spolecne"] {
       @apply border-gray-900 hover:bg-gray-800;
+    }
+  }
+
+  /* =========================================== */
+  /* === SIDEBAR NAVIGATION CATEGORY STYLING === */
+  /* =========================================== */
+  div#sidebar {
+    /* === ŠKOLA === */
+    &[data-category="skola"] {
+      @apply bg-blue-100 border-blue-200;
+
+      a[aria-current="page"] {
+        @apply font-medium bg-blue-200 text-blue-950;
+      }
+    }
+
+    /* === MŠ KORÁLEK === */
+    &[data-category="ms-koralek"] {
+      @apply bg-pink-100 border-pink-200;
+
+      a[aria-current="page"] {
+        @apply font-medium bg-pink-200 text-pink-950;
+      }
+    }
+
+    /* === MŠ KAMARÁD === */
+    &[data-category="ms-kamarad"] {
+      @apply bg-purple-100 border-purple-200;
+
+      a[aria-current="page"] {
+        @apply font-medium bg-purple-200 text-purple-950;
+      }
+    }
+
+    /* === DRUŽINA === */
+    &[data-category="druzina"] {
+      @apply bg-orange-100 border-orange-200;
+
+      a[aria-current="page"] {
+        @apply font-medium bg-orange-200 text-orange-950;
+      }
+    }
+
+    /* === JÍDELNA === */
+    &[data-category="jidelna"] {
+      @apply bg-green-100 border-green-200;
+
+      a[aria-current="page"] {
+        @apply font-medium bg-green-200 text-green-950;
+      }
+    }
+
+    /* === SPOLEČNÉ === */
+    &[data-category="spolecne"] {
+      @apply bg-gray-100 border-gray-200;
+
+      a[aria-current="page"] {
+        @apply font-medium bg-gray-200 text-gray-950;
+      }
     }
   }
 }

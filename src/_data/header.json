@@ -2,7 +2,7 @@
     "topBar": {
         "miscLinks": [
             {
-                "href": "/kontakty",
+                "url": "/kontakty",
                 "target": "_self",
                 "icon": {
                     "url": "/assets/svgs/header/call.svg",
@@ -11,7 +11,7 @@
                 "text": "Kontakty"
             },
             {
-                "href": "/jidelna/jidelni-listek",
+                "url": "/jidelna/jidelni-listek",
                 "target": "_self",
                 "icon": {
                     "url": "/assets/svgs/header/menu_book_2.svg",
@@ -22,7 +22,7 @@
         ],
         "contacts": [
             {
-                "href": "https://maps.app.goo.gl/ArFj6T9S9ih1TWbJ7",
+                "url": "https://maps.app.goo.gl/ArFj6T9S9ih1TWbJ7",
                 "target": "_blank",
                 "icon": {
                     "url": "/assets/svgs/header/location_on.svg",
@@ -31,7 +31,7 @@
                 "text": "Dolní Libchavy 153, 561 16 Libchavy"
             },
             {
-                "href": "mailto:skola@zslibchavy.cz",
+                "url": "mailto:skola@zslibchavy.cz",
                 "target": "_self",
                 "icon": {
                     "url": "/assets/svgs/header/mail.svg",
@@ -40,7 +40,7 @@
                 "text": "skola@zslibchavy.cz"
             },
             {
-                "href": "https://www.facebook.com/ZSaMSLibchavy/",
+                "url": "https://www.facebook.com/ZSaMSLibchavy/",
                 "target": "_blank",
                 "icon": {
                     "url": "/assets/svgs/header/facebook.svg",
@@ -53,37 +53,37 @@
     "navigation": [
         {
             "category": "domu",
-            "href": "/",
+            "url": "/",
             "text": "Domů"
         },
         {
             "category": "skola",
-            "href": "/skola",
+            "url": "/skola/zakladni-informace",
             "text": "Škola"
         },
         {
-            "category": "koralek",
-            "href": "/ms-koralek",
+            "category": "ms-koralek",
+            "url": "/ms-koralek/zakladni-informace",
             "text": "MŠ Korálek"
         },
         {
-            "category": "kamarad",
-            "href": "/ms-kamarad",
+            "category": "ms-kamarad",
+            "url": "/ms-kamarad/zakladni-informace",
             "text": "MŠ Kamarád"
         },
         {
             "category": "druzina",
-            "href": "/druzina",
+            "url": "/druzina/zakladni-informace",
             "text": "Družina"
         },
         {
             "category": "jidelna",
-            "href": "/jidelna",
+            "url": "/jidelna/zakladni-informace",
             "text": "Jídelna"
         },
         {
             "category": "spolecne",
-            "href": "/spolecne",
+            "url": "/spolecne/aktuality",
             "text": "Společné"
         }
     ]

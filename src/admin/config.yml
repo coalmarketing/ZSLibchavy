@@ -6,7 +6,7 @@ local_backend: true
 
 # Change url to a link to the image you want to use, no file paths, must be a URL
 logo:
-  src: "https://www.senoweb.cz/assets/images/senoweb_og_logo_rounded.png"
+  src: "https://coalmarketing.cz/wp-content/uploads/2024/08/coalmarketing_logo_long_color-black-1024x239.png"
   show_in_header: false
 
 locale: "cs"
@@ -18,44 +18,367 @@ media_folder: "src/assets/images/cms"
 public_folder: "/assets/images/cms"
 
 collections:
-  # BLOG CONFIG
-  - label: "Blog"
-    name: "blog"
-    folder: "src/content/cms/blog"
+  # ===================== #
+  # ===== AKTUALITY ===== #
+  # ===================== #
+  - name: "aktuality"
+    label: "Aktuality"
+    label_singular: "Aktualita"
+    folder: "src/content/cms/aktuality"
     create: true
     slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
+    summary: "{{title }} - {{date | date('DD. MM. YYYY')}}"
+
+    view_filters:
+      - label: "Škola"
+        field: "section"
+        pattern: "Škola"
+
+      - label: "MŠ Korálek"
+        field: "section"
+        pattern: "MŠ Korálek"
+
+      - label: "MŠ Kamarád"
+        field: "section"
+        pattern: "MŠ Kamarád"
+
+      - label: "Družina"
+        field: "section"
+        pattern: "Družina"
+
+      - label: "Jídelna"
+        field: "section"
+        pattern: "Jídelna"
+
+    view_groups:
+      - label: "Sekce webu"
+        field: "section"
+
     fields:
       - { label: "Název", name: "title", widget: "string" }
-      - {
-          label: "URL odkaz",
-          name: "url",
-          widget: "string",
-          hint: "Určete, kam bude stránka zapsána. Pokud použijete „Blogový příspěvek“, bude příspěvek přístupný z „blog/blogovy-prispevek“. URL odkaz musí být jedinečný.",
-          pattern:
-            [
-              "^[A-Za-zÀ-ž0-9 ]+(?:-[A-Za-zÀ-ž0-9 ]+)*$",
-              "Pouze písmena (A-Z, a-z), číslice a pomlčky (-). Žádná lomítka ani speciální znaky.",
-            ],
-        }
-      - {
-          label: "Popis",
-          name: "description",
-          widget: "string",
-          hint: "Kratší popis blogového příspěvku, který se zobrazuje na náhledech příspěvků",
-        }
+      - label: "Sekce webu"
+        name: "section"
+        widget: "select"
+        required: true
+        options:
+          - { label: "Škola", value: "Škola" }
+          - { label: "MŠ Korálek", value: "MŠ Korálek" }
+          - { label: "MŠ Kamarád", value: "MŠ Kamarád" }
+          - { label: "Družina", value: "Družina" }
+          - { label: "Jídelna", value: "Jídelna" }
+
       - { label: "Autor", name: "author", widget: "string" }
       - { label: "Datum", name: "date", widget: "datetime" }
+
+      - label: "Obrázky"
+        label_singular: "Obrázek"
+        name: "images"
+        widget: "list"
+        minimize_collapsed: true
+        fields:
+          - { label: "Obrázek", name: image, widget: image, choose_url: false }
+          - {
+              label: "Popis obrázku",
+              name: "imageAlt",
+              widget: "string",
+              hint: "Popište, co je na obrázku. Slouží k validnímu SEO příspěvku.",
+            }
+
+      - { label: "Obsah", name: "body", widget: "markdown" }
       - {
-          label: "Náhledový obrázek",
+          label: "Štítky",
+          name: "tags",
+          widget: "hidden",
+          default: ["aktuality"],
+        }
+
+  # ========================= #
+  # ===== PROBĚHLÉ AKCE ===== #
+  # ========================= #
+  - name: "akce"
+    label: "Proběhlé akce"
+    label_singular: "Proběhlá akce"
+    folder: "src/content/cms/akce"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
+    summary: "{{title }} - {{date | date('DD. MM. YYYY')}}"
+
+    view_filters:
+      - label: "Škola"
+        field: "section"
+        pattern: "Škola"
+
+      - label: "MŠ Korálek"
+        field: "section"
+        pattern: "MŠ Korálek"
+
+      - label: "MŠ Kamarád"
+        field: "section"
+        pattern: "MŠ Kamarád"
+
+      - label: "Družina"
+        field: "section"
+        pattern: "Družina"
+
+    view_groups:
+      - label: "Sekce webu"
+        field: "section"
+
+    fields:
+      - { label: "Název", name: "title", widget: "string" }
+      - label: "Sekce webu"
+        name: "section"
+        widget: "select"
+        required: true
+        options:
+          - { label: "Škola", value: "Škola" }
+          - { label: "MŠ Korálek", value: "MŠ Korálek" }
+          - { label: "MŠ Kamarád", value: "MŠ Kamarád" }
+          - { label: "Družina", value: "Družina" }
+
+      - { label: "Autor", name: "author", widget: "string" }
+      - { label: "Datum", name: "date", widget: "datetime" }
+
+      - label: "Obrázky"
+        label_singular: "Obrázek"
+        name: "images"
+        widget: "list"
+        minimize_collapsed: true
+        fields:
+          - { label: "Obrázek", name: image, widget: image, choose_url: false }
+          - {
+              label: "Popis obrázku",
+              name: "imageAlt",
+              widget: "string",
+              hint: "Popište, co je na obrázku. Slouží k validnímu SEO příspěvku.",
+            }
+
+      - { label: "Obsah", name: "body", widget: "markdown" }
+      - { label: "Štítky", name: "tags", widget: "hidden", default: ["akce"] }
+
+  # ================================ #
+  # ===== DOKUMENTY KE STAŽENÍ ===== #
+  # ================================ #
+  - name: "dokumenty"
+    label: "Dokumenty ke stažení"
+    label_singular:: "Dokument ke stažení"
+    folder: "src/content/cms/dokumenty"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
+
+    view_filters:
+      - label: "Škola"
+        field: "section"
+        pattern: "Škola"
+
+      - label: "MŠ Korálek"
+        field: "section"
+        pattern: "MŠ Korálek"
+
+      - label: "MŠ Kamarád"
+        field: "section"
+        pattern: "MŠ Kamarád"
+
+      - label: "Družina"
+        field: "section"
+        pattern: "Družina"
+
+      - label: "Jídelna"
+        field: "section"
+        pattern: "Jídelna"
+
+      - label: "Obecné"
+        field: "section"
+        pattern: "Obecné"
+
+    view_groups:
+      - label: "Sekce webu"
+        field: "section"
+
+    fields:
+      - {
+          label: "Název dokumentu",
+          name: "title",
+          widget: "string",
+          hint: "Zadejte srozumitelný název, který se zobrazí na webu.",
+        }
+      - {
+          label: "Soubor",
+          name: "file",
+          widget: "file",
+          hint: "Vyberte soubor ke stažení (PDF, DOCX, XLSX, atd.).",
+        }
+      - label: "Sekce webu"
+        name: "section"
+        widget: "select"
+        required: true
+        options:
+          - { label: "Škola", value: "Škola" }
+          - { label: "MŠ Korálek", value: "MŠ Korálek" }
+          - { label: "MŠ Kamarád", value: "MŠ Kamarád" }
+          - { label: "Družina", value: "Družina" }
+          - { label: "Jídelna", value: "Jídelna" }
+          - { label: "Obecné", value: "Obecné" }
+
+      - { label: "Datum zveřejnění", name: "date", widget: "datetime" }
+      - {
+          label: "Štítky",
+          name: "tags",
+          widget: "hidden",
+          default: ["dokumenty"],
+        }
+
+  # ==================== #
+  # ===== PROJEKTY ===== #
+  # ==================== #
+  - name: "projekty"
+    label: "Projekty"
+    label_singular: "Projekt"
+    folder: "src/content/cms/projekty"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
+
+    view_filters:
+      - label: "Škola"
+        field: "section"
+        pattern: "Škola"
+
+      - label: "MŠ Korálek"
+        field: "section"
+        pattern: "MŠ Korálek"
+
+      - label: "MŠ Kamarád"
+        field: "section"
+        pattern: "MŠ Kamarád"
+
+      - label: "Družina"
+        field: "section"
+        pattern: "Družina"
+
+    view_groups:
+      - label: "Sekce webu"
+        field: "section"
+
+    fields:
+      - { label: "Název", name: "title", widget: "string" }
+      - label: "Sekce webu"
+        name: "section"
+        widget: "select"
+        required: true
+        options:
+          - { label: "Škola", value: "Škola" }
+          - { label: "MŠ Korálek", value: "MŠ Korálek" }
+          - { label: "MŠ Kamarád", value: "MŠ Kamarád" }
+          - { label: "Družina", value: "Družina" }
+
+      - {
+          label: "Registrační číslo",
+          name: "registrationNumber",
+          widget: "string",
+          required: false,
+        }
+      - {
+          label: "Datum realizace",
+          name: "date",
+          widget: "string",
+          required: false,
+        }
+      - { label: "Rozpočet", name: "budget", widget: "string", required: false }
+
+      - label: "Obrázky"
+        label_singular: "Obrázek"
+        name: "images"
+        widget: "list"
+        minimize_collapsed: true
+        fields:
+          - { label: "Obrázek", name: image, widget: image, choose_url: false }
+          - {
+              label: "Popis obrázku",
+              name: "imageAlt",
+              widget: "string",
+              hint: "Popište, co je na obrázku. Slouží k validnímu SEO příspěvku.",
+            }
+
+      - { label: "Obsah", name: "body", widget: "markdown" }
+
+      - {
+          label: "Štítky",
+          name: "tags",
+          widget: "hidden",
+          default: ["projekty"],
+        }
+
+  # ======================= #
+  # ===== ZAMĚSTNANCI ===== #
+  # ======================= #
+  - name: "zamestnanci"
+    label: "Zaměstnanci"
+    label_singular: "Zaměstnanec"
+    folder: "src/content/cms/zamestnanci"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
+
+    view_filters:
+      - label: "Škola"
+        field: "section"
+        pattern: "Škola"
+
+      - label: "MŠ Korálek"
+        field: "section"
+        pattern: "MŠ Korálek"
+
+      - label: "MŠ Kamarád"
+        field: "section"
+        pattern: "MŠ Kamarád"
+
+      - label: "Družina"
+        field: "section"
+        pattern: "Družina"
+
+      - label: "Jídelna"
+        field: "section"
+        pattern: "Jídelna"
+
+    view_groups:
+      - label: "Sekce webu"
+        field: "section"
+
+    fields:
+      - { label: "Jméno", name: "title", widget: "string" }
+
+      - label: "Sekce webu"
+        name: "section"
+        widget: "select"
+        required: true
+        options:
+          - { label: "Škola", value: "Škola" }
+          - { label: "MŠ Korálek", value: "MŠ Korálek" }
+          - { label: "MŠ Kamarád", value: "MŠ Kamarád" }
+          - { label: "Družina", value: "Družina" }
+          - { label: "Jídelna", value: "Jídelna" }
+
+      - label: "Skupina"
+        name: "group"
+        widget: "select"
+        required: false
+        options:
+          - { label: "Pedagogové", value: "Pedagogové" }
+          - { label: "Nepedagogové", value: "Nepedagogové" }
+
+      - { label: "Funkce", name: "function", widget: "string" }
+      - { label: "Email", name: "email", widget: "string", required: false }
+      - { label: "Telefon", name: "phone", widget: "string", required: false }
+      - {
+          label: "Fotka",
           name: "image",
           widget: "image",
-          choose_url: false, # Only allow local images - for image optimization reasons
+          choose_url: false,
+          required: false,
         }
+
       - {
-          label: "Popis obrázku",
-          name: "imageAlt",
-          widget: "string",
-          hint: "Popište, co je na obrázku. Slouží k validnímu SEO příspěvku.",
+          label: "Štítky",
+          name: "tags",
+          widget: "hidden",
+          default: ["zamestnanci"],
         }
-      - { label: "Obsah", name: "body", widget: "markdown" }
-      - { label: "Štítky", name: "tags", widget: "hidden", default: ["post"] }

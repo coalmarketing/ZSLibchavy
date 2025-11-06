@@ -1,0 +1,13 @@
+---
+title: 'MUZIKOTERAPIE: ,,POHÁDKA PRO PLANETU ZEMI"'
+date: '2023-10-31T13:27:34.000Z'
+author: Monika Frimlová
+section: MŠ Kamarád
+images: []
+tags:
+- akce
+---
+
+# MUZIKOTERAPIE: ,,POHÁDKA PRO PLANETU ZEMI"
+
+[gallery ids="94826,94827,94828,94829,94830,94831,94832,94833,94834,94835,94836,94837"

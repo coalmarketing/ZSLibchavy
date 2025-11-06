@@ -1,0 +1,13 @@
+---
+title: 'Čtvrtá výprava : Do pohádky &quot;Dlouhý, Široký a Bystrozraký&quot;&quot;'
+date: '2014-12-07T23:00:00.000Z'
+author: ZŠ &amp; MŠ Libchavy
+section: Družina
+images: []
+tags:
+- akce
+---
+
+# Čtvrtá výprava : Do pohádky &quot;Dlouhý, Široký a Bystrozraký&quot;&quot;
+
+Druhý pohádkový měsíc byl opravdu pohádkový, protože byl vánoční. Plnili jsme úkoly, které nám přicházeli v sms zprávách. Vyráběli jsme výrobky na jarmark, zdobili jsme vánočně třídy ŠD. Zahráli jsme si hru "Obr a trpaslíci".

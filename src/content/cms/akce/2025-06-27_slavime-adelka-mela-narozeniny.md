@@ -1,0 +1,13 @@
+---
+title: 'SLAVÍME: ADÉLKA MĚLA NAROZENINY'
+date: '2025-06-27T13:42:22.000Z'
+author: Monika Frimlová
+section: MŠ Kamarád
+images: []
+tags:
+- akce
+---
+
+# SLAVÍME: ADÉLKA MĚLA NAROZENINY
+
+[gallery ids="118259,118254,118260,118262,118255,118256,118258,118264,118261,118263,118257,118253"

@@ -1,0 +1,314 @@
+{
+    "skola": {
+        "name": "Škola",
+        "items": [
+            {
+                "text": "Základní informace",
+                "url": "/skola"
+            },
+            {
+                "text": "Aktuality",
+                "url": "/spolecne/aktuality#skola"
+            },
+            {
+                "text": "Proběhlé akce",
+                "url": "/spolecne/probehle-akce#skola"
+            },
+            {
+                "text": "Dokumenty ke stažení",
+                "url": "/spolecne/dokumenty-ke-stazeni#skola"
+            },
+            {
+                "text": "Environmentální výchova",
+                "url": "/skola/environmentalni-vychova"
+            },
+            {
+                "text": "ICT koordinátor",
+                "url": "/spolecne/seznam-zamestnancu#ict-koordinator"
+            },
+            {
+                "text": "Projekty",
+                "url": "/spolecne/projekty#skola"
+            },
+            {
+                "text": "Seznam zaměstnanců",
+                "url": "/spolecne/seznam-zamestnancu#skola"
+            },
+            {
+                "text": "Školské poradenské pracoviště",
+                "url": "/skola/skolske-poradenske-pracoviste"
+            },
+            {
+                "text": "Školní vzdělávací program",
+                "url": "/spolecne/dokumenty-ke-stazeni#svp"
+            },
+            {
+                "text": "Školská rada",
+                "url": "/skola/skolska-rada"
+            },
+            {
+                "text": "Spolek rodičů a přátel školy",
+                "url": "/skola/srps"
+            },
+            {
+                "text": "Úřední deska",
+                "url": "/skola/uredni-deska"
+            },
+            {
+                "text": "Výroční zprávy",
+                "url": "/spolecne/dokumenty-ke-stazeni#vyrocni-zpravy"
+            },
+            {
+                "text": "Zápis do 1. ročníku",
+                "url": "/skola/zapis"
+            },
+            {
+                "text": "Žákovský parlament",
+                "url": "/skola/zakovska-rada"
+            }
+        ]
+    },
+    "ms-koralek": {
+        "name": "MŠ Korálek",
+        "items": [
+            {
+                "text": "Základní informace",
+                "url": "/ms-koralek"
+            },
+            {
+                "text": "Aktuality",
+                "url": "/spolecne/aktuality#ms-koralek"
+            },
+            {
+                "text": "Proběhlé akce",
+                "url": "/spolecne/probehle-akce#ms-koralek"
+            },
+            {
+                "text": "Dokumenty ke stažení",
+                "url": "/spolecne/dokumenty-ke-stazeni#ms-koralek"
+            },
+            {
+                "text": "Projekty",
+                "url": "/spolecne/projekty#ms-koralek"
+            },
+            {
+                "text": "Seznam zaměstnanců",
+                "url": "/spolecne/seznam-zamestnancu#ms-koralek"
+            }
+        ]
+    },
+    "ms-kamarad": {
+        "name": "MŠ Kamarád",
+        "items": [
+            {
+                "text": "Základní informace",
+                "url": "/ms-kamarad"
+            },
+            {
+                "text": "Aktuality",
+                "url": "/spolecne/aktuality#ms-kamarad"
+            },
+            {
+                "text": "Proběhlé akce",
+                "url": "/spolecne/probehle-akce#ms-kamarad"
+            },
+            {
+                "text": "Dokumenty ke stažení",
+                "url": "/spolecne/dokumenty-ke-stazeni#ms-kamarad"
+            },
+            {
+                "text": "Projekty",
+                "url": "/spolecne/projekty#ms-kamarad"
+            },
+            {
+                "text": "Seznam zaměstnanců",
+                "url": "/spolecne/seznam-zamestnancu#ms-kamarad"
+            }
+        ]
+    },
+    "druzina": {
+        "name": "Družina",
+        "items": [
+            {
+                "text": "Základní informace",
+                "url": "/druzina"
+            },
+            {
+                "text": "Aktuality",
+                "url": "/spolecne/aktuality#druzina"
+            },
+            {
+                "text": "Proběhlé akce",
+                "url": "/spolecne/probehle-akce#druzina"
+            },
+            {
+                "text": "Dokumenty ke stažení",
+                "url": "/spolecne/dokumenty-ke-stazeni#druzina"
+            },
+            {
+                "text": "Projekty",
+                "url": "/spolecne/projekty#druzina"
+            },
+            {
+                "text": "Seznam zaměstnanců",
+                "url": "/spolecne/seznam-zamestnancu#druzina"
+            }
+        ]
+    },
+    "jidelna": {
+        "name": "Jídelna",
+        "items": [
+            {
+                "text": "Základní informace",
+                "url": "/jidelna"
+            },
+            {
+                "text": "Aktuality",
+                "url": "/spolecne/aktuality#druzina"
+            },
+            {
+                "text": "Proběhlé akce",
+                "url": "/spolecne/probehle-akce#druzina"
+            },
+            {
+                "text": "Dokumenty ke stažení",
+                "url": "/spolecne/dokumenty-ke-stazeni#druzina"
+            },
+            {
+                "text": "Projekty",
+                "url": "/spolecne/projekty#druzina"
+            },
+            {
+                "text": "Seznam zaměstnanců",
+                "url": "/spolecne/seznam-zamestnancu#druzina"
+            }
+        ]
+    },
+    "spolecne": {
+        "name": "Společné",
+        "items": [
+            {
+                "text": "Aktuality",
+                "url": "/spolecne/aktuality",
+                "subitems": [
+                    {
+                        "text": "Škola",
+                        "url": "/spolecne/aktuality#skola"
+                    },
+                    {
+                        "text": "MŠ Korálek",
+                        "url": "/spolecne/aktuality#ms-koralek"
+                    },
+                    {
+                        "text": "MŠ Kamarád",
+                        "url": "/spolecne/aktuality#ms-kamarad"
+                    },
+                    {
+                        "text": "Družina",
+                        "url": "/spolecne/aktuality#druzina"
+                    },
+                    {
+                        "text": "Jídelna",
+                        "url": "/spolecne/aktuality#jidelna"
+                    }
+                ]
+            },
+            {
+                "text": "Proběhlé akce",
+                "url": "/spolecne/probehle-akce",
+                "subitems": [
+                    {
+                        "text": "Škola",
+                        "url": "/spolecne/probehle-akce#skola"
+                    },
+                    {
+                        "text": "MŠ Korálek",
+                        "url": "/spolecne/probehle-akce#ms-koralek"
+                    },
+                    {
+                        "text": "MŠ Kamarád",
+                        "url": "/spolecne/probehle-akce#ms-kamarad"
+                    },
+                    {
+                        "text": "Družina",
+                        "url": "/spolecne/probehle-akce#druzina"
+                    }
+                ]
+            },
+            {
+                "text": "Dokumenty ke stažení",
+                "url": "/spolecne/dokumenty-ke-stazeni",
+                "subitems": [
+                    {
+                        "text": "Škola",
+                        "url": "/spolecne/dokumenty-ke-stazeni#skola"
+                    },
+                    {
+                        "text": "MŠ Korálek",
+                        "url": "/spolecne/dokumenty-ke-stazeni#ms-koralek"
+                    },
+                    {
+                        "text": "MŠ Kamarád",
+                        "url": "/spolecne/dokumenty-ke-stazeni#ms-kamarad"
+                    },
+                    {
+                        "text": "Družina",
+                        "url": "/spolecne/dokumenty-ke-stazeni#druzina"
+                    },
+                    {
+                        "text": "Jídelna",
+                        "url": "/spolecne/dokumenty-ke-stazeni#jidelna"
+                    }
+                ]
+            },
+            {
+                "text": "Projekty",
+                "url": "/spolecne/projekty",
+                "subitems": [
+                    {
+                        "text": "Škola",
+                        "url": "/spolecne/projekty#skola"
+                    },
+                    {
+                        "text": "MŠ Korálek",
+                        "url": "/spolecne/projekty#ms-koralek"
+                    },
+                    {
+                        "text": "MŠ Kamarád",
+                        "url": "/spolecne/projekty#ms-kamarad"
+                    },
+                    {
+                        "text": "Družina",
+                        "url": "/spolecne/projekty#druzina"
+                    }
+                ]
+            },
+            {
+                "text": "Seznam zaměstnanců",
+                "url": "/spolecne/seznam-zamestnancu",
+                "subitems": [
+                    {
+                        "text": "Škola",
+                        "url": "/spolecne/seznam-zamestnancu#skola"
+                    },
+                    {
+                        "text": "MŠ Korálek",
+                        "url": "/spolecne/seznam-zamestnancu#ms-koralek"
+                    },
+                    {
+                        "text": "MŠ Kamarád",
+                        "url": "/spolecne/seznam-zamestnancu#ms-kamarad"
+                    },
+                    {
+                        "text": "Družina",
+                        "url": "/spolecne/seznam-zamestnancu#druzina"
+                    },
+                    {
+                        "text": "Jídelna",
+                        "url": "/spolecne/seznam-zamestnancu#jidelna"
+                    }
+                ]
+            }
+        ]
+    }
+}

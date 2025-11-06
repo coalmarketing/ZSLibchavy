@@ -1,0 +1,13 @@
+---
+title: 'SOVIČKY: ,, NA NOVÝ ROK O SLEPIČÍ KROK"'
+date: '2023-01-13T12:55:27.000Z'
+author: Monika Frimlová
+section: MŠ Kamarád
+images: []
+tags:
+- akce
+---
+
+# SOVIČKY: ,, NA NOVÝ ROK O SLEPIČÍ KROK"
+
+[gallery ids="83156,83157,83158,83159,83160,83161,83162,83163,83164,83165,83166,83167,83168,83169,83170,83171,83172,83173,83174"

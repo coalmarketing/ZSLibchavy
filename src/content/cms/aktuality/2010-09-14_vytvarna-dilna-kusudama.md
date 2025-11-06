@@ -1,0 +1,29 @@
+---
+title: Výtvarná dílna - KUSUDAMA
+date: '2010-09-14T00:00:00.000Z'
+author: ZŠ &amp; MŠ Libchavy
+section: Škola
+images: []
+tags:
+- aktuality
+---
+
+# Výtvarná dílna - KUSUDAMA
+
+Srdečně Vás zveme na 
+
+**![](/fckeditor/editor/images/smiley/msn/50.gif)VÝTVARNOU DÍLNU![](/fckeditor/editor/images/smiley/msn/50.gif)**
+
+_**ve středu 29. září 2010 od 15,30 hodin,**_
+
+kde budeme tvořit 
+
+japonskou papírovou dekoraci - KUSUDAMU.
+
+Materiál: 50,- Kč
+
+Přijďte mezi nás strávit příjemné odpoledne.
+
+Přihlaste se, prosím, včas u p.uč. V.Vaňousové.
+
+Technika není příliš vhodná pro děti do 9 let (nároky na přesnost).

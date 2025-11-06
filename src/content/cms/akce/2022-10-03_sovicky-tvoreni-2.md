@@ -1,0 +1,13 @@
+---
+title: 'SOVIČKY: TVOŘENÍ'
+date: '2022-10-03T15:21:28.000Z'
+author: Monika Frimlová
+section: MŠ Kamarád
+images: []
+tags:
+- akce
+---
+
+# SOVIČKY: TVOŘENÍ
+
+[gallery ids="78056,78057,78058,78059,78060,78061,78062,78063,78064,78065,78066,78067,78068,78069,78070,78071,78072,78073,78074,78075,78076"

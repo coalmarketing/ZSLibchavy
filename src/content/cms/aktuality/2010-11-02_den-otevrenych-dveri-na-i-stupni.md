@@ -1,0 +1,17 @@
+---
+title: Den otevřených dveří na I.stupni
+date: '2010-11-02T00:00:00.000Z'
+author: ZŠ &amp; MŠ Libchavy
+section: Škola
+images: []
+tags:
+- aktuality
+---
+
+# Den otevřených dveří na I.stupni
+
+Chcete se podívat, jak Vaše děti pracují v hodinách? ![](/fckeditor/editor/images/smiley/msn/20.gif)
+
+Srdečně Vás zveme na **Den otevřených dveří na I.stupni**, který se koná ve **čtvrtek 11. listopadu** 2010 od **7,55 hodin do 10,35 hodin.**
+
+** Na Vaši návštěvu se těší žáci i učitelé !! ![](/fckeditor/editor/images/smiley/msn/23.gif)**

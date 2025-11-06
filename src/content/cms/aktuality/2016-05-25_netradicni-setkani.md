@@ -1,0 +1,13 @@
+---
+title: Netradiční setkání
+date: '2016-05-25T00:00:00.000Z'
+author: ZŠ &amp; MŠ Libchavy
+section: Škola
+images: []
+tags:
+- aktuality
+---
+
+# Netradiční setkání
+
+![](/archive/novinky/filemanager/files/str04/netradi%C4%8Dko%20001.jpg)

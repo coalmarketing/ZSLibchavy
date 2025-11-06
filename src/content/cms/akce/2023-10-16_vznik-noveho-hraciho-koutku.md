@@ -1,0 +1,13 @@
+---
+title: VZNIK NOVÉHO HRACÍHO KOUTKU
+date: '2023-10-16T14:01:44.000Z'
+author: Monika Frimlová
+section: MŠ Kamarád
+images: []
+tags:
+- akce
+---
+
+# VZNIK NOVÉHO HRACÍHO KOUTKU
+
+[gallery ids="94320,94321,94322,94323,94324,94325,94326,94327,94328,94329,94330,94331,94332,94333,94334,94335,94336,94337,94338"

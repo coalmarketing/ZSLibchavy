@@ -1,0 +1,13 @@
+---
+title: 'SOVIČKY: ,,HALÓ PANE KARNEVALE, RAČTE DÁLE"'
+date: '2021-02-28T22:51:22.000Z'
+author: Monika Frimlová
+section: MŠ Kamarád
+images: []
+tags:
+- akce
+---
+
+# SOVIČKY: ,,HALÓ PANE KARNEVALE, RAČTE DÁLE"
+
+[gallery ids="53234,53235,53236,53237,53238,53239,53240,53241,53242,53243,53244,53245,53246,53247,53248,53249,53250,53251,53252,53253"

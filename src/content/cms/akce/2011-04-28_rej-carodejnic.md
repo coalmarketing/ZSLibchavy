@@ -1,0 +1,13 @@
+---
+title: Rej čarodějnic
+date: '2011-04-28T22:00:00.000Z'
+author: ZŠ &amp; MŠ Libchavy
+section: MŠ Korálek
+images: []
+tags:
+- akce
+---
+
+# Rej čarodějnic
+
+![](/archive/kronika/userfiles/image/SDC10548.JPG)Počasí nám přálo. ![](/fckeditor/editor/images/smiley/msn/23.gif) Díky tomu jsme si společně užili přímo kouzelné, ale i trošku strašidelné dopoledne. ![](/fckeditor/editor/images/smiley/msn/15.gif)

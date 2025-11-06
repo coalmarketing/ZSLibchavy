@@ -1,0 +1,21 @@
+---
+title: Koncert  LIBCHAVÁČKU  a  RACING  SINGERS
+date: '2010-05-07T00:00:00.000Z'
+author: ZŠ &amp; MŠ Libchavy
+section: Škola
+images: []
+tags:
+- aktuality
+---
+
+# Koncert  LIBCHAVÁČKU  a  RACING  SINGERS
+
+![](/fckeditor/editor/images/smiley/msn/34.gif)Vážení občané ![](/fckeditor/editor/images/smiley/msn/34.gif)
+
+zveme Vám na koncert pěveckého sboru Libchaváček, jeho sólistů a skupiny Racing Singers /I.Jiruchová, P.Uhlířová, L.Vuová, L.Podsedníková, T.Dvořák a M.Kurc/, na kytaru doprovází M.Linhart
+
+![](/fckeditor/editor/images/smiley/msn/61.gif)přijďte si nás poslechnout v úterý 11.5.2010 v 17,30 hodin 
+
+do kostela sv.Mikuláše v Libchavách
+
+vstupné dobrovolné

@@ -1,0 +1,13 @@
+---
+title: 'SLAVÍME: MYREČEK MĚL NAROZENINY'
+date: '2025-10-20T12:51:04.000Z'
+author: Monika Frimlová
+section: MŠ Kamarád
+images: []
+tags:
+- akce
+---
+
+# SLAVÍME: MYREČEK MĚL NAROZENINY
+
+[gallery ids="120592,120593,120595,120596,120597,120598,120599,120600,120601,120602,120603,120594"

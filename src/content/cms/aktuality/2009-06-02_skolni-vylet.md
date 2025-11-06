@@ -1,0 +1,15 @@
+---
+title: Školní výlet
+date: '2009-06-02T00:00:00.000Z'
+author: ZŠ &amp; MŠ Libchavy
+section: Škola
+images: []
+tags:
+- aktuality
+---
+
+# Školní výlet
+
+Dne 9. 6. pojedou žáci 1. a 2. třídy na školní výlet do ZOO ve Dvoře Králové. Odjíždíme v 8,00 a předpokládaný návrat je v 15,00. Jídlo a pití si žáci vezmou s sebou na celý den. ![](/fckeditor/editor/images/smiley/msn/44.gif)Držte nám palce, ať se vydaří počasí ![](/fckeditor/editor/images/smiley/msn/23.gif)a at´se všichni v pořádku vrátíme zpět. ![](/fckeditor/editor/images/smiley/msn/54.gif)
+
+Mgr. R. Kulhavá

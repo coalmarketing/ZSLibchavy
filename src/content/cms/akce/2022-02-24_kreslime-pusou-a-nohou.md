@@ -1,0 +1,13 @@
+---
+title: Kreslíme pusou a nohou
+date: '2022-02-24T09:40:36.000Z'
+author: Martina Ferklová
+section: MŠ Korálek
+images: []
+tags:
+- akce
+---
+
+# Kreslíme pusou a nohou
+
+![](/wp-content/uploads/2022/02/274006020_650559242859349_1187181312318215128_n-225x300.jpg) ![](https://www.zslibchavy.cz/wp-content/uploads/2022/02/273555764_375932720570583_4800236046468692636_n-225x300.jpg) ![](https://www.zslibchavy.cz/wp-content/uploads/2022/02/273806891_1284731588714360_7953167091156044243_n-225x300.jpg) ![](https://www.zslibchavy.cz/wp-content/uploads/2022/02/273776745_1140158926811539_3259506916553410440_n-225x300.jpg) ![](https://www.zslibchavy.cz/wp-content/uploads/2022/02/273794926_660377358493742_6628981640385236591_n-225x300.jpg) ![](https://www.zslibchavy.cz/wp-content/uploads/2022/02/274126185_3134110883582545_8302085772486616450_n-300x225.jpg) ![](https://www.zslibchavy.cz/wp-content/uploads/2022/02/273796951_2073135012887529_2503760757331718110_n-300x225.jpg) ![](https://www.zslibchavy.cz/wp-content/uploads/2022/02/274264113_292592976305569_7764834312788166048_n-300x225.jpg) ![](https://www.zslibchavy.cz/wp-content/uploads/2022/02/273914636_352733500047919_9108874419753764069_n-300x225.jpg) ![](https://www.zslibchavy.cz/wp-content/uploads/2022/02/273824839_1023737528181523_393235116920403699_n-300x225.jpg) ![](https://www.zslibchavy.cz/wp-content/uploads/2022/02/274131243_633643081239129_7063526608358929988_n-300x225.jpg)

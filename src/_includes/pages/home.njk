@@ -19,7 +19,7 @@
     <!-- HERO + SERVICES NAVIGATION -->
     <div class="relative">
         <!-- HERO -->
-        <section class="relative ~py-16/24 ~px-4/8 flex min-h-screen z-10 before:absolute before:top-0 before:left-0 before:h-full before:w-full before:bg-gradient-to-t before:from-black before:via-50% before:via-black/75 before:to-black/0 before:-z-10">
+        <section class="relative ~py-16/24 ~px-4/8 flex min-h-screen z-10 before:absolute before:top-0 before:left-0 before:h-full before:w-full before:bg-gradient-to-t before:from-black before:via-50% before:via-black/50 before:to-black/0 before:-z-10">
             <div class="container m-auto flex flex-col items-center gap-8">
                 <h1 class="max-w-7xl text-center ~text-5xl/8xl text-white font-extrabold !leading-[1.1]">{{ hero.heading | safe }}</h1>
 
@@ -89,7 +89,7 @@
 
         <!-- SERVICES NAVIGATION -->
         <nav id="services" class="absolute bottom-0 left-1/2 translate-y-1/2 -translate-x-1/2 w-full ~px-4/8 z-10">
-            <ul class="container m-auto grid grid-cols-6 shadow-lg rounded-3xl">
+            <ul class="container m-auto grid grid-cols-6 -space-x-px shadow-lg rounded-3xl">
                 {% for item in services %}
                     <li class="group">
                         <a href="{{ item.url }}" data-category="{{ item.category }}" class="group flex justify-center items-center h-full py-8 px-6 bg-category border-y-4 group-first:border-l-4 group-last:border-r-4 group-first:rounded-l-3xl group-last:rounded-r-3xl transition-colors duration-300">
@@ -211,18 +211,18 @@
                 <!-- TEXT + CTA -->
                 <div class="flex flex-col items-start gap-8">
                     <!-- HEADING + TEXT -->
-                    <div class="max-w-xl flex flex-col gap-6">
+                    <div class="max-w-xl flex flex-col gap-4">
                         <!-- TOPPER + HEADING -->
                         <div class="flex flex-col ~gap-2/3">
                             <span class="topper">{{ about.topper }}</span>
-                            <h2 class="~text-3xl/5xl text-gray-950 dark:text-white font-extrabold">{{ about.heading }}</h2>
+                            <h2 class="~text-2xl/4xl text-gray-950 dark:text-white font-extrabold">{{ about.heading }}</h2>
                         </div>
 
                         <p class="font-lora text-gray-800 dark:text-gray-200">{{ about.text | safe }}</p>
                     </div>
 
                     <!-- CTA -->
-                    <a href="{{ about.cta.url }}" class="btn">
+                    <a href="{{ about.cta.url }}" class="btn btn-sm">
                         <span>{{ about.cta.text }}</span>
 
                         <div>

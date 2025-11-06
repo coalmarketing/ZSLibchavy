@@ -1,0 +1,13 @@
+---
+title: 'DIVADÉLKO U DVOU SLUNCÍ: ,,VÁNOČNÍ PŘÁNÍ"'
+date: '2023-12-05T07:34:01.000Z'
+author: Monika Frimlová
+section: MŠ Kamarád
+images: []
+tags:
+- akce
+---
+
+# DIVADÉLKO U DVOU SLUNCÍ: ,,VÁNOČNÍ PŘÁNÍ"
+
+[gallery ids="96299,96300,96301,96302,96303,96304,96305,96307,96308,96309,96310,96311,96319,96312,96314,96315,96318,96316,96317,96306,96313"
