@@ -1,13 +1,45 @@
 ---
 title: 'Tvořeníčko, tvoření: "Čas Jablíčkové vůně" - Broučci :-)'
+post_id: '78400'
 date: '2022-10-11T12:53:53.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20221011-WA0012.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20221011-WA0014.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20221011-WA0015.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20221011-WA0016.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20221011-WA0018.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221003_092401.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221003_092501.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221003_092929.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221003_092933_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221003_093423.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221003_093601.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221003_093605.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221003_093607.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221003_095310.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221003_095333.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221003_095335.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221003_095337.jpg
+  
 tags:
 - akce
 ---
 
-# Tvořeníčko, tvoření: "Čas Jablíčkové vůně" - Broučci :-)
-
-[gallery ids="78401,78405,78418,78402,78403,78406,78407,78408,78409,78410,78411,78412,78413,78415,78414,78416,78417"

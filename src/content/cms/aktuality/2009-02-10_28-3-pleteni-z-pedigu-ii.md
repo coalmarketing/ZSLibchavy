@@ -1,5 +1,6 @@
 ---
 title: 28.3. Pletení z pedigu II.
+post_id: '569'
 date: '2009-02-10T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# 28.3. Pletení z pedigu II.
 
 V sobotu 28. března 2009 od 13,30 hodin proběhne ve škole již podruhé kurs pletení z pedigu.![](/fckeditor/editor/images/smiley/msn/18.gif)
 

@@ -1,13 +1,27 @@
 ---
 title: Leonka slaví narozeniny
+post_id: '42981'
 date: '2020-10-07T14:29:43.000Z'
 author: Monika Frimlová
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/1-2.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/2-2.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/3-2.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/4-2.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/5-2.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/6-2.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/7-2.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/8-2.jpeg
+  
 tags:
 - akce
 ---
 
-# Leonka slaví narozeniny
-
-[gallery ids="42982,42983,42984,42985,42986,42987,42988,42989"

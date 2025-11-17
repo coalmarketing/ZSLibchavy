@@ -88,43 +88,52 @@
         </section>
 
         <!-- SERVICES NAVIGATION -->
-        <nav id="services" class="absolute bottom-0 left-1/2 translate-y-1/2 -translate-x-1/2 w-full ~px-4/8 z-10">
-            <ul class="container m-auto grid grid-cols-6 -space-x-px shadow-lg rounded-3xl">
-                {% for item in services %}
-                    <li class="group">
-                        <a href="{{ item.url }}" data-category="{{ item.category }}" class="group flex justify-center items-center h-full py-8 px-6 bg-category border-y-4 group-first:border-l-4 group-last:border-r-4 group-first:rounded-l-3xl group-last:rounded-r-3xl transition-colors duration-300">
-                            <!-- ICON + TEXT -->
-                            <div class="flex flex-col justify-center items-center ~gap-4/6 transition-transform duration-300 group-hover:scale-95">
-                                <!-- ICON -->
-                                <img
-                                    class="~h-12/14 aspect-square"
-                                    src="{{ item.icon.url }}"
-                                    alt="{{ item.icon.alt }}"
-                                    width="56"
-                                    height="56"
-                                    loading="lazy"
-                                    decoding="async"
-                                    aria-hidden="true"
-                                    draggable="false">
+        <nav id="services" class="~px-4/8 max-lg:~py-12/24 max-lg:bg-white max-lg:dark:bg-gray-800 lg:absolute lg:bottom-0 lg:left-1/2 lg:translate-y-1/2 lg:-translate-x-1/2 lg:w-full lg:z-10">
+            <div class="container m-auto flex flex-col gap-6">
+                <!-- TOPPER + HEADING -->
+                <div class="flex lg:hidden flex-col gap-3">
+                    <span class="topper">{{ services.topper }}</span>
+                    <h2 class="~text-3xl/5xl text-gray-950 dark:text-white font-extrabold">{{ services.heading }}</h2>
+                </div>
 
-                                <h2 class="text-center ~text-xl/3xl text-white font-semibold">{{ item.heading }}</h2>
-                            </div>
-                        </a>
-                    </li>
-                {% endfor %}
-            </ul>
+                <!-- ITEMS -->
+                <ul class="flex flex-col -space-y-px lg:grid lg:grid-cols-6 lg:-space-x-px shadow-lg rounded-3xl">
+                    {% for item in services.items %}
+                        <li class="group">
+                            <a href="{{ item.url }}" data-category="{{ item.category }}" class="group flex justify-center items-center h-full py-8 px-6 bg-category max-lg:border-x-4 max-lg:group-first:border-t-4 max-lg:group-last:border-b-4 lg:border-y-4 max-lg:group-first:rounded-t-3xl max-lg:group-last:rounded-b-3xl lg:group-first:border-l-4 lg:group-last:border-r-4 lg:group-first:rounded-l-3xl lg:group-last:rounded-r-3xl transition-colors duration-300">
+                                <!-- ICON + TEXT -->
+                                <div class="flex flex-col justify-center items-center ~gap-4/6 transition-transform duration-300 group-hover:scale-95">
+                                    <!-- ICON -->
+                                    <img
+                                        class="~h-12/14 aspect-square"
+                                        src="{{ item.icon.url }}"
+                                        alt="{{ item.icon.alt }}"
+                                        width="56"
+                                        height="56"
+                                        loading="lazy"
+                                        decoding="async"
+                                        aria-hidden="true"
+                                        draggable="false">
+
+                                    <h2 class="text-center ~text-xl/3xl text-white font-semibold">{{ item.heading }}</h2>
+                                </div>
+                            </a>
+                        </li>
+                    {% endfor %}
+                </ul>
+            </div>
         </nav>
     </div>
 
     <!-- NEWS -->
-    <section class="pt-48 ~pb-16/24 ~px-4/8 bg-gray-100 dark:bg-gray-900">
+    <section class="~pt-16/24 lg:pt-48 ~pb-16/24 ~px-4/8 bg-gray-100 dark:bg-gray-900">
         <div class="container m-auto flex flex-col gap-12">
             <!-- HEADING + CTA -->
-            <div class="flex justify-between items-end">
+            <div class="flex max-md:flex-col md:justify-between items-start md:items-end gap-4">
                 <!-- TOPPER + HEADING -->
                 <div class="flex flex-col gap-3">
                     <span class="topper">{{ news.topper }}</span>
-                    <h2 class="text-5xl text-gray-950 dark:text-white font-extrabold">{{ news.heading }}</h2>
+                    <h2 class="~text-3xl/5xl text-gray-950 dark:text-white font-extrabold">{{ news.heading }}</h2>
                 </div>
 
                 <!-- CTA -->
@@ -144,6 +153,9 @@
                     </div>
                 </a>
             </div>
+
+            {% set posts = collections.aktuality | reverse | limit(3) %}
+            {% include "components/posts.njk" %}
         </div>
     </section>
 
@@ -155,7 +167,7 @@
                 <!-- TOPPER + HEADING -->
                 <div class="flex flex-col gap-3">
                     <span class="topper">{{ events.topper }}</span>
-                    <h2 class="text-5xl text-gray-950 dark:text-white font-extrabold">{{ events.heading }}</h2>
+                    <h2 class="~text-3xl/5xl text-gray-950 dark:text-white font-extrabold">{{ events.heading }}</h2>
                 </div>
 
                 <!-- CTA -->
@@ -175,12 +187,15 @@
                     </div>
                 </a>
             </div>
+
+            {% set posts = collections.akce | reverse | limit(3) %}
+            {% include "components/posts.njk" %}
         </div>
     </section>
 
     <!-- ABOUT US -->
     <section class="~py-16/24 ~px-4/8 bg-gray-100 dark:bg-gray-900">
-        <div class="container m-auto flex flex-col gap-24 xl:gap-12">
+        <div class="container m-auto flex flex-col ~gap-12/16 xl:gap-12">
             <!-- IMAGE + TEXT -->
             <div class="flex max-xl:flex-col items-center gap-8 xl:~gap-12/24">
                 <picture>
@@ -258,8 +273,8 @@
                         </div>
 
                         <!-- TITLE + TEXT -->
-                        <div class="flex flex-col justify-center items-center gap-2 h-full p-6 pt-16 bg-white border-2 border-gray-200 shadow-md rounded-4xl">
-                            <span class="text-center text-lg text-black font-semibold">{{ item.title }}</span>
+                        <div class="flex flex-col justify-center items-center gap-2 h-full p-6 pt-16 bg-white dark:bg-gray-950 border-2 border-gray-200 dark:border-gray-800 shadow-md rounded-4xl">
+                            <span class="text-center text-lg text-gray-950 dark:text-white font-semibold">{{ item.title }}</span>
                             <p class="font-sora text-center text-gray-800 dark:text-gray-200">{{ item.text }}</p>
                         </div>
                     </li>
@@ -269,14 +284,14 @@
     </section>
 
     <!-- GALLERY -->
-    <section class="~py-16/24 ~px-4/8">
-        <div class="container m-auto flex flex-col gap-12">
+    <section class="~py-16/24 ~px-4/8 bg-white dark:bg-gray-800">
+        <div class="container m-auto flex flex-col gap-6 lg:gap-12">
             <!-- HEADING + GALLERY BUTTONS -->
-            <div class="flex justify-between items-end">
+            <div class="flex max-lg:flex-col lg:justify-between lg:items-end gap-8">
                 <!-- TOPPER + HEADING -->
                 <div class="flex flex-col gap-3">
                     <span class="topper">{{ gallery.topper }}</span>
-                    <h2 class="text-5xl text-gray-950 dark:text-white font-extrabold">{{ gallery.heading }}</h2>
+                    <h2 class="~text-3xl/5xl text-gray-950 dark:text-white font-extrabold">{{ gallery.heading | safe }}</h2>
                 </div>
 
                 <!-- GALLERY BUTTONS -->
@@ -292,24 +307,15 @@
             <!-- IMAGE ALBUMS -->
             <div class="relative" data-selected-album="all">
                 {% for album in gallery.albums %}
-                    <div class="grid grid-cols-4 gap-4 transition-opacity duration-500 opacity-0 [&.active]:opacity-100 {%- if album.key === 'all' %} active {%- else %} absolute top-0 left-0 h-full w-full {%- endif %}" data-gallery="{{ album.key }}">
+                    <div class="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-4 gap-4 transition-opacity duration-500 opacity-0 [&.active]:opacity-100 {%- if album.key === 'all' %} active {%- else %} absolute top-0 left-0 h-full w-full {%- endif %}" data-gallery="{{ album.key }}">
                         {% for image in album.images %}
                             <a href="{% getUrl image.url | resize({ height: 1944 }) | jpeg %}" data-fslightbox="{{ album.key }}" data-gallery="{{ album.key }}">
                                 <picture>
-                                    <!-- MOBILE IMAGE -->
-                                    <source media="(max-width: 600px)" srcset="{% getUrl image.url | avif %}" type="image/avif">
-                                    <source media="(max-width: 600px)" srcset="{% getUrl image.url | webp %}" type="image/webp">
-                                    <source media="(max-width: 600px)" srcset="{% getUrl image.url | jpeg %}" type="image/jpeg">
-                                    <!-- TABLET IMAGE -->
-                                    <source media="(max-width: 1024px)" srcset="{% getUrl image.url | avif %}" type="image/avif">
-                                    <source media="(max-width: 1024px)" srcset="{% getUrl image.url | webp %}" type="image/webp">
-                                    <source media="(max-width: 1024px)" srcset="{% getUrl image.url | jpeg %}" type="image/jpeg">
-                                    <!-- DESKTOP IMAGE -->
-                                    <source media="(min-width: 1024px)" srcset="{% getUrl image.url | resize({ width: 558, height: 419 }) | avif %}" type="image/avif">
-                                    <source media="(min-width: 1024px)" srcset="{% getUrl image.url | resize({ width: 558, height: 419 }) | webp %}" type="image/webp">
-                                    <source media="(min-width: 1024px)" srcset="{% getUrl image.url | resize({ width: 558, height: 419 }) | jpeg %}" type="image/jpeg">
+                                    <source srcset="{% getUrl image.url | resize({ width: 558, height: 419 }) | avif %}" type="image/avif">
+                                    <source srcset="{% getUrl image.url | resize({ width: 558, height: 419 }) | webp %}" type="image/webp">
+                                    <source srcset="{% getUrl image.url | resize({ width: 558, height: 419 }) | jpeg %}" type="image/jpeg">
                                     <img
-                                        class="object-cover rounded-4xl"
+                                        class="object-cover w-full rounded-4xl"
                                         src="{% getUrl image.url | resize({ width: 558, height: 419 }) | jpeg %}"
                                         alt="{{ image.alt }}"
                                         width="372"

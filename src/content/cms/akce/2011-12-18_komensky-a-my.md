@@ -1,5 +1,6 @@
 ---
 title: Komenský a my
+post_id: '5348'
 date: '2011-12-18T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -8,4 +9,3 @@ tags:
 - akce
 ---
 
-# Komenský a my

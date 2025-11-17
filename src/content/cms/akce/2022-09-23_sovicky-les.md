@@ -1,13 +1,65 @@
 ---
 title: 'SOVIČKY: ,,LES"'
+post_id: '77522'
 date: '2022-09-23T14:59:41.000Z'
 author: Monika Frimlová
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/1-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/10-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/11-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/12-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/13-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/14-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/15-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/16-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/17-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/18-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/19-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/19a.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/2-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/20-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/21-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/22-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/23-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/24-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/25-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/26-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/3-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/4-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/5-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/6-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/7-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/8-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/9-1.jpeg
+  
 tags:
 - akce
 ---
 
-# SOVIČKY: ,,LES"
-
-[gallery ids="77523,77524,77525,77526,77527,77528,77529,77530,77531,77532,77533,77534,77535,77536,77537,77538,77539,77540,77541,77542,77543,77544,77545,77546,77547,77548,77549"

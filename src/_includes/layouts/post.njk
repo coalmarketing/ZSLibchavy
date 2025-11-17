@@ -1,44 +1,136 @@
 {% extends "layouts/base.njk" %}
 
 {% block head %}
+    {% if images.length > 0 %}
+        <script defer src="/assets/js/fslightbox.js"></script>
+        <script defer src="/assets/js/embla-carousel.js"></script>
+    {% endif %}
+
     <!-- To ensure proper validation, prevent errors, and encourage developers to check, schema's are an opt-in feature. They're very bespoke and requires some customising  -->
     <!-- Uncomment the code below to enable Structured Data, and test it when you deploy to Netlify - https://developers.google.com/search/docs/appearance/structured-data -->
     {% include "components/post-schema.njk" %}
 {% endblock %}
 
 {% block body %}
-    {% include "components/landing.njk" %}
+    {% set category = section | slug | lower %}
+    {% include "sections/landing.njk" %}
 
-    <article class="px-4 sm:px-8 py-32 bg-white dark:bg-slate-950">
-        <div class="container m-auto flex gap-16">
-            <div class="flex flex-col items-center gap-8 w-full max-w-4xl">
-                <picture>
-                    <img class="w-full aspect-[2/1] object-cover border border-slate-400 dark:border-slate-600 rounded-2xl" src="{{ image }}" alt="{{ imageAlt }}" decoding="async" width="894" height="446" draggable="false">
-                </picture>
+    <!-- SECTION -->
+    <section class="embla ~pt-16/24 ~pb-24/64 ~px-4/8 bg-white dark:bg-gray-900">
+        <div class="container m-auto flex justify-center gap-24">
+            <!-- ARTICLE -->
+            <article class="flex flex-col gap-8 max-w-4xl">
+                <!-- BLOG METADATA -->
+                <div class="flex flex-col gap-2">
+                    <h1 class="~text-2xl/4xl text-gray-950 dark:text-white font-extrabold">{{ title }}</h1>
+
+                    <!-- BLOG METADATA -->
+                    <div class="flex items-center">
+
+                        <span class="font-lora text-gray-800 dark:text-gray-200 font-medium">{{ author }}</span>
+
+                        <!-- DIVIDER-->
+                        <svg class="text-gray-800 dark:text-gray-200" xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" viewBox="0 0 16 16">
+                            <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+                        </svg>
+
+                        <span class="font-lora text-gray-800 dark:text-gray-200 font-medium">{{ date | postDate }}</span>
+                    </div>
+                </div>
+
+                {% if images.length > 0 %}
+                    <!-- BLOG IMAGES -->
+                    <div class="embla__viewport flex flex-col gap-2 overflow-hidden">
+                        <div class="embla__container flex hover:cursor-grab">
+                            {% for image in images %}
+                                {# Check whether the image's url is a link #}
+                                {% set isExternal = image
+                                    .url
+                                    .startsWith('http') %}
+
+                                {% if not isExternal %}
+                                    {# If the image is local, optimize it #}
+                                    <a href="{% getUrl image.url | rotate | resize({ height: 1944 }) %}" data-fslightbox="{{ title | slug }}" class="embla__slide flex-grow-0 flex-shrink-0 basis-full">
+                                        <span class="sr-only">{{ title }} - {{ loop.index }}</span>
+                                        <picture>
+                                            <!-- MOBILE IMAGE -->
+                                            <source media="(max-width: 600px)" srcset="{% getUrl image.url | avif %}" type="image/avif">
+                                            <source media="(max-width: 600px)" srcset="{% getUrl image.url | webp %}" type="image/webp">
+                                            <source media="(max-width: 600px)" srcset="{% getUrl image.url | jpeg %}" type="image/jpeg">
+                                            <!-- TABLET IMAGE -->
+                                            <source media="(max-width: 1024px)" srcset="{% getUrl image.url | avif %}" type="image/avif">
+                                            <source media="(max-width: 1024px)" srcset="{% getUrl image.url | webp %}" type="image/webp">
+                                            <source media="(max-width: 1024px)" srcset="{% getUrl image.url | jpeg %}" type="image/jpeg">
+                                            <!-- DESKTOP IMAGE -->
+                                            <source media="(min-width: 1024px)" srcset="{% getUrl image.url | avif %}" type="image/avif">
+                                            <source media="(min-width: 1024px)" srcset="{% getUrl image.url | webp %}" type="image/webp">
+                                            <source media="(min-width: 1024px)" srcset="{% getUrl image.url | jpeg %}" type="image/jpeg">
+                                            <img
+                                                class="object-cover aspect-[3/2] rounded-4xl"
+                                                src="{% getUrl image.url | jpeg %}"
+                                                alt="{% if image.alt %}{{ image.alt }}{% else %}{{ title }} - {{ loop.index }}{% endif %}"
+                                                width=""
+                                                height=""
+                                                loading="lazy"
+                                                decoding="async"
+                                                aria-hidden="true"
+                                                draggable="false">
+                                        </picture>
+                                    </a>
+                                {% else %}
+                                    {# If the image is external link, display it as is #}
+                                    <a href="{{ image.url }}" data-fslightbox="{{ title | slug }}" class="embla__slide flex-grow-0 flex-shrink-0 basis-full">
+                                        <span class="sr-only">{{ title }} - {{ loop.index }}</span>
+                                        <img
+                                            class="object-cover aspect-[3/2] rounded-4xl"
+                                            src="{{ image.url }}"
+                                            alt="{{ title }} - {{ loop.index }}"
+                                            width=""
+                                            height=""
+                                            loading="lazy"
+                                            decoding="async"
+                                            aria-hidden="true"
+                                            draggable="false">
+                                    </a>
+                                {% endif %}
+                            {% endfor %}
+                        </div>
+
+                        {% if images.length > 1 %}
+                            <!-- CAROUSEL CONTROLS -->
+                            <div class="embla__controls">
+                                <div class="embla__buttons flex gap-1">
+                                    <!-- PREVIOUS BUTTON -->
+                                    <button class="embla__button embla__button--prev flex justify-center items-center p-2 text-gray-800 dark:text-gray-200 hover:text-black dark:hover:text-white border-2 border-gray-200 dark:border-gray-800 rounded-full disabled:opacity-50" type="button">
+                                        <span class="sr-only">Předchozí snímek</span>
+                                        <svg xmlns="http://www.w3.org/2000/svg" height="20" width="20" viewBox="0 -960 960 960" fill="currentColor">
+                                            <path d="M640-80 240-480l400-400 71 71-329 329 329 329-71 71Z"/>
+                                        </svg>
+                                    </button>
+
+                                    <!-- NEXT BUTTON -->
+                                    <button class="embla__button embla__button--next flex justify-center items-center p-2 text-gray-800 dark:text-gray-200 hover:text-black dark:hover:text-white border-2 border-gray-200 dark:border-gray-800 rounded-full disabled:opacity-50" type="button">
+                                        <span class="sr-only">Další snímek</span>
+                                        <svg xmlns="http://www.w3.org/2000/svg" height="20" width="20" viewBox="0 -960 960 960" fill="currentColor">
+                                            <path d="m321-80-71-71 329-329-329-329 71-71 400 400L321-80Z"/>
+                                        </svg>
+                                    </button>
+                                </div>
+                            </div>
+                        {% endif %}
+
+                        {% if albumUrl %}
+                            <a href="albumUrl" target="_blank" class="btn btn-sm">Zobrazit více fotek</a>
+                        {% endif %}
+                    </div>
+                {% endif %}
 
                 <!-- BLOG POST -->
-                <section class="prose prose-slate dark:prose-invert w-full max-w-[75ch]">
-                    <div class="flex flex-col gap-2">
-                        <!-- BLOG TITLE -->
-                        <h1 class="~text-2xl/4xl mb-0">{{ title }}</h1>
-                        <!-- BLOG METADATA -->
-                        <div class="flex items-center">
-                            <span class="text-sm text-slate-700 dark:text-slate-300 font-medium">{{ author }}</span>
-                            <!-- DIVIDER-->
-                            <svg class="text-slate-700 dark:text-slate-300" xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" viewBox="0 0 16 16">
-                                <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
-                            </svg>
-                            <span class="text-sm text-slate-700 dark:text-slate-300 font-medium">{{ date | postDate }}</span>
-                        </div>
-                    </div>
-
-                    <!-- BLOG TEXT -->
+                <div class="prose prose-gray dark:prose-invert">
                     {{ content | safe }}
-                </section>
-            </div>
-
-            {% include "components/featured-posts.njk" %}
+                </div>
+            </article>
         </div>
-    </article>
+    </section>
 
 {% endblock %}

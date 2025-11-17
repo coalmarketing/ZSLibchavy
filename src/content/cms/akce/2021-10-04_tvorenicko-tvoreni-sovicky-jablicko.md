@@ -1,13 +1,47 @@
 ---
 title: 'Tvořeníčko, tvoření: Sovičky: "jablíčko"'
+post_id: '61994'
 date: '2021-10-04T13:07:13.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210924_072627.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210924_073016.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210924_073213.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210924_073218.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210924_073440.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210924_073923.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210924_073927.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210924_074433.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210924_074535.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210924_075207.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210924_075600.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210924_075946.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210924_090550.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210924_090604.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210924_090611.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210924_091226.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210924_092101.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210924_092105.jpg
+  
 tags:
 - akce
 ---
 
-# Tvořeníčko, tvoření: Sovičky: "jablíčko"
-
-[gallery ids="61997,61998,61999,62000,62001,62002,62003,62004,62005,62006,62007,62008,62009,62010,62011,62012,61996,61995"

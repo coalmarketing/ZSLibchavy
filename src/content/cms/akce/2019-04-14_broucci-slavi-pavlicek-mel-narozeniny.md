@@ -1,13 +1,29 @@
 ---
 title: 'Broučci slaví: Pavlíček měl narozeniny'
+post_id: '20863'
 date: '2019-04-14T11:31:23.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190413-WA0008.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190413-WA0009.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190413-WA0010.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190413-WA0011.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190413-WA0012.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190413-WA0013.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190413-WA0014.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190413-WA0023.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190413-WA0024.jpg
+  
 tags:
 - akce
 ---
 
-# Broučci slaví: Pavlíček měl narozeniny
-
-[gallery ids="20864,20865,20866,20867,20868,20869,20870,20871,20872"

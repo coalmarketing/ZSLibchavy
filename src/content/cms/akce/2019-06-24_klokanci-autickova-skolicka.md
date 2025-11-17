@@ -1,13 +1,51 @@
 ---
 title: Klokánci - "autíčková školička"
+post_id: '24837'
 date: '2019-06-24T06:27:16.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190621-WA0003.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190621-WA0004.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190621-WA0005.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190621-WA0006.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190621-WA0007.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190621-WA0008.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190621-WA0009.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190621-WA0010.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190621-WA0011.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190621-WA0012.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190621-WA0013.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190621-WA0014.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190621-WA0015.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190621-WA0016.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190621-WA0017.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190621-WA0018.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190621-WA0020.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190621-WA0023.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190621-WA0024.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190621-WA0025.jpg
+  
 tags:
 - akce
 ---
 
-# Klokánci - "autíčková školička"
-
-[gallery ids="24838,24839,24840,24841,24842,24843,24844,24845,24846,24847,24848,24849,24850,24851,24852,24853,24854,24855,24856,24857"

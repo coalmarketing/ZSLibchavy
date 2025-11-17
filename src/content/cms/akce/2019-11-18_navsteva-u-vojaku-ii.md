@@ -1,13 +1,61 @@
 ---
 title: Návštěva u vojáků II.
+post_id: '28404'
 date: '2019-11-18T13:43:58.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191117-WA0000.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191117-WA0001.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191117-WA0002.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191117-WA0003.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191117-WA0004.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191117-WA0005.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191117-WA0006.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191117-WA0007.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191117-WA0008.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191117-WA0009.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191117-WA0010.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191117-WA0011.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191117-WA0012.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191117-WA0013.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191117-WA0014.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191117-WA0015.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191117-WA0016.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191118-WA0000.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191118-WA0001.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191118-WA0002.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191118-WA0003.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191118-WA0004.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191118-WA0005.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191118-WA0008.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191118-WA0009.jpg
+  
 tags:
 - akce
 ---
 
-# Návštěva u vojáků II.
-
-[gallery ids="28405,28406,28407,28408,28409,28410,28411,28412,28413,28414,28415,28416,28417,28418,28419,28420,28421,28422,28423,28424,28425,28426,28427,28428,28429"

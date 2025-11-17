@@ -1,13 +1,24 @@
 ---
 title: Barevný týden - papouškové pondělí
+post_id: '76985'
 date: '2022-09-12T16:00:50.000Z'
 author: Mgr. Lenka Ludvíčková
 section: Škola
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20220912-WA0003-1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220912_081418.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220912_081625.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220912_082034.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220912_082345.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220912_082719.jpg
+  
 tags:
 - akce
 ---
-
-# Barevný týden - papouškové pondělí
 
 Dnešní papouškové pondělí zahájilo letošní Barevný týden. Ten se stal již tradiční akcí, která zpestřuje všem žákům i učitelům začátek nového školního roku. Zítra se budeme těšit na námořnické úterý :-).

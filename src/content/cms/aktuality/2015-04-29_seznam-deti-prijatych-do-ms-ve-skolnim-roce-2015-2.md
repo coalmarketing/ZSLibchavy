@@ -1,5 +1,6 @@
 ---
 title: Seznam dětí přijatých do MŠ ve školním roce 2015,
+post_id: '593'
 date: '2015-04-29T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: MŠ Korálek
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# Seznam dětí přijatých do MŠ ve školním roce 2015,
 
 **_Seznam dětí přijatých do Základní školy a mateřské školy Libchavy_**
 

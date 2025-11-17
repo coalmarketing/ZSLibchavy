@@ -1,13 +1,45 @@
 ---
 title: 'Broučci slaví: Vojtíšek Ž. měl narozeniny'
+post_id: '7313'
 date: '2018-01-08T20:58:33.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180108_092233.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180108_092307_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180108_092405_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180108_092421_1-1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180108_092421_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180108_092545_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180108_092557_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180108_092627.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180108_092704_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180108_092717_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180108_092743_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180108_092826_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180108_092857_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180108_092930_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180108_092958.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180108_093338.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180108_093402_1.jpg
+  
 tags:
 - akce
 ---
 
-# Broučci slaví: Vojtíšek Ž. měl narozeniny
-
-[gallery ids="7298,7288,7304,7299,7289,7302,7312,7310,7296,7291,7292,7293,7295,7309,7307,7294,7290"

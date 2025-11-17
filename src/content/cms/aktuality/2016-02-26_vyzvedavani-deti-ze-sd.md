@@ -1,5 +1,6 @@
 ---
 title: Vyzvedávání dětí ze ŠD
+post_id: '605'
 date: '2016-02-26T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Družina
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# Vyzvedávání dětí ze ŠD
 
 _Žádáme rodiče, aby své děti vyzvedávali ze ŠD_
 

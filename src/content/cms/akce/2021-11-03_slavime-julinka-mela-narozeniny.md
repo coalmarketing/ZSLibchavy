@@ -1,13 +1,31 @@
 ---
 title: 'slavíme: Jůlinka měla narozeniny'
+post_id: '63262'
 date: '2021-11-03T06:57:06.000Z'
 author: Lucie Šponarová
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211102_091032.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211102_091036.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211102_091042_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211102_091152.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211102_091202.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211102_091218.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211102_091234.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211102_091252.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211102_091305.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211102_091319.jpg
+  
 tags:
 - akce
 ---
 
-# slavíme: Jůlinka měla narozeniny
-
-[gallery ids="63263,63264,63265,63266,63267,63268,63269,63270,63271,63272"

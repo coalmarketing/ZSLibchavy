@@ -1,13 +1,69 @@
 ---
 title: Předškoláci na návštěvě ve školní družině
+post_id: '12874'
 date: '2018-06-25T12:54:48.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180622_085803.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180622_085824.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180622_085826.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180622_085830.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180622_085834.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180622_085936.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180622_090031.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180622_090142.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180622_090150.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180622_090844.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180622_090847.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180622_090856.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180622_090911.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180622_091800.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180622_091803.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180622_091816.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180622_091828.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180622_091841.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180622_091843.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180622_091845.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180622_093116.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180622_093128.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180622_095715.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180622_095725.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180622_095740.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180622_100726.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180622_100731.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180622_100738.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180622_100742.jpg
+  
 tags:
 - akce
 ---
 
-# Předškoláci na návštěvě ve školní družině
-
-[gallery ids="12883,12884,12885,12886,12887,12888,12889,12890,12891,12892,12893,12894,12895,12896,12897,12898,12899,12900,12901,12902,12903,12904,12905,12906,12907,12909,12911,12912,12913"

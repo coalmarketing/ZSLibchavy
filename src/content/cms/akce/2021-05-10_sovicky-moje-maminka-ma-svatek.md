@@ -1,13 +1,79 @@
 ---
 title: 'SOVIČKY: ,,MOJE MAMINKA MÁ SVÁTEK"'
+post_id: '57223'
 date: '2021-05-10T12:23:54.000Z'
 author: Monika Frimlová
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/10.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/11.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/12.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/13.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/14.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/15.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/16.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/17.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/18.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/19.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/2.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/20.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/21.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/22.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/23.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/24.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/25.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/26.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/27.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/28.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/29.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/3.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/30.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/31.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/32.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/33.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/34.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/4.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/5.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/6.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/7.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/8.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/9.jpeg
+  
 tags:
 - akce
 ---
 
-# SOVIČKY: ,,MOJE MAMINKA MÁ SVÁTEK"
-
-[gallery ids="57224,57225,57226,57227,57228,57229,57230,57231,57232,57233,57234,57235,57236,57237,57238,57239,57240,57241,57242,57243,57244,57245,57246,57247,57248,57249,57250,57251,57252,57253,57254,57255,57256,57257"

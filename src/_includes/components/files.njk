@@ -1,0 +1,63 @@
+{# Group the 'files' collection by the 'group' property in their data. #}
+{% set groups = files | groupby("data.group") %}
+
+{% for group in groups %}
+    <div {%- if group.key !== "_ungrouped" %} id="{{ group.key | slug | lower }}" {%- endif %} class="flex flex-col gap-4">
+        {% if group.key !== "_ungrouped" %}
+            <h3 class="text-2xl text-gray-950 dark:text-white font-semibold">{{ group.key }}</h3>
+        {% endif %}
+
+        <!-- FILES -->
+        <ul class="grid grid-cols-3 gap-6">
+            {% for file in group.items %}
+                {# Check whether the file's url is a link #}
+                {% set isExternal = file
+                    .data
+                    .url
+                    .startsWith('http') %}
+
+                <li class="flex flex-col items-center -space-y-8">
+                    <!-- ICON -->
+                    <div class="relative p-2 bg-category rounded-2xl z-10" data-category="{{ category }}">
+                        {% if isExternal %}
+                            <img
+                                class="h-8 aspect-square"
+                                src="/assets/svgs/files/captive_portal.svg"
+                                alt="Ikona webové stránky"
+                                width="32"
+                                height="32"
+                                loading="lazy"
+                                decoding="async"
+                                aria-hidden="true"
+                                draggable="false">
+                        {% else %}
+                            <img
+                                class="h-8 aspect-square"
+                                src="/assets/svgs/files/file_open.svg"
+                                alt="Ikona souboru"
+                                width="32"
+                                height="32"
+                                loading="lazy"
+                                decoding="async"
+                                aria-hidden="true"
+                                draggable="false">
+                        {% endif %}
+                    </div>
+
+                    <!-- TITLE + TEXT -->
+                    <div class="flex flex-col justify-center items-center gap-1 h-full w-full p-6 pt-12 bg-white dark:gray-gray-950 border-2 border-gray-200 dark:border-gray-800 shadow-md rounded-4xl">
+                        <span class="text-center text-gray-950 dark:text-white font-semibold">{{ file.data.title }}</span>
+
+                        <a href="{{ file.data.url }}" target="_blank" class="font-lora text-center text-gray-800 dark:text-gray-200 hover:text-black dark:hover:text-white hover:underline">
+                            {% if isExternal %}
+                                Zobrazit odkaz
+                            {% else %}
+                                Zobrazit soubor
+                            {% endif %}
+                        </a>
+                    </div>
+                </li>
+            {% endfor %}
+        </ul>
+    </div>
+{% endfor %}

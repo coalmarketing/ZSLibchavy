@@ -1,5 +1,6 @@
 ---
 title: NETRADIČNÍ  SETKÁNÍ
+post_id: '456'
 date: '2011-06-13T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# NETRADIČNÍ  SETKÁNÍ
 
 **Srdečně Vás zveme na**
 

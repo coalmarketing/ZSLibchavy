@@ -1,13 +1,31 @@
 ---
 title: Vzpomínky na snížek
+post_id: '8410'
 date: '2018-02-01T16:09:35.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180122_103926.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180122_103940.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180122_103948_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180122_103952.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180122_104003_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180122_104457.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180122_104512_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180122_104555.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180122_104653.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180122_104656.jpg
+  
 tags:
 - akce
 ---
 
-# Vzpomínky na snížek
-
-[gallery ids="8399,8400,8404,8403,8402,8401,8405,8406,8407,8408"

@@ -1,5 +1,6 @@
 ---
 title: Zadáno pro florbalisty
+post_id: '511'
 date: '2009-11-26T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# Zadáno pro florbalisty
 
 **![](/fckeditor/editor/images/smiley/msn/regular_smile.gif)Blíží se měsíc prosinec a tím okrsková kola ve florbalu st.žáků z 8. a 9.tříd.![](/fckeditor/editor/images/smiley/msn/regular_smile.gif)**
 

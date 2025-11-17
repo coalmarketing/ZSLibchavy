@@ -1,13 +1,109 @@
 ---
 title: Vánoční nadílka
+post_id: '48982'
 date: '2020-12-10T14:45:15.000Z'
 author: Martina Ferklová
 section: MŠ Korálek
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/S0065076.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0075079.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0085081.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0095084.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0105086.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0115089.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0125091.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0135093.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0145094.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0155096.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0165098.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0175102.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0185103.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0195107.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0205108.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0205109.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0215110.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0225113.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0235115.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0245117.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0255118.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0265120.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0275122.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0285124.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0295126.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0295127.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0305129.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0315131.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0325133.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0335136.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0345137.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0355139.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0365141.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0375143.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0385145.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0395148.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0405151.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0415154.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0415155.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0425156.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0435160.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0445162.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0455165.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0465167.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0475170.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0485172.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0495175.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0505177.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0515179.jpg
+  
 tags:
 - akce
 ---
 
-# Vánoční nadílka
-
-[gallery ids="48983,48986,48988,48991,48993,48996,48998,49000,49001,49003,49005,49009,49010,49014,49015,49016,49017,49020,49022,49024,49025,49027,49029,49031,49033,49034,49036,49038,49040,49043,49044,49046,49048,49050,49052,49055,49058,49061,49062,49063,49067,49069,49072,49074,49077,49079,49082,49084,49086"

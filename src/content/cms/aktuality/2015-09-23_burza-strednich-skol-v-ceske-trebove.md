@@ -1,5 +1,6 @@
 ---
 title: Burza středních škol v České Třebové
+post_id: '313'
 date: '2015-09-23T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# Burza středních škol v České Třebové
 
 **_PŘEHLÍDKA STŘEDNÍCH ŠKOL_**
 

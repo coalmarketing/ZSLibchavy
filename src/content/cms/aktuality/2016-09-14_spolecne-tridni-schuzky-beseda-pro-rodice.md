@@ -1,5 +1,6 @@
 ---
 title: Společné třídní schůzky, beseda pro rodiče
+post_id: '283'
 date: '2016-09-14T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# Společné třídní schůzky, beseda pro rodiče
 
 Vážení rodiče,
 

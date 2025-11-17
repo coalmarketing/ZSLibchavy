@@ -1,13 +1,225 @@
 ---
 title: Jarní setkání s rodiči Námořníci
+post_id: '22529'
 date: '2019-05-23T12:23:36.000Z'
 author: Alena Pulkrábková
 section: MŠ Korálek
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1328.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1329.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1330.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1331.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1332.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1333.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1334.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1335.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1336.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1337.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1338.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1339.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1340.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1341.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1342.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1343.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1344.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1345.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1346.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1347.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1348.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1349.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1350.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1351.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1352.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1353.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1354.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1355.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1356.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1357.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1358.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1359.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1360.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1361.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1362.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1363.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1364.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1365.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1366.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1367.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1368.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1369.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1370.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1371.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1372.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1373.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1374.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1375.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1376.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1377.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1378.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1379.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1380.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1381.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1382.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1383.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1384.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1385.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1386.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1387.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1388.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1389.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1390.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1391.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1392.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1393.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1394.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1395.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1396.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1397.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1398.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1399.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1400.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1401.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1402.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1403.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1404.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1405.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1406.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1407.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1408.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1409.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1410.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1411.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1412.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1413.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1414.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1415.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1416.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1417.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1418.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1419.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1420.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1421.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1422.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1423.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1424.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1425.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1426.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1427.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1428.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1429.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1430.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1433.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1434.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1435.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1436.jpg
+  
 tags:
 - akce
 ---
 
-# Jarní setkání s rodiči Námořníci
-
-[gallery ids="22530,22531,22532,22533,22534,22535,22536,22537,22538,22539,22540,22541,22542,22543,22544,22545,22546,22547,22548,22549,22550,22551,22552,22553,22554,22555,22556,22557,22558,22559,22560,22561,22562,22563,22564,22565,22566,22567,22568,22569,22570,22571,22572,22573,22574,22575,22576,22577,22578,22579,22580,22581,22582,22583,22584,22585,22586,22587,22588,22589,22590,22591,22592,22593,22594,22595,22596,22597,22598,22599,22600,22601,22602,22603,22604,22605,22606,22607,22608,22609,22610,22611,22612,22613,22614,22615,22616,22617,22618,22619,22620,22621,22622,22623,22624,22625,22626,22627,22628,22629,22630,22631,22632,22633,22634,22635,22636"

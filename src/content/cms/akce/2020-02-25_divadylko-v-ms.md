@@ -1,13 +1,35 @@
 ---
 title: Divadýlko v MŠ
+post_id: '31454'
 date: '2020-02-25T10:50:36.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20200223-WA0003.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20200223-WA0004.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20200223-WA0005.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20200223-WA0006.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20200223-WA0007.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20200223-WA0008.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20200223-WA0009.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20200223-WA0010.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20200223-WA0011.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20200223-WA0012.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20200223-WA0013.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20200223-WA0014.jpg
+  
 tags:
 - akce
 ---
 
-# Divadýlko v MŠ
-
-[gallery ids="31455,31456,31457,31458,31459,31460,31461,31462,31463,31464,31465,31466"

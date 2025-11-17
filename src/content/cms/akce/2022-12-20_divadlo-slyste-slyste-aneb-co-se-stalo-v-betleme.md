@@ -1,13 +1,39 @@
 ---
 title: Divadlo "Slyšte, slyšte aneb co se stalo v Betlémě"
+post_id: '82395'
 date: '2022-12-20T15:26:37.000Z'
 author: Martina Ferklová
 section: MŠ Korálek
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20221208-WA0000.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20221208-WA0001.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20221208-WA0002.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20221208-WA0003.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20221208-WA0004.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20221208-WA0005.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20221208-WA0006.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20221208-WA0007.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20221208-WA0008.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20221208-WA0009.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20221208-WA0010.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20221214-WA0059.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20221214-WA0060.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20221214-WA0061.jpg
+  
 tags:
 - akce
 ---
 
-# Divadlo "Slyšte, slyšte aneb co se stalo v Betlémě"
-
-[gallery ids="82396,82397,82398,82399,82400,82401,82402,82403,82404,82405,82406,82407,82408,82409"

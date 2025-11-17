@@ -1,12 +1,13 @@
-<footer class="relative pt-16 ~pb-16/24 ~px-4/8 bg-gray-900">
+<footer class="relative pt-16 ~pb-16/24 ~px-4/8 bg-gray-900 dark:bg-gray-950">
     <div class="container m-auto flex flex-col gap-16">
         <!-- LOGO + NAVIGATION -->
         <div class="flex max-xl:flex-col xl:justify-between gap-16">
             <!-- LOGO + DESCRIPTION -->
             <div class="flex flex-col gap-8">
                 <!-- LOGO -->
-                <div class="flex items-center gap-6">
+                <div class="flex items-center ~gap-4/6">
                     <img
+                        class="~h-12/16 w-auto"
                         src="/assets/svgs/zsmslibchavy_logo.svg"
                         alt="Logo - {{ client.name }}"
                         width="99"
@@ -16,7 +17,7 @@
                         aria-hidden="true"
                         draggable="false">
 
-                    <span class="text-2xl text-white font-medium leading-8">Základní a mateřská<br>škola Libchavy</span>
+                    <span class="~text-xl/2xl text-white font-medium ~leading-6/8">Základní a mateřská<br>škola Libchavy</span>
                 </div>
 
                 <p class="max-w-sm font-lora text-gray-200">{{ footer.description }}</p>
@@ -67,20 +68,11 @@
                     <a href="https://coalmarketing.cz/" target="_blank" class="underline hover:text-white">coalmarketing.cz</a>
                 </p>
 
-                <a href="{{ footer.privacyPolicy.url }}" target="_blank" class="font-lora text-sm text-gray-400 hover:underline hover:text-white">{{ footer.privacyPolicy.text }}</a>
+                <a href="{{ footer.privacyPolicy.url }}" class="font-lora text-sm text-gray-400 hover:underline hover:text-white">{{ footer.privacyPolicy.text }}</a>
             </div>
         </div>
     </div>
 
     <!-- BACKGROUND SHAPE -->
-    <img
-        class="object-cover absolute top-0 left-0 h-auto w-full -translate-y-[calc(100%-1px)]"
-        src="/assets/svgs/footer/footer-shape.svg"
-        alt="Grafika oblaku"
-        width="1920"
-        height="129"
-        loading="lazy"
-        decoding="async"
-        aria-hidden="true"
-        draggable="false">
+    {% include "components/footer-shape.njk" %}
 </footer>

@@ -1,13 +1,39 @@
 ---
 title: DIVADÉLKO v MŠ - "O Nanynce"
+post_id: '79318'
 date: '2022-10-24T12:56:44.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221020_100521.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221020_100543.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221020_100952.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221020_101029.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221020_101335.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221020_101544.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221020_101850.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221020_101950.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221020_102007.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221020_102406.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221020_102540.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221020_102910.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221020_102935.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221020_103227.jpg
+  
 tags:
 - akce
 ---
 
-# DIVADÉLKO v MŠ - "O Nanynce"
-
-[gallery ids="79325,79323,79324,79330,79326,79331,79319,79320,79321,79322,79327,79328,79329,79332"

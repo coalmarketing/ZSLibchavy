@@ -1,13 +1,31 @@
 ---
 title: 'Kolektivní práce: předškoláci'
+post_id: '50398'
 date: '2021-01-13T19:33:14.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20210113-WA0000.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20210113-WA0001.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20210113-WA0002.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20210113-WA0003.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20210113-WA0004.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20210113-WA0005.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20210113-WA0006.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20210113-WA0007.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20210113-WA0008.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20210113-WA0009.jpg
+  
 tags:
 - akce
 ---
 
-# Kolektivní práce: předškoláci
-
-[gallery ids="50407,50406,50405,50404,50403,50402,50408,50401,50400,50399"

@@ -1,5 +1,6 @@
 ---
 title: První matematická expedice
+post_id: '5220'
 date: '2011-03-14T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -8,4 +9,3 @@ tags:
 - akce
 ---
 
-# První matematická expedice

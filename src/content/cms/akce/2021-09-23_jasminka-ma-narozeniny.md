@@ -1,13 +1,25 @@
 ---
 title: Jasmínka má narozeniny!
+post_id: '61559'
 date: '2021-09-23T08:05:17.000Z'
 author: Martina Ferklová
 section: MŠ Korálek
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/DSCF7162.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF7163.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF7164.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF7165.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF7166.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF7167.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF7168.jpg
+  
 tags:
 - akce
 ---
 
-# Jasmínka má narozeniny!
-
-[gallery ids="61560,61561,61562,61563,61564,61565,61566"

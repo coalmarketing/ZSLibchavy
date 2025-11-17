@@ -1,13 +1,39 @@
 ---
 title: 'SOVIČKY: VÝUKOVÝ PROGRAM ,,DRAVCI"'
+post_id: '80003'
 date: '2022-11-04T12:53:36.000Z'
 author: Monika Frimlová
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/10.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/11.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/12.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/13.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/14.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/2.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/3.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/4.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/5.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/6.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/7.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/8.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/9.jpeg
+  
 tags:
 - akce
 ---
 
-# SOVIČKY: VÝUKOVÝ PROGRAM ,,DRAVCI"
-
-[gallery ids="80004,80005,80006,80007,80008,80009,80010,80011,80012,80013,80014,80015,80016,80017"

@@ -1,5 +1,6 @@
 ---
 title: Školská rada
+post_id: '482'
 date: '2010-11-11T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# Školská rada
 
 _Výsledky voleb do školské rady :_
 

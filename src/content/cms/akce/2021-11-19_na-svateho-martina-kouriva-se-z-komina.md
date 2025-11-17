@@ -1,13 +1,179 @@
 ---
 title: '"Na svatého Martina, kouřívá se z komína"'
+post_id: '64140'
 date: '2021-11-19T12:03:56.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211109_063820-2.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211109_064321-1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211109_064324.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211109_065102.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211109_065558.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211109_070037.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211109_070418.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211109_070424.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211109_070935.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211109_071722.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211109_072536.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211109_072540.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211109_072809.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211109_073355.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211109_073704.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211109_073853.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211109_074638.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211109_075249.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211109_075744-1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211109_075747.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211109_075754.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211109_080124.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211109_080127.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211109_080753.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211109_085708.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211109_085844.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211109_090825.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211109_091040.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211109_091043.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211109_092312.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211109_092351.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211109_092657.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211109_092834.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211109_093051.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211109_093339.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211109_093343.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211109_093703.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211109_094119.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211109_094405-1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211109_094409.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211109_094843.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211109_094845.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211109_095056.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211109_095145.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211110_064734.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211110_065428.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211110_065701.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211110_071623.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211110_072016.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211110_072155.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211110_072824.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211110_073124.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211110_073301.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211110_073649.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211110_073947.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211110_074115.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211110_075002.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211110_075337.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211110_075608.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211110_075732.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211110_075837.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211110_075840.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211110_082457.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211110_083005.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211110_083701.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211110_091559.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211110_091853.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211110_092344.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211110_093010.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211110_093047.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211110_093357.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211110_093550.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211110_093750.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211110_093935.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211110_094025.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211110_094321.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211110_094403.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211110_094509.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211110_094658-1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211110_094845-1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211110_094853-1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211110_095141-1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211110_095420-1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211111_075040-1.jpg
+  
 tags:
 - akce
 ---
 
-# "Na svatého Martina, kouřívá se z komína"
-
-[gallery ids="64141,64142,64143,64144,64145,64147,64148,64149,64150,64151,64152,64153,64154,64155,64156,64157,64158,64159,64160,64161,64162,64163,64164,64166,64167,64168,64169,64170,64171,64172,64173,64174,64175,64176,64177,64178,64179,64180,64181,64182,64183,64184,64185,64187,64188,64189,64190,64191,64192,64193,64194,64195,64196,64197,64198,64199,64200,64201,64202,64203,64204,64205,64206,64207,64208,64209,64210,64211,64212,64213,64214,64215,64216,64217,64218,64219,64220,64221,64222,64223,64224,64225,64226,64227"

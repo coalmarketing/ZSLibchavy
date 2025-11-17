@@ -1,5 +1,6 @@
 ---
 title: ŘEDITELSKÉ   VOLNO   NA   ZŠ
+post_id: '538'
 date: '2009-05-28T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# ŘEDITELSKÉ   VOLNO   NA   ZŠ
 
 Vážení rodiče,
 

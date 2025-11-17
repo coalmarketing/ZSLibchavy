@@ -1,13 +1,37 @@
 ---
 title: Muzikoterapie Námořníci
+post_id: '11835'
 date: '2018-06-04T15:06:14.000Z'
 author: Alena Pulkrábková
 section: MŠ Korálek
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9438.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9439.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9440.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9441.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9442.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9443.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9444.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9448.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9449.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9450.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9451.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9452.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9453.jpg
+  
 tags:
 - akce
 ---
 
-# Muzikoterapie Námořníci
-
-[gallery ids="11836,11837,11838,11839,11840,11841,11842,11843,11844,11845,11846,11847,11848"

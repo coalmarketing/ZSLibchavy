@@ -1,5 +1,6 @@
 ---
 title: Český den proti rakovině – Květinový den
+post_id: '322'
 date: '2015-05-11T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# Český den proti rakovině – Květinový den
 
 Ve středu 13. 5. se na území naší obce uskuteční veřejná sbírka Květinový den. V rámci celostátního Českého dne proti rakovině, budou žáci 9. ročníku naší základní školy v obci prodávat žluté kvítky měsíčku lékařského a také rozdávat informační letáky o prevenci rakoviny. Letošní ročník je zaměřen na prevenci rakoviny rozmanitých nádorů pohlavního ústrojí, v jejichž výskytu se Česká republika řadí na přední místa v Evropě.
 

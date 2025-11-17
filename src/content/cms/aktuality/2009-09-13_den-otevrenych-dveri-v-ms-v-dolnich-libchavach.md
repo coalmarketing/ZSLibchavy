@@ -1,5 +1,6 @@
 ---
 title: Den otevřených dveří v MŠ v Dolních Libchavách
+post_id: '524'
 date: '2009-09-13T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# Den otevřených dveří v MŠ v Dolních Libchavách
 
 Vážení občané,
 

@@ -1,13 +1,39 @@
 ---
 title: Mikulášská nadílka
+post_id: '28842'
 date: '2019-12-06T06:31:36.000Z'
 author: Martina Ferklová
 section: MŠ Korálek
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/DSCF2603.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF2604.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF2605.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF2606.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF2607.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF2608.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF2609.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF2610.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF2611.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF2612.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF2613.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF2614.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF2615.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF2616.jpg
+  
 tags:
 - akce
 ---
 
-# Mikulášská nadílka
-
-[gallery ids="28843,28844,28845,28846,28847,28848,28849,28850,28851,28852,28853,28854,28855,28856"

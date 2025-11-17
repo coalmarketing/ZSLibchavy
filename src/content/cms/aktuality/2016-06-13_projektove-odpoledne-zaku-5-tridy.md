@@ -1,5 +1,6 @@
 ---
 title: Projektové odpoledne žáků 5. třídy
+post_id: '287'
 date: '2016-06-13T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# Projektové odpoledne žáků 5. třídy
 
 **Vážení rodiče žáků 5. třídy**,
 

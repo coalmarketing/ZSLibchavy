@@ -1,5 +1,6 @@
 ---
 title: VELIKONOČNÍ VYSTOUPENÍ
+post_id: '466'
 date: '2011-04-05T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# VELIKONOČNÍ VYSTOUPENÍ
 
 Pozvánka
 

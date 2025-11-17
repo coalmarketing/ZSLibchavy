@@ -1,13 +1,39 @@
 ---
 title: broučci+sovičky:pomáháme s jarní výzdobou
+post_id: '69903'
 date: '2022-03-19T15:00:56.000Z'
 author: Lucie Šponarová
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220210_065216.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220210_065623.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220210_070245.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220210_072414.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220210_073647.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220210_073653.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220210_075213.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220211_063347.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220211_070323.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220211_070829.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220211_074914.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220215_145320.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220215_150201.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220216_151842.jpg
+  
 tags:
 - akce
 ---
 
-# broučci+sovičky:pomáháme s jarní výzdobou
-
-[gallery ids="69904,69905,69906,69907,69908,69909,69910,69911,69912,69913,69914,69916,69917,69915"

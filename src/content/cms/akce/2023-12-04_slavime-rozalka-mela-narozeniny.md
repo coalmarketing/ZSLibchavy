@@ -1,13 +1,33 @@
 ---
 title: 'slavíme: Rozálka měla narozeniny'
+post_id: '96283'
 date: '2023-12-04T21:35:42.000Z'
 author: Lucie Šponarová
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20231204_092208.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20231204_092211.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20231204_092218.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20231204_092457.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20231204_092503.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20231204_092519.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20231204_092531.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20231204_092605.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20231204_092622.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20231204_092647.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20231204_092754.jpg
+  
 tags:
 - akce
 ---
 
-# slavíme: Rozálka měla narozeniny
-
-[gallery ids="96284,96285,96286,96287,96288,96289,96290,96291,96292,96293,96294"

@@ -1,13 +1,14 @@
 ---
 title: Školní knihovna
+post_id: '61534'
 date: '2021-09-21T10:20:17.000Z'
 author: Mgr.Zuzana Novotná
 section: Škola
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/knihvna-e1632213014169.jpg
+  
 tags:
 - aktuality
 ---
-
-# Školní knihovna
 
 Také tento rok je našim žákům i pedagogům k dispozici školní knihovna. Těším se na Vás!

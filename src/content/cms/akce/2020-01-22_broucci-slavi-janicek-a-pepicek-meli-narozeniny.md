@@ -1,13 +1,23 @@
 ---
 title: 'Broučci slaví: Janíček a Pepíček měli narozeniny'
+post_id: '30117'
 date: '2020-01-22T06:58:13.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20200119-WA0013.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20200119-WA0014.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20200119-WA0016.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20200119-WA0017.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20200119-WA0018.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20200119-WA0020.jpg
+  
 tags:
 - akce
 ---
 
-# Broučci slaví: Janíček a Pepíček měli narozeniny
-
-[gallery ids="30118,30119,30120,30121,30122,30123"

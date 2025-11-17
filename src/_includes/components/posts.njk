@@ -1,0 +1,26 @@
+<!-- POSTS -->
+<ul class="grid grid-cols-1 lg:grid-cols-2 2xl:grid-cols-3 gap-y-8 gap-x-6">
+    {% for post in posts %}
+        <li class="flex flex-col">
+            <!-- POST CONTENT -->
+            <div class="flex flex-col gap-4 p-5 bg-white dark:bg-gray-950 border-2 border-gray-200 dark:border-gray-800 rounded-4xl shadow-md">
+                <!-- POST METADATA -->
+                <div class="flex items-center gap-2">
+                    <!-- CATEGORY BADGE -->
+                    <span class="py-1.5 px-3 bg-category text-sm text-white leading-none rounded-full" data-category="{{ post.data.section | slug | lower }}">
+                        {{ post.data.section }}
+                    </span>
+
+                    <span class="text-sm text-gray-800 dark:text-gray-200 font-medium">{{ post.date | postDate }}</span>
+                </div>
+
+                <!-- POST TITLE + TEXT -->
+                <div class="flex flex-col gap-2">
+                    <a href="{{ post.url }}" title="{{ post.data.title }}" class="text-gray-950 dark:text-white font-semibold first-letter:uppercase">{{ post.data.title }}</a>
+
+                    <p class="font-lora text-sm text-gray-800 dark:text-gray-200 line-clamp-3">{{ post.content | stripHtml }}</p>
+                </div>
+            </div>
+        </li>
+    {% endfor %}
+</ul>

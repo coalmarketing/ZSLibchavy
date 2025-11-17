@@ -1,13 +1,49 @@
 ---
 title: 'Slavíme: Stelinka měla narozeniny :-)'
+post_id: '64910'
 date: '2021-12-06T08:19:05.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211123_094116.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211123_094121.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211123_094129.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211123_094145.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211123_094238.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211123_094245.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211123_094301.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211123_094308.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211123_094337.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211123_094358.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211123_094415.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211123_094415_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211123_094438.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211123_094500.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211123_094510.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211123_094618.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211123_094619.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211123_094620.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211123_094624.jpg
+  
 tags:
 - akce
 ---
 
-# Slavíme: Stelinka měla narozeniny :-)
-
-[gallery ids="64918,64920,64919,64921,64912,64913,64923,64924,64925,64926,64922,64928,64929,64930,64927,64915,64914,64916,64917"

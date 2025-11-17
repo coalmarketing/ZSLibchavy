@@ -1,13 +1,63 @@
 ---
 title: Loučení se školkou...
+post_id: '91777'
 date: '2023-06-29T12:42:04.000Z'
 author: Martina Štosová
 section: MŠ Korálek
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/20230627_103929.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/20230627_104802.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20230620-WA0000.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20230622-WA0001.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20230627-WA0000.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20230627-WA0001.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20230627-WA0002.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20230627-WA0003.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20230627-WA0004.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20230627-WA0006.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20230627-WA0007.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20230627-WA0008.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20230627-WA0010.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20230627-WA0012.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20230627-WA0013.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20230627-WA0014.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20230627-WA0016.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20230627-WA0017.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20230627-WA0018.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20230627-WA0019.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20230627-WA0021.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20230627-WA0022.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20230627-WA0025.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20230627-WA0026.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20230627-WA0027.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20230627-WA0029.jpg
+  
 tags:
 - akce
 ---
 
-# Loučení se školkou...
-
-[gallery ids="91778,91779,91780,91781,91782,91783,91784,91785,91786,91787,91788,91789,91790,91791,91792,91793,91794,91795,91796,91797,91798,91799,91800,91801,91802,91803"

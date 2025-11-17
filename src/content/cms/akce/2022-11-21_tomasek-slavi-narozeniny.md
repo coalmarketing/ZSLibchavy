@@ -1,13 +1,15 @@
 ---
 title: Tomášek slaví narozeniny
+post_id: '80734'
 date: '2022-11-21T14:35:24.000Z'
 author: Martina Ferklová
 section: MŠ Korálek
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20221018-WA0050-1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20221018-WA0050.jpg
+  
 tags:
 - akce
 ---
 
-# Tomášek slaví narozeniny
-
-[gallery ids="80735,80736"

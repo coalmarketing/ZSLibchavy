@@ -1,13 +1,87 @@
 ---
 title: 'SOVIČKY: ,,NA NOVÝ ROK O SLEPIČÍ KROK"'
+post_id: '50641'
 date: '2021-01-18T16:19:33.000Z'
 author: Monika Frimlová
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/10.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/11.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/12.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/13.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/14.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/15.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/16.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/17.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/18.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/19.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/2.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/20.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/21.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/22.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/23.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/24.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/25.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/26.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/27.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/28.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/29.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/3.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/30.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/31.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/32.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/33.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/34.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/35.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/36.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/37.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/38.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/4.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/5.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/6.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/7.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/8.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/9.jpeg
+  
 tags:
 - akce
 ---
 
-# SOVIČKY: ,,NA NOVÝ ROK O SLEPIČÍ KROK"
-
-[gallery ids="50642,50643,50644,50645,50646,50647,50648,50649,50650,50651,50652,50653,50654,50655,50656,50657,50658,50659,50660,50661,50662,50663,50664,50665,50666,50667,50668,50669,50670,50671,50672,50673,50674,50675,50676,50677,50678,50679"

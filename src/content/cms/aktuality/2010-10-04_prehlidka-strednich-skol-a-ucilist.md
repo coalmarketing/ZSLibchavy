@@ -1,5 +1,6 @@
 ---
 title: Přehlídka středních škol a učilišť
+post_id: '487'
 date: '2010-10-04T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# Přehlídka středních škol a učilišť
 
 **Přehlídka středních škol a učilišť pro žáky 9.tříd a rodiče**
 

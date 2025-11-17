@@ -1,13 +1,117 @@
 ---
 title: Výlet do Muzea řemesel :-)
+post_id: '71169'
 date: '2022-04-07T20:33:44.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220331_075043.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220331_075047.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220331_075321.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220331_075333.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220331_075346.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220331_083534.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220331_083540.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220331_083547.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220331_083556.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220331_083605.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220331_083612.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220331_083618.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220331_085915.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220331_090256.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220331_090306.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220331_090410.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220331_094428.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220331_094448.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220331_094452.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220331_094500.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220331_102730.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220331_112517.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220331_112527.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220331_112537.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220331_112550.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220331_112621.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220331_113002.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220331_113105.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220331_113126.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220331_113135.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220331_113139.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220331_113147.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220331_113155.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220331_113158.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220331_121403.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220331_121406.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220331_121413.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220331_121422.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220331_121752.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220331_121754.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220331_121757.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220331_121812.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220331_121814.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220331_123204.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220331_123425.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220331_123426.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220331_123438.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220331_123442.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220331_123456.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220331_123500.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220331_123528.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220331_123538.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220403_181402.jpg
+  
 tags:
 - akce
 ---
 
-# Výlet do Muzea řemesel :-)
-
-[gallery ids="71175,71176,71177,71178,71179,71180,71181,71182,71183,71184,71185,71186,71188,71189,71190,71191,71192,71193,71194,71195,71196,71197,71198,71199,71200,71201,71202,71203,71204,71205,71206,71207,71208,71209,71210,71211,71212,71213,71214,71215,71216,71217,71174,71187,71218,71172,71171,71170,71219,71220,71221,71223,71224"

@@ -1,13 +1,83 @@
 ---
 title: Fotky z konce školního roku :-)
+post_id: '76284'
 date: '2022-06-29T14:09:00.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220614_121715.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220614_123809.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220614_124350.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220614_125156.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220614_130602.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_3866.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_3888-2.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_3894-2.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_3908.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_3911-2.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_3922-2.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_3928-kopie.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_3946.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_3957.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_3972.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_3985.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_3999.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_4004.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_4017.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_4039.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_4050.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_4055.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_4070.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_4075.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_4086.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_4103.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_4116.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_4130.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_4141.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_4147.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_4156.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_4169.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_4180.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_4190.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_4193.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_4209.jpg
+  
 tags:
 - akce
 ---
 
-# Fotky z konce školního roku :-)
-
-[gallery ids="76285,76286,76287,76288,76289,76290,76291,76292,76293,76294,76295,76296,76297,76298,76299,76300,76301,76302,76303,76304,76305,76306,76307,76308,76309,76310,76311,76312,76313,76314,76315,76316,76317,76318,76319,76320"

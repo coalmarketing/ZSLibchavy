@@ -1,13 +1,35 @@
 ---
 title: Broučci, hrajeme si a cvičíme
+post_id: '15744'
 date: '2018-11-01T12:19:42.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180907_091311.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180907_091317.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180907_091319.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180907_091321.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180907_091324.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180907_091328.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180907_091331.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180907_091334.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180911_090558.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180911_090602.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180911_090606.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180911_090608.jpg
+  
 tags:
 - akce
 ---
 
-# Broučci, hrajeme si a cvičíme
-
-[gallery ids="15745,15746,15747,15748,15749,15750,15751,15752,15753,15754,15755,15756"

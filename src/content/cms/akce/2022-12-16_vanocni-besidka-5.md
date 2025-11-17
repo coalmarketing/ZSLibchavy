@@ -1,13 +1,79 @@
 ---
 title: vánoční besídka
+post_id: '82100'
 date: '2022-12-16T13:56:10.000Z'
 author: Monika Frimlová
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/1-2.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/10-2.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/10b.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/11-2.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/12-2.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/13-2.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/14-2.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/15-2.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/16-2.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/17-2.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/18-2.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/19-2.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/1b.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/2-2.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/20-2.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/21-2.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/22-2.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/23-2.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/24-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/25-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/26-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/27-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/28-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/29-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/3-2.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/30-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/3b.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/4-2.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/4b.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/5-2.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/6-2.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/7-2.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/8-2.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/9-2.jpeg
+  
 tags:
 - akce
 ---
 
-# vánoční besídka
-
-[gallery ids="82101,82102,82103,82104,82105,82106,82107,82108,82109,82110,82111,82112,82113,82114,82115,82116,82117,82118,82119,82120,82121,82122,82123,82124,82125,82126,82127,82128,82129,82130,82131,82132,82133,82134"

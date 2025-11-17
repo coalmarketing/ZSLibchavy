@@ -1,5 +1,6 @@
 ---
 title: Informace o přijatých žácích do ŠD  2016/2017
+post_id: '603'
 date: '2016-08-28T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Družina
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# Informace o přijatých žácích do ŠD  2016/2017
 
 Kapacita školní družiny je 75 žáků.
 

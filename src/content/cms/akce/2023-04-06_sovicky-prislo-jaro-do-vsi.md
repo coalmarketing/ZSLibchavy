@@ -1,13 +1,129 @@
 ---
 title: 'SOVIČKY: ,,PŘIŠLO JARO DO VSI"'
+post_id: '87364'
 date: '2023-04-06T14:42:54.000Z'
 author: Monika Frimlová
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/10.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/11.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/12.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/13.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/14.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/15.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/16.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/17.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/18.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/19.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/2.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/20.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/21.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/22.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/23.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/24.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/25.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/26.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/27.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/27a.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/28.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/29.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/3.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/30.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/31.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/32.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/33.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/34.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/35.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/36.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/37.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/38.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/39.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/4.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/40.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/41.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/42.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/43.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/44.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/45.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/46.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/47.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/48.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/49.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/5.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/50.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/51.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/52.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/53.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/54.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/54a.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/55.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/56.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/57.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/6.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/7.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/8.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/9.jpeg
+  
 tags:
 - akce
 ---
 
-# SOVIČKY: ,,PŘIŠLO JARO DO VSI"
-
-[gallery ids="87365,87366,87367,87368,87369,87370,87371,87372,87373,87374,87375,87376,87377,87378,87379,87380,87381,87382,87383,87384,87385,87386,87387,87388,87389,87390,87391,87392,87393,87394,87395,87396,87397,87398,87399,87400,87401,87402,87403,87404,87405,87406,87407,87408,87409,87410,87411,87412,87413,87414,87415,87416,87417,87418,87419,87420,87421,87422,87423"

@@ -1,13 +1,55 @@
 ---
 title: Čarujeme s barvičkami
+post_id: '45234'
 date: '2020-11-02T06:23:00.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20201027_100614.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20201027_100638.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20201027_100659.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20201027_100723.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20201027_100830.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20201027_100852.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20201027_100859.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20201027_100944.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20201027_101031.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20201027_101139.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20201027_101159.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20201027_101331.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20201027_101343.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20201027_101353.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20201027_101433.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20201027_101441.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20201027_101538.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20201027_101639.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20201027_101734.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20201027_101805.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20201027_101904.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20201027_101910.jpg
+  
 tags:
 - akce
 ---
 
-# Čarujeme s barvičkami
-
-[gallery ids="45235,45236,45237,45238,45239,45240,45241,45242,45243,45244,45245,45246,45247,45248,45249,45250,45251,45252,45253,45254,45255,45256"

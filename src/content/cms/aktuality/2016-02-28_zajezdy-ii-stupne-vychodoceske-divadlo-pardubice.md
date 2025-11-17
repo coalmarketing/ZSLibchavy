@@ -1,5 +1,6 @@
 ---
 title: Zájezdy II.stupně - Východočeské divadlo Pardubice
+post_id: '296'
 date: '2016-02-28T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# Zájezdy II.stupně - Východočeské divadlo Pardubice
 
 Již od října 2015 se mohou žáci dobrovolně účastnit zájezdů do Východočeského divadla Pardubice. Společně jsme zatím navštívili celkem dvě divadelní představení a také film v Cinema City Pardubice, jenž byl zvolen jako náhradní plán z důvodu nekompatibility programu divadla a našich časových možností.
 

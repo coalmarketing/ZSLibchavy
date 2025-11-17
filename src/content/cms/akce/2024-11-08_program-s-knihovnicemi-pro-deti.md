@@ -1,13 +1,83 @@
 ---
 title: PROGRAM S KNIHOVNICEMI PRO DĚTI
+post_id: '108777'
 date: '2024-11-08T13:23:08.000Z'
 author: Monika Frimlová
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7240.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7241.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7242.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7243.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7244.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7245.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7246.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7247.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7248.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7249.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7250.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7251.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7252.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7253.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7254.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7255.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7256.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7257.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7258.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7259.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7260.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7261.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7262.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7263.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7264.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7265.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7266.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7270.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7272.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7273.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7274.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7275.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7276.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7277.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7280.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7281.jpeg
+  
 tags:
 - akce
 ---
 
-# PROGRAM S KNIHOVNICEMI PRO DĚTI
-
-[gallery ids="108778,108779,108780,108781,108782,108783,108784,108785,108786,108787,108788,108789,108790,108791,108792,108793,108794,108795,108796,108797,108798,108799,108800,108801,108802,108803,108804,108805,108806,108807,108808,108809,108810,108811,108812,108813"

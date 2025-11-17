@@ -1,5 +1,6 @@
 ---
 title: Den otevřených dveří ve firmě Bühler CZ s.r.o. Žam
+post_id: '347'
 date: '2014-11-04T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# Den otevřených dveří ve firmě Bühler CZ s.r.o. Žam
 
 **Vážení rodiče,**
 

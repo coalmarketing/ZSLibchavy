@@ -1,13 +1,31 @@
 ---
 title: Hrátky se zvířátky (Klokánci)
+post_id: '31483'
 date: '2020-02-25T10:54:40.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20200223-WA0002.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20200223-WA0015.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20200223-WA0016.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20200223-WA0017.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20200223-WA0018.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20200223-WA0019.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20200223-WA0020.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20200223-WA0021.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20200223-WA0022.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20200223-WA0023.jpg
+  
 tags:
 - akce
 ---
 
-# Hrátky se zvířátky (Klokánci)
-
-[gallery ids="31484,31485,31486,31487,31488,31489,31490,31491,31492,31493"

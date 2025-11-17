@@ -1,13 +1,55 @@
 ---
 title: 'SOVIČKY: ,,MAMINKA MÁ SVÁTEK, RODINA"'
+post_id: '73142'
 date: '2022-05-13T13:53:59.000Z'
 author: Monika Frimlová
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/10.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/11.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/12.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/13.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/14.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/15.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/16.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/17.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/18.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/19.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/2.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/20.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/21.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/22.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/23.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/24.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/25.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/26.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/4.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/7.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/8.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/9.jpeg
+  
 tags:
 - akce
 ---
 
-# SOVIČKY: ,,MAMINKA MÁ SVÁTEK, RODINA"
-
-[gallery ids="73143,73144,73145,73146,73147,73148,73149,73150,73151,73152,73153,73154,73155,73156,73157,73158,73159,73160,73161,73162,73163,73164"

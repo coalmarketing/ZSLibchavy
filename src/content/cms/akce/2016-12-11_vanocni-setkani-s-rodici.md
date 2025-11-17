@@ -1,5 +1,6 @@
 ---
 title: Vánoční setkání s rodiči
+post_id: '6209'
 date: '2016-12-11T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: MŠ Korálek
@@ -7,7 +8,5 @@ images: []
 tags:
 - akce
 ---
-
-# Vánoční setkání s rodiči
 
 ![](http://zslibchavy.cz/filemanager/files/pul01/DSCF5026.JPG)![](http://zslibchavy.cz/filemanager/files/pul01/DSCF5027.JPG)![](http://zslibchavy.cz/filemanager/files/pul01/DSCF5028.JPG)![](http://zslibchavy.cz/filemanager/files/pul01/DSCF5029.JPG)![](http://zslibchavy.cz/filemanager/files/pul01/DSCF5030.JPG)![](http://zslibchavy.cz/filemanager/files/pul01/DSCF5032.JPG)![](http://zslibchavy.cz/filemanager/files/pul01/DSCF5033.JPG)![](http://zslibchavy.cz/filemanager/files/pul01/DSCF5034.JPG)![](http://zslibchavy.cz/filemanager/files/pul01/DSCF5035.JPG)![](http://zslibchavy.cz/filemanager/files/pul01/DSCF5036.JPG)![](http://zslibchavy.cz/filemanager/files/pul01/DSCF5039.JPG)![](http://zslibchavy.cz/filemanager/files/pul01/DSCF5040.JPG)![](http://zslibchavy.cz/filemanager/files/pul01/DSCF5041.JPG)![](http://zslibchavy.cz/filemanager/files/pul01/DSCF5042.JPG)![](http://zslibchavy.cz/filemanager/files/pul01/DSCF5043.JPG)![](http://zslibchavy.cz/filemanager/files/pul01/DSCF5044.JPG)![](http://zslibchavy.cz/filemanager/files/pul01/DSCF5045.JPG)![](http://zslibchavy.cz/filemanager/files/pul01/DSCF5046.JPG)![](http://zslibchavy.cz/filemanager/files/pul01/DSCF5047.JPG)![](http://zslibchavy.cz/filemanager/files/pul01/DSCF5048.JPG)![](http://zslibchavy.cz/filemanager/files/pul01/DSCF5049.JPG)![](http://zslibchavy.cz/filemanager/files/pul01/DSCF5025.JPG)![](http://zslibchavy.cz/filemanager/files/pul01/DSCF5050.JPG)![](http://zslibchavy.cz/filemanager/files/pul01/DSCF5051.JPG)![](http://zslibchavy.cz/filemanager/files/pul01/DSCF5052.JPG)![](http://zslibchavy.cz/filemanager/files/pul01/DSCF5053.JPG)![](http://zslibchavy.cz/filemanager/files/pul01/DSCF5054.JPG)![](http://zslibchavy.cz/filemanager/files/pul01/DSCF5056.JPG)![](http://zslibchavy.cz/filemanager/files/pul01/DSCF5057.JPG)![](http://zslibchavy.cz/filemanager/files/pul01/DSCF5058.JPG)![](http://zslibchavy.cz/filemanager/files/pul01/DSCF5059.JPG)![](http://zslibchavy.cz/filemanager/files/pul01/DSCF5060.JPG)![](http://zslibchavy.cz/filemanager/files/pul01/DSCF5061.JPG)![](http://zslibchavy.cz/filemanager/files/pul01/DSCF5062.JPG)![](http://zslibchavy.cz/filemanager/files/pul01/DSCF5063.JPG)![](http://zslibchavy.cz/filemanager/files/pul01/DSCF5064.JPG)![](http://zslibchavy.cz/filemanager/files/pul01/DSCF5065.JPG)

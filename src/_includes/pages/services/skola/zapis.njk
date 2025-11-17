@@ -1,0 +1,31 @@
+{% extends "layouts/base.njk" %}
+
+{% block body %}
+    {% include "sections/landing.njk" %}
+
+    <!-- SIDEBAR + CONTENT -->
+    <div class="~py-16/24 ~px-4/8 flex items-start gap-16 bg-white">
+        <div class="container m-auto flex max-xl:flex-col items-start gap-16">
+            {% include "sections/sidebar.njk" %}
+
+            <!-- INNER CONTENT -->
+            <div class="flex-1 ~space-y-16/24">
+                <!-- SECTION -->
+                <section>
+                    <div class="flex flex-col gap-8">
+                        <!-- TOPPER + HEADING -->
+                        <div class="flex flex-col ~gap-2/3">
+                            <span class="topper text-category" data-category="{{ category }}">{{ contentOne.topper }}</span>
+                            <h2 class="~text-2xl/4xl text-gray-950 dark:text-white font-extrabold">{{ contentOne.heading }}</h2>
+                        </div>
+
+                        {% set files = collections.zapis %}
+                        {% include "components/files.njk" %}
+                    </div>
+                </section>
+            </div>
+        </div>
+    </div>
+
+    {% include "sections/cta.njk" %}
+{% endblock body %}

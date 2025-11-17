@@ -1,5 +1,6 @@
 ---
 title: Výběrové řízení
+post_id: '292'
 date: '2016-04-12T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# Výběrové řízení 
 
 **Základní škola a mateřská škola Libchavy vyhlašuje výběrové řízení na _pozici učitele/učitelky I. stupně_**
 

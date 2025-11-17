@@ -1,5 +1,6 @@
 ---
 title: Provoz ŠD o velikonočních prázdninách
+post_id: '613'
 date: '2012-03-28T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Družina
@@ -8,4 +9,3 @@ tags:
 - aktuality
 ---
 
-# Provoz ŠD o velikonočních prázdninách

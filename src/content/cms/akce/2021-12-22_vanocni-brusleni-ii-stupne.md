@@ -1,13 +1,113 @@
 ---
 title: Vánoční bruslení II. stupně
+post_id: '66021'
 date: '2021-12-22T15:36:19.000Z'
 author: PaedDr.Hana Šťovíčková
 section: Škola
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0001.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0002.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0003.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0004.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0005.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0006.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0008.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0009.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0011.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0013.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0014.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0016.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0018.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0019.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0021.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0025.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0027.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0028.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0029.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0030.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0031.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0032.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0033.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0034.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0037.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0038.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0039.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0040.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0042.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0043.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0044.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0045.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0046.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0047.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0048.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0049.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0052.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0054.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0055.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0057.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0059.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0061.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0062.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0065.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0071.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0072.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0076.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0078.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0080.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0082.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0083.jpg
+  
 tags:
 - akce
 ---
 
-# Vánoční bruslení II. stupně
-
-[gallery ids="66022,66023,66024,66025,66026,66027,66028,66029,66030,66032,66033,66034,66035,66036,66037,66039,66041,66042,66043,66044,66045,66046,66047,66048,66049,66050,66051,66052,66053,66054,66055,66056,66057,66058,66059,66060,66061,66062,66063,66064,66066,66068,66069,66071,66073,66074,66075,66076,66077,66078,66079"

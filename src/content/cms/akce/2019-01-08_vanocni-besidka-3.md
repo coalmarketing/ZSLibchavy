@@ -1,13 +1,187 @@
 ---
 title: Vánoční besídka
+post_id: '17965'
 date: '2019-01-08T07:19:33.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4548.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4552.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4555.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4557.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4558.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4559.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4560.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4561.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4563.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4565.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4572.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4577.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4578.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4580.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4581.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4584.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4587.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4588.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4591.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4602.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4603.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4607.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4611.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4614.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4617.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4619.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4622.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4625.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4627.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4628.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4634.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4638.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4642.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4646.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4649.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4650.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4651.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4652.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4654.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4655.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4657.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4660.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4661.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4667.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4668.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4669.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4672.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4673.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4674.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4675.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4676.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4677.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4682.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4683.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4684.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4686.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4688.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4690.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4691.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4692.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4693.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4696.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4697.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4698.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4700.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4701.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4702.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4703.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4704.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4709.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4710.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4711.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4713.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4714.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4715.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4718.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4720.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4723.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4724.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4725.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4726.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4727.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4728.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4729.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4730.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4731.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4740.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_4746.jpg
+  
 tags:
 - akce
 ---
 
-# Vánoční besídka
-
-[gallery ids="17966,17967,17968,17969,17970,17971,17972,17973,17974,17975,17976,17977,17978,17979,17980,17981,17982,17983,17984,17985,17986,17987,17988,17989,17990,17991,17992,17993,17994,17995,17996,17997,17998,17999,18000,18001,18002,18003,18004,18005,18006,18007,18008,18009,18010,18011,18012,18013,18014,18015,18016,18017,18018,18019,18020,18021,18022,18023,18024,18025,18026,18027,18028,18029,18030,18031,18032,18033,18034,18035,18036,18037,18038,18039,18040,18041,18042,18043,18044,18045,18046,18047,18048,18049,18050,18051,18052,18053"

@@ -1,5 +1,6 @@
 ---
 title: Výtvarná dílna - TEA BAG FOLDING
+post_id: '486'
 date: '2010-10-08T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# Výtvarná dílna - TEA BAG FOLDING
 
 Srdečně Vás zveme na 
 

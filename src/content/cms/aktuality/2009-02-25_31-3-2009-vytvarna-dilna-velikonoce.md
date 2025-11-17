@@ -1,5 +1,6 @@
 ---
 title: 31.3.2009 - výtvarná dílna - Velikonoce
+post_id: '565'
 date: '2009-02-25T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# 31.3.2009 - výtvarná dílna - Velikonoce
 
 ![](/fckeditor/editor/images/smiley/msn/lightbulb.gif)V úterý 31. března 2009 od 15,30 hodin proběhne další z řady výtvarných dílen pro žáky, rodiče a zájemce z řad veřejnosti.
 

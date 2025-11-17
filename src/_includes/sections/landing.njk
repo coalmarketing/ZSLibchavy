@@ -42,30 +42,4 @@
       {% endfor %}
     </ul>
   </div>
-
-  <!-- BACKGROUND IMAGE -->
-  <picture>
-    <!-- MOBILE IMAGE -->
-    <source media="(max-width: 600px)" srcset="{% getUrl landing.image.url | avif %}" type="image/avif">
-    <source media="(max-width: 600px)" srcset="{% getUrl landing.image.url | webp %}" type="image/webp">
-    <source media="(max-width: 600px)" srcset="{% getUrl landing.image.url | jpeg %}" type="image/jpeg">
-    <!-- TABLET IMAGE -->
-    <source media="(max-width: 1024px)" srcset="{% getUrl landing.image.url | avif %}" type="image/avif">
-    <source media="(max-width: 1024px)" srcset="{% getUrl landing.image.url | webp %}" type="image/webp">
-    <source media="(max-width: 1024px)" srcset="{% getUrl landing.image.url | jpeg %}" type="image/jpeg">
-    <!-- DESKTOP IMAGE -->
-    <source media="(min-width: 1024px)" srcset="{% getUrl landing.image.url | resize({ width: 2880, height: 864 }) | avif %}" type="image/avif">
-    <source media="(min-width: 1024px)" srcset="{% getUrl landing.image.url | resize({ width: 2880, height: 864 }) | webp %}" type="image/webp">
-    <source media="(min-width: 1024px)" srcset="{% getUrl landing.image.url | resize({ width: 2880, height: 864 }) | jpeg %}" type="image/jpeg">
-    <img
-      class="object-cover absolute top-0 left-0 h-full w-full -z-20"
-      src="{% getUrl landing.image.url | resize({ width: 2880, height: 864 }) | jpeg %}"
-      alt="{{ landing.image.alt }}"
-      width="1920"
-      height="576"
-      loading="eager"
-      decoding="async"
-      aria-hidden="true"
-      draggable="false">
-  </picture>
 </section>

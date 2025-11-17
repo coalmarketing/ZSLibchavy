@@ -1,13 +1,51 @@
 ---
 title: Krabice od bot
+post_id: '64532'
 date: '2021-11-29T12:22:43.000Z'
 author: Martina Ferklová
 section: MŠ Korálek
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/S0488141.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0498142.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0508143.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0518144.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0528145.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0558148.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0568149.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0578150.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0588151.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0598152.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0608153.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0618154.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0628155.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0658158.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0668159.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0678160.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0688161.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0698162.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0708163.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0728165.jpg
+  
 tags:
 - akce
 ---
 
-# Krabice od bot
-
-[gallery ids="64533,64534,64535,64536,64537,64540,64541,64542,64543,64544,64545,64546,64547,64550,64551,64552,64553,64554,64555,64556"

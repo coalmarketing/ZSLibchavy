@@ -13,13 +13,13 @@
             {% for item in sidebar.items %}
                 <li class="group/li relative flex flex-col">
                     <a href="{{ item.url }}" class="flex w-full py-1 px-4 text-gray-800 dark:text-gray-200 hover:text-black dark:hover:text-white rounded-full" data-category="{{ category }}"
-                    {%- if item.url + "/" === page.url -%}aria-current="page"{%- endif -%}>
+                    {%- if page.url.includes(item.url + "/") -%}aria-current="page"{%- endif -%}>
                         {{ item.text }}
                     </a>
 
                     {# Subitems have their own <ul> list #}
                     {% if item.subitems %}
-                        <details class="group/details" {% if item.url + "/" === page.url -%} open {%- endif %}>
+                        <details class="group/details" {% if page.url.includes(item.url + "/") -%} open {%- endif %}>
                             <summary class="absolute top-1.5 right-4 list-none" aria-controls="{{ item.url }}-submenu">
                                 <svg xmlns="http://www.w3.org/2000/svg" height="20" width="20" viewBox="0 -960 960 960" fill="currentColor" class="text-gray-800 dark:text-gray-200 transition-transform duration-300 group-open/details:rotate-90">
                                     <path d="M504-480 320-664l56-56 240 240-240 240-56-56 184-184Z"/>

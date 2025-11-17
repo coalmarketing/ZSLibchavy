@@ -1,13 +1,61 @@
 ---
 title: 'SOVIČKY: ROZVOJ ČTENÁŘSKÉ GRAMOTNOSTI V MŠ'
+post_id: '100238'
 date: '2024-03-04T14:19:21.000Z'
 author: Monika Frimlová
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/10.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/11.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/12.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/13.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/14.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/15.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/16.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/17.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/18.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/19.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/1B.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/2.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/20.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/21.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/22.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/24.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/25.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/3.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/4.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/5.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/6.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/7.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/8.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/9.jpeg
+  
 tags:
 - akce
 ---
 
-# SOVIČKY: ROZVOJ ČTENÁŘSKÉ GRAMOTNOSTI V MŠ
-
-[gallery ids="100239,100240,100241,100242,100243,100244,100245,100246,100247,100248,100249,100250,100251,100252,100253,100254,100255,100256,100257,100258,100259,100260,100261,100262,100263"

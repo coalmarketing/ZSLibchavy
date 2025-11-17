@@ -1,5 +1,6 @@
 ---
 title: DEN  OTEVŘENÝCH  DVEŘÍ  V  1.TŘÍDĚ
+post_id: '478'
 date: '2011-01-03T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# DEN  OTEVŘENÝCH  DVEŘÍ  V  1.TŘÍDĚ
 
 **Zveme **
 

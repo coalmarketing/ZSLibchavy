@@ -1,0 +1,35 @@
+---js
+const layout = "pages/posts-page.njk";
+
+const title = 'Efektivní weby na míru';
+const description = 'V Senoweb se specializujeme na tvorbu webových stránek na míru. Nepoužíváme koupené šablony, nástroje pro automatizované budování webů ani nástroje, které by váš web zahlcovali zbytečným kódem a tím vaší stránku zpomalovaly.';
+const permalink = '/spolecne/probehle-akce/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{% endif %}';
+  
+const category = 'spolecne';
+
+const pagination = { 
+    data: 'collections.akce',
+    size: 30,
+    reverse: true,
+    alias: 'posts'
+  };
+  
+const landing = {
+  badge: 'Společné',
+  heading: 'Proběhlé akce',
+  breadcrumbs: [
+    { title: 'Domů', url: '/' },
+    { title: 'Společné' },
+    { title: 'Proběhlé akce' }
+  ],
+  image: {
+    url: '/assets/images/services/skola/landing.jpg',
+    alt: 'Jazyková učebna'
+  }
+};
+
+const contentOne = {
+  topper: 'Akce',
+  heading: 'Proběhlé akce a aktivity'
+};
+---

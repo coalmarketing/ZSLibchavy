@@ -1,5 +1,6 @@
 ---
 title: Hřišťátko MÍČKOVNA
+post_id: '5407'
 date: '2012-04-25T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Družina
@@ -8,4 +9,3 @@ tags:
 - akce
 ---
 
-# Hřišťátko MÍČKOVNA

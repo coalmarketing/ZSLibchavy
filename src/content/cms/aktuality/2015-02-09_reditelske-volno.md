@@ -1,5 +1,6 @@
 ---
 title: ředitelské volno
+post_id: '334'
 date: '2015-02-09T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# ředitelské volno
 
 **Vážení rodiče, oznamuji Vám, že**
 

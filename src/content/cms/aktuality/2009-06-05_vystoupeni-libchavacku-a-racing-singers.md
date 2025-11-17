@@ -1,5 +1,6 @@
 ---
 title: Vystoupení  LIBCHAVÁČKU  a  RACING  SINGERS
+post_id: '532'
 date: '2009-06-05T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# Vystoupení  LIBCHAVÁČKU  a  RACING  SINGERS
 
 Vážení rodiče,
 

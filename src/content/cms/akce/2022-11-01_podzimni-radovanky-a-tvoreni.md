@@ -1,13 +1,23 @@
 ---
 title: Podzimní radovánky a tvoření
+post_id: '79767'
 date: '2022-11-01T13:09:34.000Z'
 author: Martina Ferklová
 section: MŠ Korálek
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/20221031_124022.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20221018-WA0000.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20221018-WA0004.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20221018-WA0005.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20221018-WA0007.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20221018-WA0010.jpg
+  
 tags:
 - akce
 ---
 
-# Podzimní radovánky a tvoření
-
-[gallery ids="79768,79769,79770,79771,79772,79773,79774"

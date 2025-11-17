@@ -1,5 +1,6 @@
 ---
 title: Pozvánka pro rodiče a žáky z 8. a 9. tříd
+post_id: '373'
 date: '2013-11-13T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# Pozvánka pro rodiče a žáky z 8. a 9. tříd
 
 Vážení rodiče,
 

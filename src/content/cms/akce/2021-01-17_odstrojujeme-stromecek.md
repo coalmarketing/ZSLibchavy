@@ -1,13 +1,29 @@
 ---
 title: '"Odstrojujeme stromeček"'
+post_id: '50571'
 date: '2021-01-17T11:03:40.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210115_141217.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210115_141227.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210115_141236.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210115_141243.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210115_141337.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210115_141733.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210115_141738.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210115_141742.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210115_141748.jpg
+  
 tags:
 - akce
 ---
 
-# "Odstrojujeme stromeček"
-
-[gallery ids="50577,50578,50576,50572,50573,50574,50575,50580,50579"

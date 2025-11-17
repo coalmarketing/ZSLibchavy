@@ -1,5 +1,6 @@
 ---
 title: Nadílka v MŠ
+post_id: '6001'
 date: '2015-12-09T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: MŠ Korálek
@@ -8,4 +9,3 @@ tags:
 - akce
 ---
 
-# Nadílka v MŠ

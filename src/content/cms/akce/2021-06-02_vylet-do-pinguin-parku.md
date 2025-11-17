@@ -1,13 +1,225 @@
 ---
 title: Výlet do Pinguin parku
+post_id: '58083'
 date: '2021-06-02T08:13:25.000Z'
 author: Martina Ferklová
 section: MŠ Korálek
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6670.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6671.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6672.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6673.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6674.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6675.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6676.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6677.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6678.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6679.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6680.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6681.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6682.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6683.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6684.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6685.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6686.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6687.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6688.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6689.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6691.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6692.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6693.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6694.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6695.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6696.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6698.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6699.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6700.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6701.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6702.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6703.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6704.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6705.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6706.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6707.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6708.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6709.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6710.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6711.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6712.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6713.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6714.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6715.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6716.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6717.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6718.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6719.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6720.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6722.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6723.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6724.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6725.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6726.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6727.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6728.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6729.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6730.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6731.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6732.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6733.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6734.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6735.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6736.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6737.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6738.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6739.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6740.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6741.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6743.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6745.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6746.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6747.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6748.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6749.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6750.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6751.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6752.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6753.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6754.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6755.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6756.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6757.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6758.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6759.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6760.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6761.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6762.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6763.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6764.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6765.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6766.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6767.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6768.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6769.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6770.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6771.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6772.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6773.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6774.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6775.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6777.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6778.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6779.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6780.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6781.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6782.jpg
+  
 tags:
 - akce
 ---
 
-# Výlet do Pinguin parku
-
-[gallery ids="58084,58085,58086,58087,58088,58089,58090,58091,58092,58093,58094,58095,58096,58097,58098,58099,58100,58101,58102,58103,58104,58105,58106,58107,58108,58109,58110,58111,58112,58113,58114,58115,58116,58117,58118,58119,58120,58121,58122,58123,58124,58125,58126,58127,58128,58129,58130,58131,58132,58133,58134,58135,58136,58137,58138,58139,58140,58141,58142,58143,58144,58145,58146,58147,58148,58149,58150,58151,58152,58153,58154,58155,58156,58157,58158,58159,58160,58161,58162,58163,58164,58165,58166,58167,58168,58169,58170,58171,58172,58173,58174,58175,58176,58177,58178,58179,58180,58181,58182,58183,58184,58185,58186,58187,58188,58189,58190"

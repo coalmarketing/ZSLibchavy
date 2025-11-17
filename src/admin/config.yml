@@ -12,12 +12,73 @@ logo:
 locale: "cs"
 
 # Where should uploaded files be saved
-media_folder: "src/assets/images/cms"
+media_folder: "src/assets/cms"
 
 # Where should media be served, relative to the base of the built site
-public_folder: "/assets/images/cms"
+public_folder: "/assets/cms"
 
 collections:
+  # ======================== #
+  # ===== STRÁNKY WEBU ===== #
+  # ======================== #
+  - name: "pages"
+    label: "Stránky webu"
+    label_singular: "Stránka webu"
+    folder: "src/content/cms/pages"
+    create: true
+    delete: false
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
+    editor:
+      preview: true
+
+    view_filters:
+      - label: "Škola"
+        field: "section"
+        pattern: "Škola"
+
+      - label: "MŠ Korálek"
+        field: "section"
+        pattern: "MŠ Korálek"
+
+      - label: "MŠ Kamarád"
+        field: "section"
+        pattern: "MŠ Kamarád"
+
+      - label: "Družina"
+        field: "section"
+        pattern: "Družina"
+
+      - label: "Jídelna"
+        field: "section"
+        pattern: "Jídelna"
+
+      - label: "Společné"
+        field: "section"
+        pattern: "Společné"
+
+    view_groups:
+      - label: "Sekce webu"
+        field: "section"
+
+    fields:
+      - { label: "Název podstránky", name: "title", widget: "string" }
+      - { label: "Identifikátor", name: "key", widget: "string" }
+
+      - label: "Sekce webu"
+        name: "section"
+        widget: "select"
+        required: true
+        options:
+          - { label: "Škola", value: "Škola" }
+          - { label: "MŠ Korálek", value: "MŠ Korálek" }
+          - { label: "MŠ Kamarád", value: "MŠ Kamarád" }
+          - { label: "Družina", value: "Družina" }
+          - { label: "Jídelna", value: "Jídelna" }
+          - { label: "Společné", value: "Společné" }
+
+      - { label: "Obsah", name: "body", widget: "markdown" }
+      - { label: "Štítky", name: "tags", widget: "hidden", default: ["page"] }
+
   # ===================== #
   # ===== AKTUALITY ===== #
   # ===================== #
@@ -27,7 +88,7 @@ collections:
     folder: "src/content/cms/aktuality"
     create: true
     slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
-    summary: "{{title }} - {{date | date('DD. MM. YYYY')}}"
+    summary: "{{ title }} - {{ date | date('DD. MM. YYYY') }}"
 
     view_filters:
       - label: "Škola"
@@ -74,16 +135,30 @@ collections:
         label_singular: "Obrázek"
         name: "images"
         widget: "list"
+        max: 10
         minimize_collapsed: true
         fields:
-          - { label: "Obrázek", name: image, widget: image, choose_url: false }
+          - {
+              label: "Obrázek",
+              name: "url",
+              widget: "image",
+              choose_url: false,
+            }
           - {
               label: "Popis obrázku",
-              name: "imageAlt",
+              name: "alt",
               widget: "string",
               hint: "Popište, co je na obrázku. Slouží k validnímu SEO příspěvku.",
+              required: false,
             }
 
+      - {
+          label: "Odkaz pro zobrazení alba",
+          name: "albumUrl",
+          widget: "string",
+          required: false,
+          hint: "URL odkaz sloužící k zobrazení celého fotoalba na Google Disku",
+        }
       - { label: "Obsah", name: "body", widget: "markdown" }
       - {
           label: "Štítky",
@@ -101,7 +176,7 @@ collections:
     folder: "src/content/cms/akce"
     create: true
     slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
-    summary: "{{title }} - {{date | date('DD. MM. YYYY')}}"
+    summary: "{{ title }} - {{ date | date('DD. MM. YYYY') }}"
 
     view_filters:
       - label: "Škola"
@@ -143,16 +218,30 @@ collections:
         label_singular: "Obrázek"
         name: "images"
         widget: "list"
+        max: 10
         minimize_collapsed: true
         fields:
-          - { label: "Obrázek", name: image, widget: image, choose_url: false }
+          - {
+              label: "Obrázek",
+              name: "url",
+              widget: "image",
+              choose_url: false,
+            }
           - {
               label: "Popis obrázku",
-              name: "imageAlt",
+              name: "alt",
               widget: "string",
               hint: "Popište, co je na obrázku. Slouží k validnímu SEO příspěvku.",
+              required: false,
             }
 
+      - {
+          label: "Odkaz pro zobrazení alba",
+          name: "albumUrl",
+          widget: "string",
+          required: false,
+          hint: "URL odkaz sloužící k zobrazení celého fotoalba na Google Disku",
+        }
       - { label: "Obsah", name: "body", widget: "markdown" }
       - { label: "Štítky", name: "tags", widget: "hidden", default: ["akce"] }
 
@@ -165,6 +254,8 @@ collections:
     folder: "src/content/cms/dokumenty"
     create: true
     slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
+    editor:
+      preview: false
 
     view_filters:
       - label: "Škola"
@@ -195,6 +286,9 @@ collections:
       - label: "Sekce webu"
         field: "section"
 
+      - label: "Skupina"
+        field: "group"
+
     fields:
       - {
           label: "Název dokumentu",
@@ -202,15 +296,10 @@ collections:
           widget: "string",
           hint: "Zadejte srozumitelný název, který se zobrazí na webu.",
         }
-      - {
-          label: "Soubor",
-          name: "file",
-          widget: "file",
-          hint: "Vyberte soubor ke stažení (PDF, DOCX, XLSX, atd.).",
-        }
       - label: "Sekce webu"
         name: "section"
         widget: "select"
+        multiple: true
         required: true
         options:
           - { label: "Škola", value: "Škola" }
@@ -220,7 +309,20 @@ collections:
           - { label: "Jídelna", value: "Jídelna" }
           - { label: "Obecné", value: "Obecné" }
 
-      - { label: "Datum zveřejnění", name: "date", widget: "datetime" }
+      - {
+          label: "Skupina",
+          name: "group",
+          widget: "string",
+          required: false,
+          hint: "Volitelná skupina, do které soubor patří. Pokud skupinu vyplníte, soubor se zobrazí v graficky oddělené skupině na webu.",
+        }
+      - { label: "Soubor", name: "url", widget: "file" }
+      - {
+          label: "Datum zveřejnění",
+          name: "date",
+          widget: "datetime",
+          required: false,
+        }
       - {
           label: "Štítky",
           name: "tags",
@@ -237,6 +339,9 @@ collections:
     folder: "src/content/cms/projekty"
     create: true
     slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
+    summary: "{{ title }} | {{ implementationDate }}"
+    editor:
+      preview: false
 
     view_filters:
       - label: "Škola"
@@ -264,6 +369,7 @@ collections:
       - label: "Sekce webu"
         name: "section"
         widget: "select"
+        multiple: true
         required: true
         options:
           - { label: "Škola", value: "Škola" }
@@ -279,7 +385,7 @@ collections:
         }
       - {
           label: "Datum realizace",
-          name: "date",
+          name: "implementationDate",
           widget: "string",
           required: false,
         }
@@ -289,17 +395,24 @@ collections:
         label_singular: "Obrázek"
         name: "images"
         widget: "list"
+        max: 10
         minimize_collapsed: true
         fields:
-          - { label: "Obrázek", name: image, widget: image, choose_url: false }
+          - {
+              label: "Obrázek",
+              name: "url",
+              widget: "image",
+              choose_url: false,
+            }
           - {
               label: "Popis obrázku",
-              name: "imageAlt",
+              name: "alt",
               widget: "string",
               hint: "Popište, co je na obrázku. Slouží k validnímu SEO příspěvku.",
+              required: false,
             }
 
-      - { label: "Obsah", name: "body", widget: "markdown" }
+      - { label: "Obsah", name: "body", widget: "markdown", required: false }
 
       - {
           label: "Štítky",
@@ -317,6 +430,8 @@ collections:
     folder: "src/content/cms/zamestnanci"
     create: true
     slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
+    editor:
+      preview: false
 
     view_filters:
       - label: "Škola"
@@ -342,6 +457,9 @@ collections:
     view_groups:
       - label: "Sekce webu"
         field: "section"
+
+      - label: "Skupina"
+        field: "group"
 
     fields:
       - { label: "Jméno", name: "title", widget: "string" }
@@ -382,3 +500,69 @@ collections:
           widget: "hidden",
           default: ["zamestnanci"],
         }
+
+  # ======================== #
+  # ===== ÚŘEDNÍ DESKA ===== #
+  # ======================== #
+  - name: "deska"
+    label: "Úřední deska"
+    label_singular: "Úřední deska"
+    folder: "src/content/cms/deska"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
+    editor:
+      preview: false
+
+    view_groups:
+      - label: "Skupina"
+        field: "group"
+
+    fields:
+      - {
+          label: "Název",
+          name: "title",
+          widget: "string",
+          hint: "Zadejte srozumitelný název, který se zobrazí na webu.",
+        }
+      - {
+          label: "Skupina",
+          name: "group",
+          widget: "string",
+          required: false,
+          hint: "Volitelná skupina, do které soubor patří. Pokud skupinu vyplníte, soubor se zobrazí v graficky oddělené skupině na webu.",
+        }
+      - { label: "Soubor", name: "url", widget: "file" }
+      - { label: "Štítky", name: "tags", widget: "hidden", default: ["deska"] }
+
+  # =============================== #
+  # ===== ZÁPIS DO 1. ROČNÍKU ===== #
+  # =============================== #
+  - name: "zapis"
+    label: "Zápis do 1. ročníku"
+    label_singular: "Zápis do 1. ročníku"
+    folder: "src/content/cms/zapis"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
+    editor:
+      preview: false
+
+    view_groups:
+      - label: "Skupina"
+        field: "group"
+
+    fields:
+      - {
+          label: "Název",
+          name: "title",
+          widget: "string",
+          hint: "Zadejte srozumitelný název, který se zobrazí na webu.",
+        }
+      - {
+          label: "Skupina",
+          name: "group",
+          widget: "string",
+          required: false,
+          hint: "Volitelná skupina, do které soubor patří. Pokud skupinu vyplníte, soubor se zobrazí v graficky oddělené skupině na webu.",
+        }
+      - { label: "Soubor", name: "url", widget: "file" }
+      - { label: "Štítky", name: "tags", widget: "hidden", default: ["zapis"] }

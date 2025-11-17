@@ -1,5 +1,6 @@
 ---
 title: Soutěž NAMALUJ ZMRZLINOVÝ SVĚT
+post_id: '493'
 date: '2010-05-28T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# Soutěž NAMALUJ ZMRZLINOVÝ SVĚT
 
 Žáci naší školy se zapojili do výtvarné **soutěže o zajímavé ceny**, jejichž výsledky můžete v hlasování na internetu ovlivnit také VY!
 

@@ -1,13 +1,43 @@
 ---
 title: 'Broučci: užíváme si prvního sněhu a stavíme sněhuláky :-)'
+post_id: '50369'
 date: '2021-01-12T17:45:46.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20210106-WA0000.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20210106-WA0001.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20210106-WA0003.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20210106-WA0004.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20210106-WA0005.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20210106-WA0006.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20210106-WA0007.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20210106-WA0008.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20210106-WA0009.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20210106-WA0010.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20210106-WA0012.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20210106-WA0013.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20210106-WA0014.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20210106-WA0015.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210106_200244.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210106_200351.jpg
+  
 tags:
 - akce
 ---
 
-# Broučci: užíváme si prvního sněhu a stavíme sněhuláky :-)
-
-[gallery ids="50370,50371,50372,50373,50374,50375,50376,50377,50378,50379,50380,50381,50382,50383,50384,50385"

@@ -1,5 +1,6 @@
 ---
 title: Školička před školou
+post_id: '467'
 date: '2011-04-03T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# Školička před školou
 
 ![](/fckeditor/editor/images/smiley/msn/38.gif)Milí předškoláci, 
 

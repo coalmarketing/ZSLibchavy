@@ -1,13 +1,183 @@
 ---
 title: Bublinkohraní a loučení s předškoláky
+post_id: '59662'
 date: '2021-06-18T07:19:34.000Z'
 author: Martina Ferklová
 section: MŠ Korálek
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6891.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6892.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6893.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6894.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6895.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6896.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6897.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6899.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6900.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6901.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6902.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6903.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6904.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6905.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6907.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6908.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6909.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6910.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6911.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6912.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6913.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6914.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6915.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6916.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6917.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6918.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6919.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6920.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6921.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6922.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6924.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6925.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6926.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6927.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6928.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6929.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6930.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6931.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6932.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6933.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6934.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6935.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6937.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6938.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6939.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6940.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6941.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6942.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6943.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6944.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6945.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6946.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6947.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6948.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6950.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6951.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6952.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6954.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6955.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6957.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6958.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6960.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6962.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6964.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6965.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6966.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6967.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6968.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6969.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6970.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6971.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6972.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6973.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6974.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6975.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6976.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6977.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6979.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6980.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6981.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6982.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6983.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6984.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6985.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6986.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6987.jpg
+  
 tags:
 - akce
 ---
 
-# Bublinkohraní a loučení s předškoláky
-
-[gallery ids="59663,59664,59665,59666,59667,59668,59669,59670,59671,59672,59673,59674,59675,59676,59677,59678,59679,59680,59681,59682,59683,59684,59685,59686,59687,59688,59689,59690,59691,59692,59693,59694,59695,59696,59697,59698,59699,59700,59701,59702,59703,59704,59705,59706,59707,59708,59709,59710,59711,59712,59713,59714,59715,59716,59717,59718,59719,59720,59721,59722,59723,59724,59725,59726,59727,59728,59729,59730,59731,59732,59733,59734,59735,59736,59737,59738,59739,59740,59741,59742,59743,59744,59745,59746,59747,59748"

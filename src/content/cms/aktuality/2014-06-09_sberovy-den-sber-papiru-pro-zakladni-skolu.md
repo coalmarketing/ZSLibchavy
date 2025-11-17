@@ -1,5 +1,6 @@
 ---
 title: Sběrový den – sběr papíru pro základní školu
+post_id: '356'
 date: '2014-06-09T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# Sběrový den – sběr papíru pro základní školu 
 
 Ve čtvrtek 26. 6. pořádá naše škola již třetí sběrový den. Touto akcí chceme opět oslovit občany obce a nabídnout jim možnost zbavit se starého papíru a současně při tom pomoci naší škole.
 

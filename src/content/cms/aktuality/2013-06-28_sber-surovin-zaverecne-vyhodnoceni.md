@@ -1,5 +1,6 @@
 ---
 title: Sběr surovin - závěrečné vyhodnocení
+post_id: '386'
 date: '2013-06-28T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# Sběr surovin - závěrečné vyhodnocení
 
 V letošním školním roce jsme ve škole **sesbírali rekordních 20 940 kilogramů starého papíru**. Průměr na jednoho žáka naší školy tak činí téměř 120 kilogramů. Toto množství je opět vyšší, než v loňském rekordním školním roce. **Recyklace, tedy znovunavrácení do oběhu, takového množství papíru znamená záchranu přibližně 1 260 stromů v naší přírodě** (1 tuna recyklovaného papíru nahradí přibližně 60 stromů). V souvislosti s vývojem na trhu, kdy výrazně vzrostly výkupní ceny druhotných surovin, můžeme i finančně hovořit o nejúspěšnějším roce ve sběru papíru. Letos jsme **sběrem starého papíru vydělali pro naši školu 34 305,- Kč**. Připočteme-li k tomu **1 915,- Kč** za **126 kg sušené pomerančové a citrónové kůry** **a 893,- Kč** za **58 kg hliníku**, který žáci sbírali v každé z našich tříd, dostáváme se k sumě **37 113,- Kč**, která je pro naši školu velmi významná. K ochraně prostředí kolem nás přispíváme také **sběrem použitých baterií**, kterých jsme letos odevzdali **51 kg**, a také **sběrem vysloužilých drobných elektrozařízení**, kterých jsme odevzdali **28 kg**. Za získané body jsme získali papír do tiskáren a rukavici na softball.
 

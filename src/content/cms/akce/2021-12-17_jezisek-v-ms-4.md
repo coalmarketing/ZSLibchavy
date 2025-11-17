@@ -1,13 +1,131 @@
 ---
 title: Ježíšek v MŠ :-)
+post_id: '65667'
 date: '2021-12-17T07:38:45.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_090830.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_090841.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_090846.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_091026.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_091044.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_091300.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_091304.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_091308.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_091443.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_091507.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_091511.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_091520.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_091539.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_091545.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_091616.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_091623.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_091631.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_091652.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_091709.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_091745.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_091801.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_091816.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_091837.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_091844.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_091856.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_091925.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_091929.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_091935.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_091952.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_092001.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_092031.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_092045.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_092053.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_092111.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_092114.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_092121.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_092134.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_092143.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_092147.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_092210.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_092212.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_092225.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_092522.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_092529.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_092545.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_092547.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_092737.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_093008.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_093019.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_093029.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_095549.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_095557.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_095609.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_095830.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_095857.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_095907.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_095959.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_100117.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_100121.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211215_100138.jpg
+  
 tags:
 - akce
 ---
 
-# Ježíšek v MŠ :-)
-
-[gallery ids="65674,65675,65676,65677,65678,65680,65683,65671,65672,65673,65681,65682,65684,65685,65686,65687,65688,65689,65690,65691,65692,65693,65694,65695,65696,65697,65698,65699,65700,65701,65702,65703,65704,65705,65706,65707,65708,65709,65710,65711,65712,65713,65714,65715,65716,65717,65670,65718,65669,65719,65720,65721,65668,65722,65723,65724,65725,65726,65727,65728"

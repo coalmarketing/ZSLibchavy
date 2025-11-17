@@ -1,13 +1,63 @@
 ---
 title: 'broučci: přípravy na karneval'
+post_id: '69919'
 date: '2022-03-19T15:14:23.000Z'
 author: Lucie Šponarová
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220308_064611.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220308_065148.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220308_075138.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220308_092841.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220309_071235.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220309_071525.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220309_072525.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220310_073630.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220310_074713.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220310_091041.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220310_094229.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220311_072554.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220311_072731.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220311_072848.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220311_073047.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220311_073420.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220311_073853.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220311_074217.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220311_074512.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220311_075949.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220311_080235.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220311_080417.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220311_080627.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220311_081029.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220311_081110.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220311_081528.jpg
+  
 tags:
 - akce
 ---
 
-# broučci: přípravy na karneval
-
-[gallery ids="69920,69921,69922,69923,69924,69925,69926,69927,69928,69929,69930,69931,69932,69933,69934,69935,69936,69937,69938,69939,69940,69941,69942,69943,69944,69945"

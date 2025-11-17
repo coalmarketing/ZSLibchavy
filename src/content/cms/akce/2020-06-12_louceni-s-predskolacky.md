@@ -1,13 +1,151 @@
 ---
 title: '"loučení s předškoláčky" :-)'
+post_id: '40229'
 date: '2020-06-12T22:24:01.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_091430.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_091442.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_091455.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_091752.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_091821.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_091824.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_092020.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_092025.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_092238.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_092618.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_092628.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_092638.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_092643.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_092704.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_093113.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_093207.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_093226.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_093239.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_094932.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_094938.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_095057.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_095103.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_101800.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_101808.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_101816.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_101823.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_102017.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_102156.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_102207.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_102208.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_102213.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_102216.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_102224.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_102225.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_102233.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_102234.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_102249.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_102251.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_102253.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_102305.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_102306.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_102321.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_102329.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_102330.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_102342.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_102355.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_102649.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_102659.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_102706.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_102711.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_102715.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_102719.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_102740.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_102745.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_102759.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_102803.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_102813.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_102820.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_102823.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_102835.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_102845.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_102918.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_102942.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_102957.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_102959.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_103005.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_103048.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_103052.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_103105.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200612_110150.jpg
+  
 tags:
 - akce
 ---
 
-# "loučení s předškoláčky" :-)
-
-[gallery ids="40241,40242,40240,40243,40244,40246,40247,40248,40250,40251,40252,40253,40254,40255,40256,40257,40258,40259,40260,40261,40262,40266,40249,40268,40270,40271,40273,40280,40275,40276,40278,40281,40283,40285,40286,40288,40290,40291,40293,40295,40296,40298,40300,40301,40303,40305,40306,40308,40309,40310,40231,40312,40313,40315,40316,40318,40234,40319,40321,40230,40323,40233,40235,40324,40232,40238,40326,40237,40236,40239"

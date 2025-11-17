@@ -1,13 +1,53 @@
 ---
 title: 'Broučci slaví: Agátka měla narozeniny'
+post_id: '8891'
 date: '2018-02-14T19:28:05.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180214_094325_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180214_094333.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180214_094338_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180214_094422_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180214_094426.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180214_094426_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180214_094447.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180214_094450.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180214_094453.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180214_094558_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180214_094611_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180214_094639_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180214_094707_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180214_094734_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180214_094753_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180214_094800_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180214_094825_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180214_094911_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180214_094937_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180214_095150.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180214_095350_1.jpg
+  
 tags:
 - akce
 ---
 
-# Broučci slaví: Agátka měla narozeniny
-
-[gallery ids="8892,8896,8895,8894,8893,8897,8898,8899,8900,8901,8902,8903,8904,8908,8907,8906,8905,8909,8910,8911,8912"

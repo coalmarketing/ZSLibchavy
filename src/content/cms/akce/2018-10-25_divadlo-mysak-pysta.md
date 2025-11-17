@@ -1,13 +1,33 @@
 ---
 title: Divadlo "Myšák Pišta"
+post_id: '14914'
 date: '2018-10-25T11:18:08.000Z'
 author: Alena Pulkrábková
 section: MŠ Korálek
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9903.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9904.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9908.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9910.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9911.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9912.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9913.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9914.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9915.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9916.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9917.jpg
+  
 tags:
 - akce
 ---
 
-# Divadlo "Myšák Pišta"
-
-[gallery ids="14915,14916,14917,14918,14919,14920,14921,14922,14923,14925,14926"

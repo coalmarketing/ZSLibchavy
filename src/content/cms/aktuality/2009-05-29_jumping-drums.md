@@ -1,5 +1,6 @@
 ---
 title: JUMPING DRUMS
+post_id: '536'
 date: '2009-05-29T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# JUMPING DRUMS
 
 ![](/fckeditor/editor/images/smiley/msn/38.gif)Ve čtvrtek 4.6.2009 od 10,30 hodin vystoupí v tělocvičně pro žáky naší školy a žáky ze sousedních škol v Českých Libchavách a Sopotnici bubenická skupina **JUMPING DRUMS**.
 

@@ -1,13 +1,35 @@
 ---
 title: Pečeme ve školce perníčky...
+post_id: '81000'
 date: '2022-11-28T09:45:49.000Z'
 author: Martina Ferklová
 section: MŠ Korálek
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/20221128_075134.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/20221128_075143.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/20221128_075202.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/20221128_075216.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/20221128_080943.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/20221128_081000.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/20221128_081014.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/20221128_081018.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/20221128_081042.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/20221128_081043.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/20221128_081049.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/20221128_081053.jpg
+  
 tags:
 - akce
 ---
 
-# Pečeme ve školce perníčky...
-
-[gallery ids="81001,81002,81003,81004,81005,81006,81007,81008,81009,81010,81011,81012"

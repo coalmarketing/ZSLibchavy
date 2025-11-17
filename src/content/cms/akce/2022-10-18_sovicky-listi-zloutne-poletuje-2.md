@@ -1,13 +1,115 @@
 ---
 title: 'SOVIČKY: ,,LISTÍ ŽLOUTNE POLETUJE"'
+post_id: '78755'
 date: '2022-10-18T12:07:47.000Z'
 author: Monika Frimlová
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/1-4.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/10-3.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/10b-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/11-3.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/12-3.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/13-3.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/13a.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/14-2.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/15-2.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/17-2.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/18-2.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/19-2.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/19a.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/2-4.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/20-2.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/21-2.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/22-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/23-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/24-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/25-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/26-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/27-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/27a.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/28-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/29-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/3-4.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/30-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/31-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/32-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/33-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/34-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/35-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/36-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/37-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/38-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/39-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/4-4.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/40-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/41-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/41a.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/42-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/43-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/44-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/45.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/46-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/47-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/48-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/5-4.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/6-4.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/7-4.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/8-4.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/9-3.jpeg
+  
 tags:
 - akce
 ---
 
-# SOVIČKY: ,,LISTÍ ŽLOUTNE POLETUJE"
-
-[gallery ids="78756,78757,78758,78759,78760,78761,78762,78763,78764,78765,78766,78767,78768,78769,78770,78771,78772,78773,78774,78775,78776,78777,78778,78779,78780,78781,78782,78783,78784,78785,78786,78787,78788,78789,78790,78791,78792,78793,78794,78795,78796,78797,78798,78799,78800,78801,78802,78803,78804,78805,78806,78807"

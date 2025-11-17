@@ -1,13 +1,61 @@
 ---
 title: Pozvánka na výlet - 6. A
+post_id: '74934'
 date: '2022-06-13T21:45:07.000Z'
 author: PaedDr.Hana Šťovíčková
 section: Škola
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220602_085952.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220602_092759.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220602_095235.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220602_095418.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220602_100321.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220602_100613.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220602_100652.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220602_100704.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220602_100753.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220602_100916.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220602_105705.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220602_105753.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220602_110121956-Fila.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220602_110557.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220602_111022.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220602_111844.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220602_111924709-Tom.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220602_112156913-Vojta-H..jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220602_112245555-Nela.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220602_112400.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220602_121212534-Petr-a-Vitek.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220602_121841250-skupina.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220602_133210.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220602_140249.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220602_171632.jpg
+  
 tags:
 - akce
 ---
 
-# Pozvánka na výlet - 6. A
-
-[gallery ids="74935,74936,74937,74938,74939,74940,74941,74942,74943,74944,74945,74946,74947,74948,74949,74950,74951,74952,74953,74954,74955,74956"

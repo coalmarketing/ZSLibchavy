@@ -1,13 +1,43 @@
 ---
 title: 'Klokánci slaví: Anetka měla narozeniny'
+post_id: '16254'
 date: '2018-11-05T13:42:46.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20181101_085955_1-1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20181101_090034_1-1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20181101_090043_1-1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20181101_090046_1-1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20181101_090052_1-1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20181101_090108_1-1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20181101_090131_1-1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20181101_090137_1-1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20181101_090202_1-1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20181101_090206_1-1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20181101_090349-1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20181101_090427-1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20181101_090451-1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20181101_090535-1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20181101_090559-1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20181101_090652-1.jpg
+  
 tags:
 - akce
 ---
 
-# Klokánci slaví: Anetka měla narozeniny
-
-[gallery ids="16255,16256,16257,16258,16259,16260,16261,16262,16263,16264,16265,16266,16267,16268,16269,16270"

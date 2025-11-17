@@ -29,59 +29,63 @@ hero:
 
 
 services:
-  - category: skola
-  
-    icon:
-      url: /assets/svgs/services/school.svg
-      alt: Ikona školní čepice
+  topper: Části školy
+  heading: Hlavní rozcestník webu
 
-    heading: Škola
-    url: /skola
+  items:
+    - category: skola
 
-  - category: ms-koralek
-  
-    icon:
-      url: /assets/svgs/services/playground.svg
-      alt: Ikona dětského hřiště
+      icon:
+        url: /assets/svgs/services/school.svg
+        alt: Ikona školní čepice
 
-    heading: MŠ Korálek
-    url: /ms-koralek
+      heading: Škola
+      url: /skola
 
-  - category: ms-kamarad
-  
-    icon:
-      url: /assets/svgs/services/playground_2.svg
-      alt: Ikona dětského hřiště
+    - category: ms-koralek
 
-    heading: MŠ Kamarád
-    url: /ms-kamarad
+      icon:
+        url: /assets/svgs/services/playground.svg
+        alt: Ikona dětského hřiště
 
-  - category: druzina
-  
-    icon:
-      url: /assets/svgs/services/diversity_3.svg
-      alt: Ikona skupiny dětí
+      heading: MŠ Korálek
+      url: /ms-koralek
 
-    heading: Družina
-    url: /druzina
+    - category: ms-kamarad
 
-  - category: jidelna
-  
-    icon:
-      url: /assets/svgs/services/food_bank.svg
-      alt: Ikona jídelny
+      icon:
+        url: /assets/svgs/services/playground_2.svg
+        alt: Ikona dětského hřiště
 
-    heading: Jídelna
-    url: /jidelna
+      heading: MŠ Kamarád
+      url: /ms-kamarad
 
-  - category: spolecne
-  
-    icon:
-      url: /assets/svgs/services/info.svg
-      alt: Ikona informací
+    - category: druzina
 
-    heading: Společné
-    url: /spolecne/aktuality
+      icon:
+        url: /assets/svgs/services/diversity_3.svg
+        alt: Ikona skupiny dětí
+
+      heading: Družina
+      url: /druzina
+
+    - category: jidelna
+
+      icon:
+        url: /assets/svgs/services/food_bank.svg
+        alt: Ikona jídelny
+
+      heading: Jídelna
+      url: /jidelna
+
+    - category: spolecne
+
+      icon:
+        url: /assets/svgs/services/info.svg
+        alt: Ikona informací
+
+      heading: Společné
+      url: /spolecne/aktuality
 
 
 news:
@@ -148,7 +152,7 @@ about:
 
 gallery:
   topper: Fotogalerie
-  heading: Fotografie ze školy a školek
+  heading: Fotografie ze&nbsp;školy a&nbsp;školek
 
   albums:
     - title: Vše

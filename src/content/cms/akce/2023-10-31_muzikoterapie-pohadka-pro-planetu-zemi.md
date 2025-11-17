@@ -1,13 +1,35 @@
 ---
 title: 'MUZIKOTERAPIE: ,,POHÁDKA PRO PLANETU ZEMI"'
+post_id: '94825'
 date: '2023-10-31T13:27:34.000Z'
 author: Monika Frimlová
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20231031_085642.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20231031_085652.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20231031_085719.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20231031_085827.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20231031_085855.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20231031_090535.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20231031_091114.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20231031_091118.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20231031_091809.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20231031_092212.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20231031_092220.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20231031_092222.jpg
+  
 tags:
 - akce
 ---
 
-# MUZIKOTERAPIE: ,,POHÁDKA PRO PLANETU ZEMI"
-
-[gallery ids="94826,94827,94828,94829,94830,94831,94832,94833,94834,94835,94836,94837"

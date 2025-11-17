@@ -1,13 +1,103 @@
 ---
 title: 'Tvořeníčko, tvoření: "Sněkulák", rodinka sněhuláků :-)'
+post_id: '67350'
 date: '2022-01-24T13:40:24.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220119_065645.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220119_071346.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220119_071624.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220119_072757.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220119_073535.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220119_073851.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220119_074825.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220119_074935.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220119_075640.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220119_075841.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220119_080058.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220119_080406.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220119_081051.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220119_081931.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220119_082233.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220119_082325.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220119_083305.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220119_083351.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220119_091621.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220119_091910.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220119_091912.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220119_092925.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220119_092936.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220119_093534.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220119_093918.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220119_094817.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220119_164333.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220120_072726.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220120_074438.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220120_075344.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220120_075416.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220120_075420.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220120_075852.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220120_080010.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220120_080908.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220120_080916.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220120_081249.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220120_081254.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220120_081938.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220120_082154.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220120_082516.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220120_082811.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220120_082819.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220120_083528.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220120_091604.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220120_092514.jpg
+  
 tags:
 - akce
 ---
 
-# Tvořeníčko, tvoření: "Sněkulák", rodinka sněhuláků :-)
-
-[gallery ids="67351,67352,67353,67354,67355,67356,67357,67358,67359,67360,67361,67362,67363,67364,67365,67366,67367,67368,67369,67370,67371,67372,67373,67374,67375,67376,67377,67378,67379,67380,67381,67382,67383,67384,67385,67386,67387,67388,67389,67390,67391,67392,67393,67394,67395,67396"

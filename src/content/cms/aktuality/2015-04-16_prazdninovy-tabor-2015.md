@@ -1,5 +1,6 @@
 ---
 title: Prázdninový tábor 2015
+post_id: '325'
 date: '2015-04-16T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# Prázdninový tábor 2015
 
 Vážení rodiče,
 

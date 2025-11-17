@@ -1,13 +1,241 @@
 ---
 title: '"příprava" batůžků ke dni dětí :-)'
+post_id: '58194'
 date: '2021-06-02T13:24:34.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_065807.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_065830.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_070429.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_070702.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_070959.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_071518.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_071610.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_071828.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_072533.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_072932.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_073423.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_073800.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_073812.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_073844.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_074536.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_075434.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_075528.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_075953.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_080658.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_081231.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_081643.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_081909.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_082234.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_083106.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_083536.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_083934.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_085315.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_085319.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_085613.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_085739.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_090158.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_090625.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_090638.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_090640.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_091325.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_091327.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_091808.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_092218.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_092408.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_092903.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_093210.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_093523.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_093637.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_094002.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_094106.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_094641.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_094950.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_095108.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_095503.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_095649.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_100048.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_100421.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_100609.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_101023.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_101109.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_101416.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_101522.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_102301.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_102351.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_102911.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_103206.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_103602.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_103937.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_104550.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_104940.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_105354.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_105627.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_105934.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_110332.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210524_110335.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210525_065606.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210525_070234.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210525_070245.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210525_070505.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210525_070725.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210525_071126.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210525_071141.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210525_071143.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210525_071427.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210525_071516.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210525_071936.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210525_071957.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210525_072213.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210525_072419.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210525_072608.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210525_072713.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210525_072950.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210525_073151.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210525_073431.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210525_073930.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210525_074152.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210525_074153.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210525_074243.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210525_074446.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210525_074738.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210525_075146.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210525_075541.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210525_075658.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210525_075812.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210525_080120.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210525_080613.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210525_080728.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210525_081037.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210525_081345.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210525_081451.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210525_081642.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210525_081758.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210525_082107.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210525_082430.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210526_085725.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210526_085758.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210526_090212.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210526_090534.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210526_090701.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210526_090705.jpg
+  
 tags:
 - akce
 ---
 
-# "příprava" batůžků ke dni dětí :-)
-
-[gallery ids="58196,58197,58198,58199,58200,58201,58202,58203,58204,58205,58206,58207,58208,58209,58210,58215,58211,58212,58213,58214,58216,58217,58218,58219,58220,58221,58222,58223,58224,58225,58226,58227,58228,58229,58230,58231,58232,58233,58234,58235,58236,58237,58238,58239,58240,58241,58242,58243,58244,58245,58246,58247,58248,58249,58250,58251,58252,58253,58254,58255,58257,58258,58259,58260,58261,58263,58264,58265,58266,58267,58268,58269,58271,58272,58273,58274,58275,58276,58277,58278,58279,58280,58281,58282,58283,58284,58285,58286,58287,58288,58289,58290,58291,58292,58293,58294,58295,58296,58297,58298,58299,58300,58301,58302,58303,58304,58305,58306,58307,58308,58309,58310,58311,58312,58313,58314"

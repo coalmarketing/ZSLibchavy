@@ -1,5 +1,6 @@
 ---
 title: Listopad III:oddělení
+post_id: '6731'
 date: '2017-11-30T22:56:44.000Z'
 author: lic. Pavlína Vítková,Dis.
 section: Družina
@@ -7,7 +8,5 @@ images: []
 tags:
 - akce
 ---
-
-# Listopad III:oddělení
 
 V listopadu jsme malovali a vydlabávali dýně a zašli se podívat do kostela kde pro nás měl pan Brokeš připravený program na téma ,, Dušičky " Ve družince jsme hráli námětové hry - na kadeřníka, na prodavače.. Na školním hřišti jsme hráli vybíjenou nebo fotbal. A spoustu práce nám také dala výzdoba zimní třídy nebo příprava na besídku :) Moc se na ni těšíme. ![](http://www.zslibchavy.cz/wp-content/uploads/2017/11/DSC01303-300x169.jpg) ![](http://www.zslibchavy.cz/wp-content/uploads/2017/11/DSC01304-300x169.jpg) ![](http://www.zslibchavy.cz/wp-content/uploads/2017/11/DSC01309-300x169.jpg) ![](http://www.zslibchavy.cz/wp-content/uploads/2017/11/DSC01313-300x169.jpg) ![](http://www.zslibchavy.cz/wp-content/uploads/2017/11/DSC01315-300x169.jpg) ![](http://www.zslibchavy.cz/wp-content/uploads/2017/11/DSC01319-1-300x169.jpg) ![](http://www.zslibchavy.cz/wp-content/uploads/2017/11/DSC01320-300x169.jpg) ![](http://www.zslibchavy.cz/wp-content/uploads/2017/11/DSC01325-300x169.jpg) ![](http://www.zslibchavy.cz/wp-content/uploads/2017/11/DSC01326-300x169.jpg) ![](http://www.zslibchavy.cz/wp-content/uploads/2017/11/DSC01328-300x169.jpg) ![](http://www.zslibchavy.cz/wp-content/uploads/2017/11/DSC01329-300x169.jpg) ![](http://www.zslibchavy.cz/wp-content/uploads/2017/11/DSC01330-300x169.jpg) ![](http://www.zslibchavy.cz/wp-content/uploads/2017/11/DSC01334-300x169.jpg) ![](http://www.zslibchavy.cz/wp-content/uploads/2017/11/DSC01335-300x169.jpg) ![](http://www.zslibchavy.cz/wp-content/uploads/2017/11/DSC01337-300x169.jpg) ![](http://www.zslibchavy.cz/wp-content/uploads/2017/11/DSC01339-300x169.jpg) ![](http://www.zslibchavy.cz/wp-content/uploads/2017/11/DSC01342-300x169.jpg) ![](http://www.zslibchavy.cz/wp-content/uploads/2017/11/DSC01343-300x169.jpg) ![](http://www.zslibchavy.cz/wp-content/uploads/2017/11/DSC01346-300x169.jpg) ![](http://www.zslibchavy.cz/wp-content/uploads/2017/11/DSC01347-300x169.jpg) ![](http://www.zslibchavy.cz/wp-content/uploads/2017/11/DSC01348-300x169.jpg) ![](http://www.zslibchavy.cz/wp-content/uploads/2017/11/DSC01351-300x169.jpg) ![](http://www.zslibchavy.cz/wp-content/uploads/2017/11/DSC01395-300x169.jpg) ![](http://www.zslibchavy.cz/wp-content/uploads/2017/11/DSC01396-300x169.jpg) ![](http://www.zslibchavy.cz/wp-content/uploads/2017/11/DSC01397-300x169.jpg) ![](http://www.zslibchavy.cz/wp-content/uploads/2017/11/DSC01399-300x169.jpg) ![](http://www.zslibchavy.cz/wp-content/uploads/2017/11/DSC01434-300x169.jpg) ![](http://www.zslibchavy.cz/wp-content/uploads/2017/11/DSC01435-300x169.jpg) ![](http://www.zslibchavy.cz/wp-content/uploads/2017/11/DSC01436-300x169.jpg)

@@ -1,13 +1,273 @@
 ---
 title: Den dětí v Pinguin parku
+post_id: '11890'
 date: '2018-06-04T15:40:49.000Z'
 author: Alena Pulkrábková
 section: MŠ Korálek
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9514.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9520.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9521.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9522.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9523.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9524.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9525.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9526.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9528.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9530.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9534.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9535.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9536.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9537.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9538.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9539.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9540.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9541.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9542.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9543.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9545.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9546.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9547.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9549.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9550.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9551.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9552.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9553.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9554.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9556.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9557.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9558.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9559.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9562.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9564.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9566.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9569.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9571.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9573.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9576.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9577.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9579.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9580.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9581.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9582.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9584.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9585.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9586.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9588.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9589.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9590.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9591.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9593.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9594.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9595.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9596.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9597.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9598.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9599.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9600.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9601.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9603.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9604.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9605.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9606.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9607.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9608.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9609.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9610.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9613.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9615.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9616.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9617.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9618.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9619.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9620.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9621.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9622.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9623.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9624.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9625.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9626.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9627.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9628.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9629.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9630.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9631.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9632.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9633.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9634.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9635.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9636.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9639.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9641.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9643.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9644.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9645.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9646.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9647.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9648.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9649.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9650.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9652.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9653.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9654.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9655.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9656.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9657.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9658.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9661.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9662.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9663.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9664.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9665.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9666.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9667.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9668.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9669.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9670.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9671.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9672.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9674.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9675.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9676.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9677.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9679.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9680.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9681.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9682.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9683.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF9684.jpg
+  
 tags:
 - akce
 ---
 
-# Den dětí v Pinguin parku
-
-[gallery ids="11891,11892,11893,11894,11895,11896,11897,11898,11899,11900,11901,11902,11903,11904,11905,11906,11907,11908,11909,11910,11911,11912,11913,11914,11915,11916,11917,11918,11919,11920,11921,11922,11923,11924,11925,11926,11927,11928,11929,11930,11931,11932,11933,11934,11935,11936,11937,11938,11939,11940,11941,11942,11943,11944,11945,11946,11947,11948,11949,11950,11951,11952,11953,11954,11955,11956,11957,11958,11959,11960,11961,11962,11963,11964,11965,11966,11967,11968,11969,11970,11971,11972,11973,11974,11975,11976,11977,11978,11979,11980,11981,11982,11983,11984,11985,11986,11987,11988,11989,11990,11991,11992,11993,11994,11995,11996,11997,11998,11999,12000,12001,12002,12003,12004,12005,12006,12007,12008,12009,12010,12011,12012,12013,12014,12015,12016,12017,12018,12019,12020,12021"

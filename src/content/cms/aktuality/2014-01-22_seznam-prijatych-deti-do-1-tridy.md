@@ -1,5 +1,6 @@
 ---
 title: seznam přijatých dětí do 1. třídy
+post_id: '365'
 date: '2014-01-22T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# seznam přijatých dětí do 1. třídy
 
 **Seznam dětí přijatých do 1. třídy**
 

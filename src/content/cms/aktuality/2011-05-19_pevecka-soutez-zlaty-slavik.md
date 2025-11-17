@@ -1,5 +1,6 @@
 ---
 title: Pěvecká soutěž ZLATÝ  SLAVÍK
+post_id: '460'
 date: '2011-05-19T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# Pěvecká soutěž ZLATÝ  SLAVÍK
 
 Dne 14. dubna se uskutečnilo _školní kolo pěvecké soutěže_. Porota ve složení pí M.Linhartová, pí D.Čermáková a pí I.Kittlitz hodnotila výkony 22 zpěváčků od 1. do 5. třídy.
 

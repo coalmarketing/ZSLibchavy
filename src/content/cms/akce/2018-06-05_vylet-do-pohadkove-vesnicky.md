@@ -1,13 +1,187 @@
 ---
 title: Výlet do "Pohádkové vesničky" I.
+post_id: '12189'
 date: '2018-06-05T12:55:19.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_085759-1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_085812.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_085832.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_085838.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_085856.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_085903.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_100250.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_100253.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_100308.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_100322.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_100331.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_100439.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_102016.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_102039.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_102042.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_102051.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_102055.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_102108.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_102126.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_103526.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_103555.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_103650.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_103652.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_103703.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_104007.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_104033.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_104034.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_104036.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_104038.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_104331.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_104352.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_104543.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_104545.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_104549.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_104738.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_104741.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_104836.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_104841.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_104846.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_104943.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_105046.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_105047.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_105055.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_105059.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_105137.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_105235.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_105400.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_105403.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_105408.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_105509.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_105511.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_105529.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_105532.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_105641.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_105713.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_105735.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_105813.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_105902.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_105905.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_105911.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_105923.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_105929.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_105931.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_105935.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_110031.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_110033.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_110145.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_110200.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_110228.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_110230.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_110235.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_110357.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_110400.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_110407.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_110822.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_110825.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_110835.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_110849.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_110956.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_111022.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_111024.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_111035.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_111037.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_111250.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_111252.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_111638.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_111648.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180531_111818.jpg
+  
 tags:
 - akce
 ---
 
-# Výlet do "Pohádkové vesničky" I.
-
-[gallery ids="12190,12191,12192,12193,12194,12195,12196,12197,12198,12199,12200,12201,12202,12203,12204,12205,12206,12207,12208,12209,12210,12211,12212,12213,12214,12215,12216,12217,12218,12219,12220,12221,12222,12223,12224,12225,12226,12227,12228,12229,12230,12231,12232,12233,12234,12235,12236,12237,12238,12239,12240,12241,12242,12243,12244,12245,12246,12247,12248,12249,12250,12251,12252,12253,12255,12256,12257,12258,12259,12260,12261,12262,12263,12264,12265,12266,12267,12268,12269,12270,12271,12272,12273,12274,12275,12276,12277,12254"

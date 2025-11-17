@@ -1,13 +1,65 @@
 ---
 title: 'SOVIČKY: VÝPRAVA DO LESA'
+post_id: '92784'
 date: '2023-09-13T08:03:47.000Z'
 author: Monika Frimlová
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/10-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/11-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/12-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/13-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/14-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/15-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/16-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/17.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/18.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/19.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/2-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/20.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/21.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/22.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/23.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/24.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/25.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/26.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/27.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/3-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/4-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/5-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/6-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/7-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/8-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/9-1.jpeg
+  
 tags:
 - akce
 ---
 
-# SOVIČKY: VÝPRAVA DO LESA
-
-[gallery ids="92785,92786,92787,92788,92789,92790,92791,92792,92793,92794,92795,92796,92797,92798,92799,92800,92801,92802,92803,92804,92805,92806,92807,92808,92809,92810,92811"

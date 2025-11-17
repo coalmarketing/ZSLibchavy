@@ -1,5 +1,6 @@
 ---
 title: Den otevřených dveří na I.stupni
+post_id: '483'
 date: '2010-11-02T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# Den otevřených dveří na I.stupni
 
 Chcete se podívat, jak Vaše děti pracují v hodinách? ![](/fckeditor/editor/images/smiley/msn/20.gif)
 

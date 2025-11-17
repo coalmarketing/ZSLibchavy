@@ -1,13 +1,33 @@
 ---
 title: Vycházky k divokým prasátkům
+post_id: '16524'
 date: '2018-11-22T11:14:51.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20181112_103225.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20181112_103246.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20181112_103316.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20181112_103318.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20181112_103333.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20181112_103619.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20181115_103132.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20181115_103141.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20181115_103156.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20181115_103232.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20181115_103252.jpg
+  
 tags:
 - akce
 ---
 
-# Vycházky k divokým prasátkům
-
-[gallery ids="16525,16526,16527,16528,16529,16530,16531,16532,16533,16534,16535"

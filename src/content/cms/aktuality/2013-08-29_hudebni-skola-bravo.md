@@ -1,5 +1,6 @@
 ---
 title: Hudební škola Bravo
+post_id: '380'
 date: '2013-08-29T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# Hudební škola Bravo
 
 **Paní učitelka Švecová zve všechny zájemce o hudební kurzy ****k zápisu,**
 

@@ -1,13 +1,43 @@
 ---
 title: divadélko "Kozlík" v MŠ
+post_id: '65783'
 date: '2021-12-20T07:41:48.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20211217-WA0001.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20211217-WA0002.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20211217-WA0003.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20211217-WA0004.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20211217-WA0005.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20211217-WA0006.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20211217-WA0007.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20211217-WA0008.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20211217-WA0009.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20211217-WA0010.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20211217-WA0011.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20211217-WA0012.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20211217-WA0013.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20211217-WA0014.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20211217-WA0015.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20211217-WA0016.jpg
+  
 tags:
 - akce
 ---
 
-# divadélko "Kozlík" v MŠ
-
-[gallery ids="65785,65788,65789,65790,65791,65792,65793,65794,65795,65796,65797,65798,65786,65799,65787,65800"

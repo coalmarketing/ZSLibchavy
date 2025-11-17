@@ -1,13 +1,67 @@
 ---
 title: NÁVŠTĚVA MUZEA - VÁNOČNÍ TRADICE
+post_id: '109951'
 date: '2024-12-17T11:09:21.000Z'
 author: Monika Frimlová
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7651.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7652.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7653.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7654.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7656.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7658.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7660.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7662.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7664.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7665.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7666.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7667.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7668.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7672.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7675.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7676.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7677.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7680.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7681.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7683.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7687.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7689.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7691.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7693.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7694.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7699.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7700.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_7701.jpeg
+  
 tags:
 - akce
 ---
 
-# NÁVŠTĚVA MUZEA - VÁNOČNÍ TRADICE
-
-[gallery ids="109952,109953,109954,109955,109956,109957,109958,109959,109960,109961,109962,109963,109964,109966,109967,109968,109969,109970,109971,109972,109973,109974,109975,109976,109977,109978,109979,109980"

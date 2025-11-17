@@ -1,13 +1,36 @@
 ---
 title: Adaptační pobyt šestých tříd
+post_id: '61472'
 date: '2021-09-19T10:04:40.000Z'
 author: PaedDr.Hana Šťovíčková
 section: Škola
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210914_102621189.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210914_103844690_HDR.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210914_104103365_HDR.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210914_104437244.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210914_105526059_HDR.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210914_112134756.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210914_112143958.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210914_113641743_HDR.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210914_113702.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210914_145408704_HDR.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210914_172944459_HDR.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20210915_154255.jpg
+  
 tags:
 - akce
 ---
-
-# Adaptační pobyt šestých tříd
 
 Jsme moc rádi, že jsme letos mohli opět vyjet na environmentální a adaptační kurz do autokempu Sedmihorky v Českém ráji. A to obě „šestky“ najednou :) Zde jsme si užili nejen nádhernou přírodu za krásného počasí, ale i utužili vzájemné vztahy nově vznikajících kolektivů a poznávali naše nové třídní učitelky i asistentky.

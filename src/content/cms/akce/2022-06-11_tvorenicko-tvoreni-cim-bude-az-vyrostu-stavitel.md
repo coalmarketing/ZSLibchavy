@@ -1,13 +1,29 @@
 ---
 title: 'Tvořeníčko, tvoření: "Čím budu až vyrostu?" - "stavitel" :-)'
+post_id: '74872'
 date: '2022-06-11T11:08:38.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220609_090645.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220609_090649.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220609_090651.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220609_090657.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220609_094038.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220609_094114.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220609_094217.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220609_094235.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220609_094316.jpg
+  
 tags:
 - akce
 ---
 
-# Tvořeníčko, tvoření: "Čím budu až vyrostu?" - "stavitel" :-)
-
-[gallery ids="74874,74875,74877,74876,74873,74878,74879,74880,74881"

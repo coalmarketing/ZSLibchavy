@@ -1,13 +1,53 @@
 ---
 title: 'ODPOLEDNÍ HRY: ,,NAŠE SMYSLY"'
+post_id: '52919'
 date: '2021-02-20T09:03:31.000Z'
 author: Monika Frimlová
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/1-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/10-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/11-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/12-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/13-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/14-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/15-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/16-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/17-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/18-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/19-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/2-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/20-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/21-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/3-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/4-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/5-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/6-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/7-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/8-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/9-1.jpeg
+  
 tags:
 - akce
 ---
 
-# ODPOLEDNÍ HRY: ,,NAŠE SMYSLY"
-
-[gallery ids="52920,52921,52922,52923,52924,52925,52926,52927,52928,52929,52930,52931,52932,52933,52934,52935,52936,52937,52938,52939,52940"

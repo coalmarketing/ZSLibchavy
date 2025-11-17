@@ -1,5 +1,6 @@
 ---
 title: Projektový den - středa 18.1.2012
+post_id: '436'
 date: '2012-01-14T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -8,4 +9,3 @@ tags:
 - aktuality
 ---
 
-# Projektový den - středa 18.1.2012

@@ -1,5 +1,6 @@
 ---
 title: Hřišťátko POSILOVNA
+post_id: '5360'
 date: '2012-01-06T23:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Družina
@@ -8,4 +9,3 @@ tags:
 - akce
 ---
 
-# Hřišťátko POSILOVNA

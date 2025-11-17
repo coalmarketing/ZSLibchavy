@@ -1,13 +1,51 @@
 ---
 title: Bruslení nás baví - žáci 6. a 7. tříd
+post_id: '69177'
 date: '2022-02-08T20:41:43.000Z'
 author: PaedDr.Hana Šťovíčková
 section: Škola
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220208_123901.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220208_123934.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220208_123939.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220208_124436.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220208_124439.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220208_124442.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220208_124502.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220208_124627.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220208_124629_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220208_124645.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220208_124651.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220208_124700.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220208_124716.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220208_124848.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220208_124911.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220208_124921.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220208_125151.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220208_125208.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220208_125218.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220208_130926.jpg
+  
 tags:
 - akce
 ---
 
-# Bruslení nás baví - žáci 6. a 7. tříd
-
-[gallery ids="69178,69179,69180,69181,69182,69183,69184,69185,69186,69187,69188,69189,69190,69191,69192,69193,69194,69195,69196,69197"

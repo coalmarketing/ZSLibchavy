@@ -1,13 +1,47 @@
 ---
 title: Děláme pokusy:-)
+post_id: '67447'
 date: '2022-01-24T13:56:58.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220121_090351.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220121_090408.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220121_090650.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220121_090745.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220121_090806.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220121_090832.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220121_091034.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220121_091036.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220121_091139.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220121_091255.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220121_091406.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220121_091604.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220121_091609.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220121_091619.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220121_093419.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220121_093422.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220121_093430.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220121_093437.jpg
+  
 tags:
 - akce
 ---
 
-# Děláme pokusy:-)
-
-[gallery ids="67451,67452,67453,67454,67455,67456,67457,67458,67459,67460,67461,67462,67463,67464,67449,67448,67450,67465"

@@ -1,5 +1,6 @@
 ---
 title: Testování žáků 8. třídy - VÝSLEDKY
+post_id: '262'
 date: '2017-06-15T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,7 +8,5 @@ images: []
 tags:
 - aktuality
 ---
-
-# Testování žáků 8. třídy - VÝSLEDKY
 
 Vážení rodiče,

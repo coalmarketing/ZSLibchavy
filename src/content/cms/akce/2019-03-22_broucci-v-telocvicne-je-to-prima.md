@@ -1,13 +1,51 @@
 ---
 title: 'Broučci: v tělocvičně je to prima!!!'
+post_id: '19873'
 date: '2019-03-22T07:08:07.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190317-WA0002.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190317-WA0003.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190317-WA0004.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190317-WA0005.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190317-WA0006.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190317-WA0007.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190317-WA0008.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190317-WA0009.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190317-WA0010.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190317-WA0011.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190317-WA0012.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190317-WA0013.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190317-WA0014.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190317-WA0015.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190317-WA0016.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190317-WA0017.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190317-WA0018.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190317-WA0019.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190317-WA0020.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190317-WA0021.jpg
+  
 tags:
 - akce
 ---
 
-# Broučci: v tělocvičně je to prima!!!
-
-[gallery ids="19874,19875,19876,19877,19878,19879,19880,19881,19882,19883,19884,19885,19886,19887,19888,19889,19890,19891,19892,19893"

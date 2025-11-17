@@ -1,13 +1,105 @@
 ---
 title: 'Tvořeníčko, tvoření: "Čím budu až vyrostu?", hasiči a malíři pokojů :-)'
+post_id: '74642'
 date: '2022-06-08T18:54:56.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220608_065119.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220608_065406.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220608_065723.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220608_070025.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220608_070527.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220608_070706.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220608_071146.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220608_071226.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220608_071619.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220608_071733.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220608_072118.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220608_072331.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220608_072619.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220608_072657.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220608_072901.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220608_073337.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220608_073617.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220608_073739.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220608_074342.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220608_074809.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220608_074947.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220608_075306.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220608_075310.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220608_075314.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220608_075531.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220608_075937.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220608_080127.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220608_080217.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220608_080421.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220608_080541.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220608_080731.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220608_081038.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220608_081051.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220608_081309.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220608_081420.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220608_081707.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220608_081740.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220608_081839.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220608_082001.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220608_082136.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220608_082219.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220608_082318.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220608_083352.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220608_083433.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220608_085932.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220608_085941.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220608_090427.jpg
+  
 tags:
 - akce
 ---
 
-# Tvořeníčko, tvoření: "Čím budu až vyrostu?", hasiči a malíři pokojů :-)
-
-[gallery ids="74650,74649,74658,74686,74651,74652,74656,74682,74653,74663,74669,74666,74661,74684,74678,74672,74668,74670,74671,74676,74643,74644,74645,74646,74647,74648,74654,74655,74657,74659,74660,74662,74664,74665,74667,74673,74674,74675,74677,74679,74680,74681,74683,74685,74687,74688,74689"

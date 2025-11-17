@@ -1,13 +1,33 @@
 ---
 title: 'Klokánci slaví: Leonka měla narozeniny'
+post_id: '27935'
 date: '2019-11-08T13:33:28.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191023-WA0000.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191023-WA0001.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191023-WA0002.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191023-WA0003.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191023-WA0004.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191023-WA0005.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191023-WA0006.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191023-WA0007.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191023-WA0008.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191023-WA0009.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191023-WA0010.jpg
+  
 tags:
 - akce
 ---
 
-# Klokánci slaví: Leonka měla narozeniny
-
-[gallery ids="27936,27937,27938,27939,27940,27941,27942,27943,27944,27945,27946"

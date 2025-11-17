@@ -1,13 +1,19 @@
 ---
 title: Simonka má narozeniny
+post_id: '61095'
 date: '2021-09-08T07:39:17.000Z'
 author: Martina Ferklová
 section: MŠ Korálek
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/DSCF7028.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF7029.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF7030.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF7031.jpg
+  
 tags:
 - akce
 ---
 
-# Simonka má narozeniny
-
-[gallery ids="61096,61097,61098,61099"

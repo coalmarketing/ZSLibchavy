@@ -1,5 +1,6 @@
 ---
 title: Příspěvek na sportovní kroužek
+post_id: '280'
 date: '2016-11-21T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# Příspěvek na sportovní kroužek
 
 Vážení rodiče,
 

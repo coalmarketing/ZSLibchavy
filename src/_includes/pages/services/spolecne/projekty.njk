@@ -1,16 +1,114 @@
 {% extends "layouts/base.njk" %}
 
+{% block head %}
+    <script defer src="/assets/js/fslightbox.js"></script>
+{% endblock head %}
+
 {% block body %}
     {% include "sections/landing.njk" %}
 
     <!-- SIDEBAR + CONTENT -->
-    <div class="~py-16/24 ~px-4/8 flex items-start gap-16 bg-white">
+    <div class="~py-16/24 ~px-4/8 flex items-start gap-16 bg-white dark:bg-gray-900">
         <div class="container m-auto flex max-xl:flex-col items-start gap-16">
             {% include "sections/sidebar.njk" %}
 
             <!-- INNER CONTENT -->
             <div class="flex-1 ~space-y-16/24">
-                {% include "sections/inner-content.njk" %}
+                {# Group all projects by their 'section' #}
+                {% set projectsBySection = collections.projekty | sortBySection | groupby("data.section") %}
+
+                {# Loop through each section group #}
+                {% for section in projectsBySection %}
+                    <section id="{{ section.key | slug | lower }}">
+                        <div class="flex flex-col gap-8">
+                            <!-- TOPPER + HEADING -->
+                            <div class="flex flex-col gap-3">
+                                <span class="topper text-category" data-category="{{ section.key | slug | lower }}">{{ landing.heading }}</span>
+                                <h2 class="~text-2xl/4xl text-gray-950 dark:text-white font-extrabold">{{ section.key }}</h2>
+                            </div>
+
+                            {% for project in section.items %}
+                                <div class="flex flex-col gap-6">
+                                    <h4 class="text-2xl text-gray-950 dark:text-white font-semibold">{{ project.data.title }}</h4>
+
+                                    {% if project.data.registrationNumber or project.data.implementationDate or project.data.budget %}
+                                        <!-- METADATA -->
+                                        <ul class="flex flex-col gap-4">
+                                            {% if project.data.registrationNumber %}
+                                                <!-- REGISTRAČNÍ ČÍSLO -->
+                                                <li class="flex flex-col gap-1">
+                                                    <span class="text-sm text-gray-950 dark:text-white font-semibold">Registrační číslo</span>
+                                                    <span class="font-lora text-gray-800 dark:text-gray-200">{{ project.data.registrationNumber }}</span>
+                                                </li>
+                                            {% endif %}
+
+                                            {% if project.data.implementationDate %}
+                                                <!-- DATUM REALIZACE -->
+                                                <li class="flex flex-col gap-1">
+                                                    <span class="text-sm text-gray-950 dark:text-white font-semibold">Datum realizace</span>
+                                                    <span class="font-lora text-gray-800 dark:text-gray-200">{{ project.data.implementationDate }}</span>
+                                                </li>
+                                            {% endif %}
+
+                                            {% if project.data.budget %}
+                                                <!-- DATUM REALIZACE -->
+                                                <li class="flex flex-col gap-1">
+                                                    <span class="text-sm text-gray-950 dark:text-white font-semibold">Rozpočet</span>
+                                                    <span class="font-lora text-gray-800 dark:text-gray-200">{{ project.data.budget }}</span>
+                                                </li>
+                                            {% endif %}
+                                        </ul>
+                                    {% endif %}
+
+                                    {% if project.content %}
+                                        <div class="prose max-w-none">
+                                            {{ project.content | safe }}
+                                        </div>
+                                    {% endif %}
+
+                                    {% if project.data.images | length > 0 %}
+                                        <!-- IMAGES -->
+                                        <div class="grid grid-cols-4 gap-4">
+                                            {% for image in project.data.images %}
+                                                <a href="{% getUrl image.url | resize({ height: 1944 }) | jpeg %}" data-fslightbox="{{ section.key | slug | lower }}_{{ project.data.title | slug }}">
+                                                    <picture>
+                                                        <!-- MOBILE IMAGE -->
+                                                        <source media="(max-width: 600px)" srcset="{% getUrl image.url | avif %}" type="image/avif">
+                                                        <source media="(max-width: 600px)" srcset="{% getUrl image.url | webp %}" type="image/webp">
+                                                        <source media="(max-width: 600px)" srcset="{% getUrl image.url | jpeg %}" type="image/jpeg">
+                                                        <!-- TABLET IMAGE -->
+                                                        <source media="(max-width: 1024px)" srcset="{% getUrl image.url | avif %}" type="image/avif">
+                                                        <source media="(max-width: 1024px)" srcset="{% getUrl image.url | webp %}" type="image/webp">
+                                                        <source media="(max-width: 1024px)" srcset="{% getUrl image.url | jpeg %}" type="image/jpeg">
+                                                        <!-- DESKTOP IMAGE -->
+                                                        <source media="(min-width: 1024px)" srcset="{% getUrl image.url | resize({ width: 390, height: 292 }) | avif %}" type="image/avif">
+                                                        <source media="(min-width: 1024px)" srcset="{% getUrl image.url | resize({ width: 390, height: 292 }) | webp %}" type="image/webp">
+                                                        <source media="(min-width: 1024px)" srcset="{% getUrl image.url | resize({ width: 390, height: 292 }) | jpeg %}" type="image/jpeg">
+                                                        <img
+                                                            class="object-cover border-2 border-gray-200 dark:border-gray-800 shadow-md rounded-4xl"
+                                                            src="{% getUrl image.url | resize({ width: 390, height: 292 }) | jpeg %}"
+                                                            alt="{% if image.alt %}{{ image.alt }}{% else %}{{ project.data.title }}{% endif %}"
+                                                            width="260"
+                                                            height="195"
+                                                            loading="lazy"
+                                                            decoding="async"
+                                                            aria-hidden="true"
+                                                            draggable="false">
+                                                    </picture>
+                                                </a>
+                                            {% endfor %}
+                                        </div>
+                                    {% endif %}
+                                </div>
+
+                                {% if not loop.last %}
+                                    <!-- SEPARATOR -->
+                                    <div class="h-px bg-gray-200 dark:bg-gray-800"></div>
+                                {% endif %}
+                            {% endfor %}
+                        </div>
+                    </section>
+                {% endfor %}
             </div>
         </div>
     </div>

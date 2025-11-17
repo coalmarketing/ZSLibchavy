@@ -1,13 +1,105 @@
 ---
 title: 'Sovičky: tvořeníčko, tvoření :-)'
+post_id: '90330'
 date: '2023-06-06T18:06:50.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230529_070312.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230529_070333.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230529_070341.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230529_070538.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230529_071148.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230529_071152.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230529_071556.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230529_071603.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230529_072523.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230529_072848.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230529_073110.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230529_073115.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230529_073125.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230529_073333.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230529_073340.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230529_073608.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230529_073837.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230529_074002.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230529_074200.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230529_074208.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230529_074344.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230529_074642.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230529_074738.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230529_074810.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230529_074844.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230529_074858.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230529_074955.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230529_075537.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230529_075623.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230529_075934.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230529_075940.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230529_075944.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230529_080503.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230529_080511.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230529_080952.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230529_080955.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230529_081002.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230529_081005.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230529_081256.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230529_081302.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230529_081755.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230529_081922.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230529_082637.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230529_092309.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230529_092313.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230529_092928.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230529_094048.jpg
+  
 tags:
 - akce
 ---
 
-# Sovičky: tvořeníčko, tvoření :-)
-
-[gallery ids="90335,90336,90339,90340,90332,90337,90338,90341,90342,90343,90344,90346,90347,90348,90349,90351,90352,90353,90354,90358,90359,90377,90360,90361,90363,90364,90365,90366,90367,90368,90369,90370,90371,90372,90373,90374,90334,90375,90376,90350,90378,90355,90357,90333,90345,90356,90362"

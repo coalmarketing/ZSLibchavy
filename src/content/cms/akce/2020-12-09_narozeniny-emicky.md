@@ -1,13 +1,49 @@
 ---
 title: Narozeniny Emičky
+post_id: '48515'
 date: '2020-12-09T14:35:13.000Z'
 author: Martina Ferklová
 section: MŠ Korálek
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/S0364220.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0364221.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0364222.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0374223.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0374224.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0374225.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0384227.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0384228.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0394230.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0404231.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0404232.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0404233.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0414234.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0414235.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0414236.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0424237.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0424238.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0424239.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0424240.jpg
+  
 tags:
 - akce
 ---
 
-# Narozeniny Emičky
-
-[gallery ids="48516,48517,48518,48519,48520,48521,48523,48524,48526,48527,48528,48529,48530,48531,48532,48533,48534,48535,48536"

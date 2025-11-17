@@ -1,13 +1,29 @@
 ---
 title: Divadlo " Kocourek Mourek"
+post_id: '9285'
 date: '2018-03-01T07:58:26.000Z'
 author: Alena Pulkrábková
 section: MŠ Korálek
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6487.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6488.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6489.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6490.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6491.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6492.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6493.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6494-1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF6494.jpg
+  
 tags:
 - akce
 ---
 
-# Divadlo " Kocourek Mourek"
-
-[gallery ids="9287,9288,9289,9290,9291,9292,9293,9294,9295"

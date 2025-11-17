@@ -1,13 +1,115 @@
 ---
 title: Keramická dílnička ve školce :-)
+post_id: '64856'
 date: '2021-12-06T08:13:06.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211129_090322.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211129_090332.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211129_090414.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211129_090442.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211129_090515.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211129_090523.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211129_090531.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211129_090739.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211129_090824.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211129_090950.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211129_090959.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211129_091144.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211129_091555.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211129_091911.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211129_091918.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211129_092006.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211129_092400.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211129_092957.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211129_093112.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211129_093125.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211129_094651.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211129_094658.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211129_094931.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211129_094935.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211129_095413.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211129_095426.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211129_095436.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211129_095734.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211129_095739.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211129_095752.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211129_100529.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211129_100531.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211129_100534.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211129_100538.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211129_100542.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211129_100553.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211129_100557.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211129_101009.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211129_101233.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211129_102611.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211129_102618.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211129_102643.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211129_104654.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211129_104656.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211129_104700.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211129_104708.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211129_105851.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211129_105902.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211129_112844.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211129_112848.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211129_112851.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211129_112855.jpg
+  
 tags:
 - akce
 ---
 
-# Keramická dílnička ve školce :-)
-
-[gallery ids="64857,64858,64859,64860,64861,64862,64863,64864,64869,64870,64871,64872,64873,64874,64875,64876,64877,64878,64879,64880,64881,64882,64883,64884,64885,64886,64887,64888,64889,64890,64891,64892,64893,64894,64895,64896,64897,64898,64899,64900,64901,64902,64903,64904,64905,64906,64908,64907,64868,64866,64867,64865"

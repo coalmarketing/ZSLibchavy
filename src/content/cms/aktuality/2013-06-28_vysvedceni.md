@@ -1,5 +1,6 @@
 ---
 title: Vysvědčení
+post_id: '383'
 date: '2013-06-28T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# Vysvědčení
 
 Vážení rodiče,
 

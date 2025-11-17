@@ -1,5 +1,6 @@
 ---
 title: Schůzka rodičů vycházejících žáků
+post_id: '349'
 date: '2014-10-15T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# Schůzka rodičů vycházejících žáků
 
 Vážení rodiče,
 

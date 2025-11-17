@@ -1,13 +1,51 @@
 ---
 title: První pomoc
+post_id: '27674'
 date: '2019-11-05T07:12:16.000Z'
 author: Martina Ferklová
 section: MŠ Korálek
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/DSCF2218.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF2219.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF2220.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF2221.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF2222.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF2223.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF2224.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF2225.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF2226.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF2227.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF2228.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF2229.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF2230.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF2231.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF2232.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF2233.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF2234.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF2235.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF2236.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF2237.jpg
+  
 tags:
 - akce
 ---
 
-# První pomoc
-
-[gallery ids="27526,27527,27528,27529,27530,27531,27532,27539,27540,27538,27537,27536,27535,27534,27533,27541,27545,27544,27543,27542"

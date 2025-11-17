@@ -1,5 +1,6 @@
 ---
 title: karty IREDO
+post_id: '387'
 date: '2013-06-26T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# karty IREDO
 
 **Otázky a odpovědi k čipovým kartám IREDO**
 

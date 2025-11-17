@@ -1,5 +1,6 @@
 ---
 title: SPOLEČNĚ  ŽIJEME  KULTUROU  A  SPORTEM
+post_id: '458'
 date: '2011-06-01T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# SPOLEČNĚ  ŽIJEME  KULTUROU  A  SPORTEM
 
 ![](/fckeditor/editor/images/smiley/msn/38.gif)Zveme Vás **na oslavy** u příležitosti návštěvy hostů z družebního města Strzelin, které se budou konat **v sobotu 4. června 2011 od 13 hodin na louce za farou.**
 

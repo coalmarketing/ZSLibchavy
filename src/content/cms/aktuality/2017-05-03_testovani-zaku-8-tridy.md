@@ -1,5 +1,6 @@
 ---
 title: Testování žáků 8. třídy
+post_id: '266'
 date: '2017-05-03T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# Testování žáků 8. třídy
 
 Vážení rodiče,
 

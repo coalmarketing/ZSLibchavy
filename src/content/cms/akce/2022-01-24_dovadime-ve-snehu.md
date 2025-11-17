@@ -1,13 +1,59 @@
 ---
 title: Dovádíme ve sněhu!!!!! :-)
+post_id: '67467'
 date: '2022-01-24T14:01:38.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220121_103213.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220121_103218.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220121_103549.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220121_103559.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220121_103617.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220121_104035.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220121_112226.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220121_112248.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220124_102243.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220124_102250.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220124_102305.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220124_102308.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220124_102311.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220124_103317.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220124_103325.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220124_103719.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220124_103815.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220124_103833.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220124_103850.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220124_103850_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220124_103930.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220124_103931.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220124_103938.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220124_104654.jpg
+  
 tags:
 - akce
 ---
 
-# Dovádíme ve sněhu!!!!! :-)
-
-[gallery ids="67469,67470,67471,67472,67473,67474,67475,67476,67477,67478,67479,67480,67481,67482,67483,67484,67485,67468,67486,67487,67488,67489,67490,67491"

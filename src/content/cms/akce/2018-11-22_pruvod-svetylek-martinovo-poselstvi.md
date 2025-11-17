@@ -1,13 +1,53 @@
 ---
 title: Průvod světýlek - "Martinovo poselství"
+post_id: '16541'
 date: '2018-11-22T12:21:12.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20181118-WA0003.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20181118-WA0004.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20181118-WA0005.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20181118-WA0006.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20181118-WA0007.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20181118-WA0009.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20181118-WA0010.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20181118-WA0011.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20181118-WA0012.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20181118-WA0013.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20181118-WA0014.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20181118-WA0015.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20181118-WA0016.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20181118-WA0017.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20181118-WA0018.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20181118-WA0019.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20181118-WA0020.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20181108_075107.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20181108_075121.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20181108_075132.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20181109_122523.jpg
+  
 tags:
 - akce
 ---
 
-# Průvod světýlek - "Martinovo poselství"
-
-[gallery ids="16542,16543,16544,16545,16546,16547,16548,16549,16550,16551,16552,16553,16554,16555,16556,16557,16558,16559,16560,16561,16562"

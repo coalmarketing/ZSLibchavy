@@ -1,5 +1,6 @@
 ---
 title: Přehlídka strojírenských firem
+post_id: '301'
 date: '2016-01-19T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# Přehlídka strojírenských firem
 
 Přemýšlíte nad volbou technického oboru vzdělání?
 

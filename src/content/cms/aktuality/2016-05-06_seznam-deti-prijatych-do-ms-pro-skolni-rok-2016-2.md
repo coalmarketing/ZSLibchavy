@@ -1,5 +1,6 @@
 ---
 title: Seznam dětí přijatých do MŠ pro školní rok 2016, 2
+post_id: '592'
 date: '2016-05-06T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: MŠ Korálek
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# Seznam dětí přijatých do MŠ pro školní rok 2016, 2
 
 **_Seznam dětí přijatých do mateřských škol _**
 

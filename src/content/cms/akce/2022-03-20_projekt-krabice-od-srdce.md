@@ -1,13 +1,23 @@
 ---
 title: 'Projekt: "Krabice od srdce" :-)'
+post_id: '69975'
 date: '2022-03-20T12:49:29.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220318_115015.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220318_115023.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220318_115025.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220318_115049.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220319_092535.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220319_092540.jpg
+  
 tags:
 - akce
 ---
 
-# Projekt: "Krabice od srdce" :-)
-
-[gallery ids="69977,69978,69979,69980,69981,69976"

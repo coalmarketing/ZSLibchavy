@@ -1,13 +1,27 @@
 ---
 title: 'Slavíme: Martínek měl narozeniny :-)'
+post_id: '73104'
 date: '2022-05-13T09:21:46.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220509_081546.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220509_081556.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220509_081606.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220509_081628.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220509_081642.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220509_082605.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220509_082606.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220509_082611.jpg
+  
 tags:
 - akce
 ---
 
-# Slavíme: Martínek měl narozeniny :-)
-
-[gallery ids="73105,73106,73107,73108,73109,73110,73111,73112"

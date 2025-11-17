@@ -1,5 +1,6 @@
 ---
 title: Dopis od Rubana Raje z Indie
+post_id: '510'
 date: '2009-12-02T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# Dopis od Rubana Raje z Indie
 
 _Milí dárče! _
 

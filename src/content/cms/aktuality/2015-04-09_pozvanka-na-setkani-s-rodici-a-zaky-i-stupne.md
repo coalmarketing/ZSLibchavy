@@ -1,5 +1,6 @@
 ---
 title: Pozvánka na setkání s rodiči a žáky I.stupně
+post_id: '327'
 date: '2015-04-09T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# Pozvánka na setkání s rodiči a žáky I.stupně
 
 Vážení rodiče,
 

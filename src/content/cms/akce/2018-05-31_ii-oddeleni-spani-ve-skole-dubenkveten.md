@@ -1,13 +1,159 @@
 ---
 title: II.oddělení - spaní ve škole, duben,květen
+post_id: '11616'
 date: '2018-05-31T15:32:36.000Z'
 author: Světlana Roubíčková
 section: Družina
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6050.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6051.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6052.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6053.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6055-1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6055.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6056-1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6056.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6057-1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6058.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6059.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6061.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6062-1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6062.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6063.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6064.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6065.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6066.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6067.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6072.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6075.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6077.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6079.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6080-kopie-kopie.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6081.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6082.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6087.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6089.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6090.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6091.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6092.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6093.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6096.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6098.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6099.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6100.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6101.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6102.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6103.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6104.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6105.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6106.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6107.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6110.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6111.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6112.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6124.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6128.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6129.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6133.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6134.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6135.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6136.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6137.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6138.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6140.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6141.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6142.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6143.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6144.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6145.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6146.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6147.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6149.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6150-kopie.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6151-kopie.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6152-kopie.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6154.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6155.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6156.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6157-kopie-1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6157.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6158-kopie.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_6159-kopie.jpg
+  
 tags:
 - akce
 ---
 
-# II.oddělení - spaní ve škole, duben,květen
-
-[gallery ids="11617,11618,11619,11621,11622,11624,11625,11626,11628,11629,11630,11631,11632,11633,11634,11635,11636,11637,11638,11639,11640,11641,11642,11643,11644,11645,11646,11649,11650,11651,11652,11653,11654,11655,11656,11657,11658,11659,11660,11661,11662,11663,11664,11665,11666,11667,11668,11669,11670,11671,11672,11674,11675,11676,11677,11678,11679,11680,11681,11682,11683,11685,11686,11687,11688,11689,11690,11691,11692,11693,11694,11695,11696,11698"

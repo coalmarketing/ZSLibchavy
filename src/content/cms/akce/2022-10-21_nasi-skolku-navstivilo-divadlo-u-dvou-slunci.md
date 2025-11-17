@@ -1,13 +1,21 @@
 ---
 title: Naší školku navštívilo Divadlo u dvou Sluncí
+post_id: '79240'
 date: '2022-10-21T07:33:09.000Z'
 author: Martina Ferklová
 section: MŠ Korálek
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/20221020_093235-1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/20221020_093235.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/20221020_093250.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/20221020_093557.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/20221020_093749.jpg
+  
 tags:
 - akce
 ---
 
-# Naší školku navštívilo Divadlo u dvou Sluncí
-
-[gallery ids="79241,79242,79243,79244,79245"

@@ -1,13 +1,39 @@
 ---
 title: Pozdrav druháků z plavání
+post_id: '9381'
 date: '2018-03-02T17:37:43.000Z'
 author: Mgr. Lenka Ludvíčková
 section: Škola
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1251.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1252.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1253.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1254.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1255.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1256.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1257.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1258.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1259.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1260.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1261.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1262.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1263.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1264.jpg
+  
 tags:
 - akce
 ---
 
-# Pozdrav druháků z plavání
-
-[gallery ids="9382,9383,9384,9385,9386,9387,9388,9389,9390,9391,9392,9393,9394,9395"

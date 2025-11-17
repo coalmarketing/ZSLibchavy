@@ -18,7 +18,7 @@ module.exports = {
     whatsapp: "https://wa.me/"
   },
   //! Make sure you include the file protocol (e.g. https://) and that NO TRAILING SLASH is included
-  domain: "https://www.senoweb.cz",
+  domain: "https://www.zslibchavy.cz",
   // Passing the isProduction variable for use in HTML templates
   isProduction: process.env.ELEVENTY_ENV === "PROD",
 };

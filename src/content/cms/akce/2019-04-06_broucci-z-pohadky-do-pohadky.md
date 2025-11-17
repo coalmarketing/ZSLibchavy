@@ -1,13 +1,41 @@
 ---
 title: 'Broučci: "Z pohádky do pohádky"'
+post_id: '20540'
 date: '2019-04-06T20:26:43.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190317-WA0022-1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190317-WA0023-1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190317-WA0024.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190317-WA0025.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190317-WA0026.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190317-WA0027.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190317-WA0028.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190317-WA0029.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190317-WA0030.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190317-WA0031.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190317-WA0032.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190317-WA0033.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190317-WA0034.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190317-WA0035-1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20190317-WA0037.jpg
+  
 tags:
 - akce
 ---
 
-# Broučci: "Z pohádky do pohádky"
-
-[gallery ids="20541,20542,20543,20544,20545,20546,20547,20548,20549,20550,20551,20552,20553,20554,20555,20538,20539,20537"

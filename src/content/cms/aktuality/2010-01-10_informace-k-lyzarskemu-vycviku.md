@@ -1,5 +1,6 @@
 ---
 title: Informace k lyžařskému výcviku
+post_id: '504'
 date: '2010-01-10T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# Informace k lyžařskému výcviku
 
 Ve dnech **16\. - 22.ledna 2010** se uskutečný lyžařský výcvik na Severomoravské chatě - Podlesí, Hanušovice. Sraz všech účastníků je **v sobotu 16.ledna v 7,00h** **u vlakové stanice v Dolních** **Libchavách**.![](/fckeditor/editor/images/smiley/msn/19.gif)
 

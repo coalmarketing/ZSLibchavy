@@ -1,13 +1,149 @@
 ---
 title: Jarní setkání s rodiči Dráčci
+post_id: '22457'
 date: '2019-05-23T12:05:15.000Z'
 author: Alena Pulkrábková
 section: MŠ Korálek
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1258.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1259.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1260.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1261.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1262.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1263.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1264.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1265.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1266.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1267.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1268.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1269.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1270.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1271.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1272.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1273.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1274.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1275.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1276.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1277.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1278.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1279.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1280.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1281.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1282.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1283.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1284.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1285.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1286.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1287.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1288.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1289.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1290.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1291.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1292.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1293.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1294.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1295.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1296.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1297.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1298.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1299.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1300.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1301.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1302.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1303.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1304.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1305.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1306.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1307.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1308.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1309.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1310.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1311.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1312.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1313.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1315.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1316.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1317.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1318.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1319.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1320.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1321.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1322.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1323.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1324.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1325.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1326.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF1327.jpg
+  
 tags:
 - akce
 ---
 
-# Jarní setkání s rodiči Dráčci
-
-[gallery ids="22458,22459,22460,22461,22462,22463,22464,22465,22466,22467,22468,22469,22470,22471,22472,22473,22474,22475,22476,22477,22478,22479,22480,22481,22482,22483,22484,22485,22486,22487,22488,22489,22490,22491,22492,22493,22494,22495,22496,22497,22498,22499,22500,22501,22502,22503,22504,22505,22506,22507,22508,22509,22510,22511,22512,22513,22514,22515,22516,22517,22518,22519,22520,22521,22522,22523,22524,22525,22526"

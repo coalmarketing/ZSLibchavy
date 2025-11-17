@@ -1,13 +1,69 @@
 ---
 title: Návštěva Mikuláše
+post_id: '16819'
 date: '2018-12-05T11:41:40.000Z'
 author: Alena Pulkrábková
 section: MŠ Korálek
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/DSCF0146.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF0147.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF0148.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF0149.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF0150.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF0151.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF0152.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF0153.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF0154.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF0155.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF0156.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF0157.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF0158.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF0159.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF0160.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF0161.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF0162.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF0163.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF0164.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF0165.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF0166.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF0167.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF0168.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF0169.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF0170.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF0171.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF0172.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF0173.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF0174.jpg
+  
 tags:
 - akce
 ---
 
-# Návštěva Mikuláše
-
-[gallery ids="16820,16821,16822,16823,16824,16825,16826,16827,16828,16829,16830,16831,16832,16833,16834,16835,16836,16837,16838,16839,16840,16841,16842,16843,16844,16845,16846,16847,16848"

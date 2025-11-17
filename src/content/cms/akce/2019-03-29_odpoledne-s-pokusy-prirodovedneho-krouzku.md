@@ -1,13 +1,73 @@
 ---
 title: Odpoledne s pokusy Přírodovědného kroužku
+post_id: '20678'
 date: '2019-03-29T00:03:04.000Z'
 author: PaedDr.Hana Šťovíčková
 section: Škola
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/053.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/054.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/056.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/059.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/060.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/063.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/064.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/065.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/066.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/067.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/068.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/069.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/075.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/080.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/081.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/084.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/085.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/087.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/088.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/089.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/093.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/094.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/096.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/099.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/101.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/103.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/105.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/107.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/108.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/110.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/111.jpg
+  
 tags:
 - akce
 ---
 
-# Odpoledne s pokusy Přírodovědného kroužku
-
-[gallery ids="20679,20680,20682,20683,20684,20686,20687,20688,20689,20690,20691,20692,20695,20698,20699,20701,20702,20704,20705,20706,20709,20710,20711,20713,20714,20716,20717,20718,20719,20721,20722"

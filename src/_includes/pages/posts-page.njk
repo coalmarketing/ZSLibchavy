@@ -1,0 +1,104 @@
+{% extends "layouts/base.njk" %}
+
+{% block body %}
+    {% include "sections/landing.njk" %}
+
+    <!-- SIDEBAR + CONTENT -->
+    <div class="~py-16/24 ~px-4/8 flex items-start gap-16 bg-white dark:bg-gray-900">
+        <div class="container m-auto flex max-xl:flex-col items-start gap-16">
+            {% include "sections/sidebar.njk" %}
+
+            <!-- INNER CONTENT -->
+            <div class="flex-1 ~space-y-16/24">
+                <!-- EVENT POSTS -->
+                <section>
+                    <div class="flex flex-col gap-8">
+                        <!-- HEADING + SEARCH BAR -->
+                        <div class="flex justify-between items-end">
+                            <!-- TOPPER + HEADING -->
+                            <div class="flex flex-col gap-3">
+                                <span class="topper text-category" data-category="{{ category }}">{{ contentOne.topper }}</span>
+                                <h2 class="~text-2xl/4xl text-gray-950 dark:text-white font-extrabold">{{ contentOne.heading }}</h2>
+                            </div>
+
+                            <!-- SEARCH BAR -->
+                            <form role="search" method="GET" class="flex gap-1">
+                                <label for="search-input" class="sr-only">Search</label>
+                                <input
+                                    type="search"
+                                    id="search-input"
+                                    name="q"
+                                    placeholder="Hledat příspěvky..."
+                                    autocomplete="off"
+                                    class="form-input w-full max-w-xs text-sm text-gray-800 border border-gray-200 rounded-full">
+
+                                <button type="submit" class="w-[2.375rem] p-1 bg-gray-950 rounded-full transition-transform duration-300 hover:scale-95">
+                                    <img
+                                        src="/assets/svgs/arrow_outward_light.svg"
+                                        alt="Ikona šipky směřující nahoru"
+                                        width="24"
+                                        height="24"
+                                        loading="lazy"
+                                        decoding="async"
+                                        aria-hidden="true"
+                                        draggable="false">
+
+                                    <span class="sr-only">Hledat</span>
+                                </button>
+                            </form>
+                        </div>
+
+                        <!-- POSTS + PAGINATION NAVIGATION -->
+                        <div class="flex flex-col gap-12">
+                            {% include "components/posts.njk" %}
+
+                            <!-- PAGINATION NAVIGATION -->
+                            {% if pagination.pages.length > 1 %}
+                                <nav class="flex justify-center gap-4">
+                                    <a href="{{ pagination.href.previous }}" class="flex items-center gap-2 text-gray-800 dark:text-gray-200 hover:text-black dark:hover:text-white font-medium {%- if not pagination.href.previous %} opacity-50 pointer-events-none {%- endif %}">
+                                        <!-- CHEVRON ICON -->
+                                        <img
+                                            src="/assets/svgs/posts/chevron_backward.svg"
+                                            alt="Ikona šipky doleva"
+                                            width="20"
+                                            height="20"
+                                            loading="lazy"
+                                            decoding="async"
+                                            aria-hidden="true"
+                                            draggable="false">
+
+                                        <span>Předchozí</span>
+                                    </a>
+
+                                    <!-- 
+                                    {%- for pageEntry in pagination.pages %}
+                                        <li>
+                                            <a href="{{ pagination.hrefs[ loop.index0 ] }}"{% if page.url == pagination.hrefs[ loop.index0 ] %} aria-current="page"{% endif %}>Page {{ loop.index }}</a>
+                                        </li>
+                                    {%- endfor %} -->
+
+                                    <a href="{{ pagination.href.next }}" class="flex items-center gap-2 text-gray-800 dark:text-gray-200 hover:text-black dark:hover:text-white font-medium {%- if not pagination.href.next %} opacity-50 pointer-events-none {%- endif %}">
+                                        <span>Další</span>
+
+                                        <!-- CHEVRON ICON -->
+                                        <img
+                                            src="/assets/svgs/posts/chevron_forward.svg"
+                                            alt="Ikona šipky doleva"
+                                            width="20"
+                                            height="20"
+                                            loading="lazy"
+                                            decoding="async"
+                                            aria-hidden="true"
+                                            draggable="false">
+                                    </a>
+                                </nav>
+                            {% endif %}
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </div>
+
+    {% include "sections/cta.njk" %}
+{% endblock body %}

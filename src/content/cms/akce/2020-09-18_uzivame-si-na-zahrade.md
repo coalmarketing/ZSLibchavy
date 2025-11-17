@@ -1,13 +1,33 @@
 ---
 title: Užíváme si na zahradě!!!!
+post_id: '42349'
 date: '2020-09-18T12:26:10.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20200916-WA0001.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20200916-WA0002.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20200916-WA0003.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20200916-WA0004.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20200916-WA0005.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20200916-WA0006.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20200916-WA0007.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20200916-WA0008.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20200916-WA0009.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20200916-WA0010.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20200916-WA0011.jpg
+  
 tags:
 - akce
 ---
 
-# Užíváme si na zahradě!!!!
-
-[gallery ids="42350,42351,42352,42353,42354,42355,42356,42357,42358,42359,42360"

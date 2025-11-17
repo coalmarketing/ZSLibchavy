@@ -1,13 +1,41 @@
 ---
 title: 'Klokánci slaví: Adélka měla narozeniny'
+post_id: '15635'
 date: '2018-10-31T06:23:09.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180905_085918.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180905_085957.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180905_090013.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180905_090034.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180905_090131.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180905_090156.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180905_090221.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180905_090240.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180905_090309.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180905_090349.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180905_090409.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180905_090418.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180905_090435.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180905_090452.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180905_090515.jpg
+  
 tags:
 - akce
 ---
 
-# Klokánci slaví: Adélka měla narozeniny
-
-[gallery ids="15636,15637,15638,15639,15640,15641,15642,15643,15644,15645,15646,15647,15648,15649,15650"

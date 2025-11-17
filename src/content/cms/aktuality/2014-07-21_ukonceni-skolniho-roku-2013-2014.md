@@ -1,5 +1,6 @@
 ---
 title: Ukončení školního roku 2013/2014
+post_id: '353'
 date: '2014-07-21T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# Ukončení školního roku 2013/2014
 
 V pátek 27.června jsme ukončili školní rok 2013/2014. 
 

@@ -1,5 +1,6 @@
 ---
 title: Přihlášky na SŠ a Zápisové lístky
+post_id: '337'
 date: '2015-01-29T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# Přihlášky na SŠ a Zápisové lístky
 
 Vážení rodiče vycházejících žáků, 
 

@@ -1,13 +1,87 @@
 ---
 title: 'TVOŘENÍČKO: ,,LISTÍ ŽLOUTNE, POLETUJE"'
+post_id: '44796'
 date: '2020-10-30T13:08:51.000Z'
 author: Monika Frimlová
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/1-4.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/10-2.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/11-2.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/12-2.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/13-2.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/14-2.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/15-2.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/16-2.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/17-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/18-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/19-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/2-4.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/20-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/21-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/22-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/23-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/24-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/25-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/26-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/27-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/28-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/29-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/3-4.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/30-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/31-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/32-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/33-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/34.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/35.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/36.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/37.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/38.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/4-4.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/5-4.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/6-4.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/7-4.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/8-4.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/9-2.jpeg
+  
 tags:
 - akce
 ---
 
-# TVOŘENÍČKO: ,,LISTÍ ŽLOUTNE, POLETUJE"
-
-[gallery ids="44797,44798,44799,44800,44801,44802,44803,44804,44805,44806,44807,44808,44809,44810,44811,44812,44813,44814,44815,44816,44817,44818,44819,44820,44821,44822,44823,44824,44825,44826,44827,44828,44829,44830,44831,44832,44833,44834"

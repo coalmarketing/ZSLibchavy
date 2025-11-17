@@ -1,5 +1,6 @@
 ---
 title: Sběrové týdny v letošním školním roce
+post_id: '379'
 date: '2013-09-10T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# Sběrové týdny v letošním školním roce
 
 **SBĚROVÉ TÝDNY VE ŠKOLNÍM ROCE 2013/2014:**
 

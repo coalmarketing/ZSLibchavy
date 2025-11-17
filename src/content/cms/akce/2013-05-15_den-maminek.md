@@ -1,5 +1,6 @@
 ---
 title: Den maminek
+post_id: '5561'
 date: '2013-05-15T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: MŠ Kamarád
@@ -8,4 +9,3 @@ tags:
 - akce
 ---
 
-# Den maminek

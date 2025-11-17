@@ -1,13 +1,29 @@
 ---
 title: 'Slavíme: Julinka B. měla narozeniny :-)'
+post_id: '60551'
 date: '2021-07-31T21:00:06.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20210715-WA0002.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20210715-WA0003.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20210715-WA0004.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20210715-WA0005.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20210715-WA0006.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20210715-WA0007.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20210715-WA0008.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20210715-WA0009.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20210715-WA0010.jpg
+  
 tags:
 - akce
 ---
 
-# Slavíme: Julinka B. měla narozeniny :-)
-
-[gallery ids="60554,60555,60556,60557,60560,60552,60553,60558,60559"

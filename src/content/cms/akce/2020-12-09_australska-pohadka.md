@@ -1,13 +1,115 @@
 ---
 title: Australská pohádka
+post_id: '48799'
 date: '2020-12-09T14:59:07.000Z'
 author: Martina Ferklová
 section: MŠ Korálek
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/DSCF3596.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF3597.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF3598.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF3599.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF3600.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF3619.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF3622.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF3623.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF3624.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF3625.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF3626.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF3627.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF3628.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF3629.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF3630.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF3631.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF3632.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF3633.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF3634.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF3635.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF3636.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF3637.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF3639.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF3640.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF3641.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF3642.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF3643.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF3644.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF3645.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF3646.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF3647.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF3648.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF3649.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF3650.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF3651.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF3652.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF3653.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF3654.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF3655.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF3656.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF3657.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF3658.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF3659.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF3677.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF3678.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF3679.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF3680.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF3681.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF3682.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF3683.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF3684.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20201110_110840.jpg
+  
 tags:
 - akce
 ---
 
-# Australská pohádka
-
-[gallery ids="48800,48801,48802,48803,48804,48805,48806,48807,48808,48809,48810,48811,48812,48813,48814,48815,48816,48817,48818,48819,48820,48821,48822,48823,48824,48825,48826,48827,48828,48829,48830,48831,48832,48833,48834,48835,48836,48837,48838,48839,48840,48841,48842,48843,48844,48845,48846,48847,48848,48849,48850,48851"

@@ -1,5 +1,6 @@
 ---
 title: Přijímačky nanečisto
+post_id: '276'
 date: '2017-01-18T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# Přijímačky nanečisto
 
 Vážení rodiče žáků 9. ročníku,
 

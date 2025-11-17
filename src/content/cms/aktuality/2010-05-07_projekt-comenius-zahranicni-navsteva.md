@@ -1,5 +1,6 @@
 ---
 title: Projekt  COMENIUS - zahraniční návštěva
+post_id: '497'
 date: '2010-05-07T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# Projekt  COMENIUS - zahraniční návštěva
 
 _**![](/fckeditor/editor/images/smiley/msn/35.gif)Ve dnech 10. - 14. 5 . 2010 navštíví naši školu 11 pedagogů, 2 maminky a 14 žáků z Belgie, Dánska, Irska a Maďarska v rámci projektu Comenius![](/fckeditor/editor/images/smiley/msn/35.gif)**_
 

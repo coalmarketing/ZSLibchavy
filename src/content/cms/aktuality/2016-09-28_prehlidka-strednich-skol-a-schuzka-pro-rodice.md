@@ -1,5 +1,6 @@
 ---
 title: Přehlídka středních škol a schůzka pro rodiče
+post_id: '282'
 date: '2016-09-28T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# Přehlídka středních škol a schůzka pro rodiče 
 
 Vážení rodiče,
 

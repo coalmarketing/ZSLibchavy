@@ -1,13 +1,27 @@
 ---
 title: Libchavský betlém
+post_id: '47880'
 date: '2020-12-02T07:36:27.000Z'
 author: Martina Ferklová
 section: MŠ Korálek
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/S0843985.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0853987.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0853988.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0863991.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0873993.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0883995.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0893996.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0903998.jpg
+  
 tags:
 - akce
 ---
 
-# Libchavský betlém
-
-[gallery ids="47881,47883,47884,47887,47889,47891,47892,47894"

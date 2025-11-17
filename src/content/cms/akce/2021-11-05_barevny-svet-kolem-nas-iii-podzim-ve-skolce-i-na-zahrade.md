@@ -1,13 +1,51 @@
 ---
 title: '"Barevný svět kolem nás III." - podzim ve školce i na zahradě :-)'
+post_id: '63409'
 date: '2021-11-05T12:28:56.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20211105-WA0000.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20211105-WA0001.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20211105-WA0002.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20211105-WA0003.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20211105-WA0004.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20211105-WA0005.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20211105-WA0006.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20211105-WA0007.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20211105-WA0008.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20211105-WA0009.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20211105-WA0010.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20211105-WA0011.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20211105-WA0012.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20211105-WA0013.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20211105-WA0014.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20211105-WA0015.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20211105-WA0016.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20211105-WA0017.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20211105-WA0018.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20211105-WA0019.jpg
+  
 tags:
 - akce
 ---
 
-# "Barevný svět kolem nás III." - podzim ve školce i na zahradě :-)
-
-[gallery ids="63428,63429,63427,63413,63425,63426,63410,63414,63411,63412,63415,63416,63417,63418,63419,63420,63421,63422,63423,63424"

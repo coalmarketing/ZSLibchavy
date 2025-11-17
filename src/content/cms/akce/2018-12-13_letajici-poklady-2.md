@@ -1,13 +1,63 @@
 ---
 title: Létající poklady
+post_id: '17120'
 date: '2018-12-13T11:30:03.000Z'
 author: Alena Pulkrábková
 section: MŠ Korálek
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/DSCF0175.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF0176.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF0177.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF0178.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF0179.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF0180.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF0181.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF0182.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF0183-1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF0183.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF0184.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF0185.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF0186.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF0187.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF0188.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF0189.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF0190.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF0191.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF0192.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF0193.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF0194.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF0195.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF0196.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF0197.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF0198.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSCF0199.jpg
+  
 tags:
 - akce
 ---
 
-# Létající poklady
-
-[gallery ids="17121,17122,17123,17124,17125,17126,17127,17128,17129,17130,17131,17132,17133,17134,17135,17136,17137,17138,17139,17140,17141,17142,17143,17144,17145,17146"

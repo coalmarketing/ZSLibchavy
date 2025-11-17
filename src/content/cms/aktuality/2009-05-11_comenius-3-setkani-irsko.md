@@ -1,5 +1,6 @@
 ---
 title: COMENIUS - 3.setkání - Irsko
+post_id: '541'
 date: '2009-05-11T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# COMENIUS - 3.setkání - Irsko
 
 V úterý 12. května 2009 odlétají pí učitelky Šedová, Linhartová, Vaňousová V., Šťovíčková, Krummer do Irska na 3.setkání v rámci projektu Comenius. Navštívíme malou školičku, která má jen 35 žáků, v Cashelu poblíž města Galway.
 

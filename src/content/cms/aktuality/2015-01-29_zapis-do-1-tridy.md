@@ -1,5 +1,6 @@
 ---
 title: zápis do 1. třídy
+post_id: '336'
 date: '2015-01-29T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# zápis do 1. třídy
 
 **_Seznam dětí přijatých do Základní školy a mateřské školy Libchavy_**
 

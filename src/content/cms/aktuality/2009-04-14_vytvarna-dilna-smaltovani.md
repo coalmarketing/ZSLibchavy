@@ -1,5 +1,6 @@
 ---
 title: Výtvarná dílna - SMALTOVÁNÍ
+post_id: '559'
 date: '2009-04-14T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# Výtvarná dílna - SMALTOVÁNÍ
 
 ![](/fckeditor/editor/images/smiley/msn/lightbulb.gif)Srdečně zveme všechny, kdo rádi tvoří na další výtvarnou dílnu.
 

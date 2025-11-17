@@ -1,13 +1,81 @@
 ---
 title: 'SOVIČKY: ,,ČERTOVINY"'
+post_id: '81228'
 date: '2022-12-01T15:28:44.000Z'
 author: Monika Frimlová
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/1-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/10-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/11-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/12-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/13-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/13a.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/13b.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/13c.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/13d.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/14-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/15-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/16-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/17-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/18-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/19-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/2-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/20-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/21-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/22-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/23-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/24.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/25.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/26.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/27.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/28.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/29.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/3-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/30.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/31.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/4-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/5-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/6-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/7-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/8-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/9-1.jpeg
+  
 tags:
 - akce
 ---
 
-# SOVIČKY: ,,ČERTOVINY"
-
-[gallery ids="81229,81230,81231,81232,81233,81234,81235,81236,81237,81238,81239,81240,81241,81242,81243,81244,81245,81246,81247,81248,81249,81250,81251,81252,81253,81254,81255,81256,81257,81258,81259,81260,81261,81262,81263"

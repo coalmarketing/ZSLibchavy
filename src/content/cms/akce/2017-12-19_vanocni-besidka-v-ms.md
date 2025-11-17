@@ -1,13 +1,39 @@
 ---
 title: Vánoční besídka v MŠ
+post_id: '6884'
 date: '2017-12-19T17:10:08.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0834.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0851.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0861.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0883.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0899.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0927.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0934.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0936.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0984.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0990.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_0998.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1006.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1072.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1080.jpg
+  
 tags:
 - akce
 ---
 
-# Vánoční besídka v MŠ
-
-[gallery ids="6885,6886,6887,6898,6888,6889,6890,6891,6892,6893,6894,6895,6896,6897,6882"

@@ -1,13 +1,19 @@
 ---
 title: Ukázka buněk našich šesťáků
+post_id: '48006'
 date: '2020-12-04T14:38:20.000Z'
 author: PaedDr.Hana Šťovíčková
 section: Škola
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/Snimek-obrazovky-2020-12-03-190350.png
+  
+- url: https://zslibchavy.b-cdn.net/wp/Verunka.png
+  
+- url: https://zslibchavy.b-cdn.net/wp/Vita-1.png
+  
+- url: https://zslibchavy.b-cdn.net/wp/oski.png
+  
 tags:
 - akce
 ---
 
-# Ukázka buněk našich šesťáků
-
-[gallery ids="48008,48010,48002,48001,48009,48000,47999,48007,48004,47998,48003"

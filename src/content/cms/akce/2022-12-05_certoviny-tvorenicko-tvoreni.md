@@ -1,13 +1,117 @@
 ---
 title: '"ČERTOVINY" tvořeníčko, tvoření :-)'
+post_id: '81414'
 date: '2022-12-05T13:17:23.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221128_070742.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221128_070749.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221128_073041.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221128_073049.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221128_073057.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221128_073110.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221128_073359.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221128_073434.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221128_073451.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221128_074427.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221128_074615.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221128_074721.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221128_074735.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221128_075634.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221128_075647.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221128_075701.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221128_075705.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221128_075709.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221128_075717.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221128_075901.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221128_080401.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221128_080656.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221128_080817.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221128_081014.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221128_081018.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221128_081054.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221128_081112_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221128_081322.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221128_081631.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221129_065828.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221129_071254.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221129_071305.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221129_071852.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221129_073701.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221129_074114.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221129_074255.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221129_074356.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221129_074549.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221129_074552.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221129_075157.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221129_075543.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221129_075638.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221129_080009.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221129_080024.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221129_080853_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221129_080952.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221129_081056.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221129_081212.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221129_081324.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221129_090902.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221129_094417.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221129_094433.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20221129_094509.jpg
+  
 tags:
 - akce
 ---
 
-# "ČERTOVINY" tvořeníčko, tvoření :-)
-
-[gallery ids="81415,81416,81417,81418,81419,81420,81421,81422,81423,81424,81425,81426,81427,81428,81429,81430,81431,81432,81433,81434,81435,81436,81437,81438,81439,81440,81441,81442,81443,81444,81445,81446,81447,81448,81449,81450,81451,81452,81453,81454,81455,81456,81457,81458,81459,81460,81461,81462,81463,81464,81465,81466,81467"

@@ -1,5 +1,6 @@
 ---
 title: inzerát - volná místa
+post_id: '345'
 date: '2014-12-02T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# inzerát - volná místa
 
 _**ZŠ a MŠ Libchavy hledá **_
 

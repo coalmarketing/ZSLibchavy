@@ -1,5 +1,6 @@
 ---
 title: Pozvánka pro rodiče vycházejících žáků
+post_id: '376'
 date: '2013-10-03T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# Pozvánka pro rodiče vycházejících žáků 
 
 **_Přemýšlíte pro jakou střední školu se rozhodnout?_**
 

@@ -1,13 +1,37 @@
 ---
 title: Sníh nás baví!
+post_id: '8089'
 date: '2018-01-21T18:12:34.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180118_105855.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180118_105909_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180118_105934.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180118_110006.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180119_095759_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180119_095805_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180119_100037_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180119_100152.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180119_100156.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180119_100807_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180119_101543.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180119_101543_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180119_101548_1.jpg
+  
 tags:
 - akce
 ---
 
-# Sníh nás baví!
-
-[gallery ids="8090,8091,8092,8093,8094,8095,8096,8097,8098,8099,8100,8101,8102"

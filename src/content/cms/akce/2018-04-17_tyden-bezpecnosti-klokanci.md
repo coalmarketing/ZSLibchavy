@@ -1,13 +1,81 @@
 ---
 title: '"Týden bezpečnosti": Klokánci'
+post_id: '10240'
 date: '2018-04-17T10:48:43.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180411_093352.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180411_093425.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180411_093524.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180411_093540.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180411_093628.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180411_093645.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180411_093724.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180411_094405.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180411_094433.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180411_094435.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180411_095307.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180411_095321.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180411_101247.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180411_101346.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180411_101454.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180411_101803.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180411_101812.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180411_102225.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180411_102251.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180411_102342.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180411_102438.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180411_102605.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180411_102614.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180411_102832.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180411_102845.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180411_110851.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180411_110901.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180411_110904.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180411_111119.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180411_111124.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180411_111522.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180411_111527.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180411_111532.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180411_112145.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180411_112148.jpg
+  
 tags:
 - akce
 ---
 
-# "Týden bezpečnosti": Klokánci
-
-[gallery ids="10250,10258,10259,10252,10260,10257,10254,10256,10255,10249,10253,10273,10251,10272,10271,10270,10269,10268,10267,10266,10265,10264,10263,10262,10261,10242,10275,10248,10247,10246,10245,10244,10243,10241,10274"

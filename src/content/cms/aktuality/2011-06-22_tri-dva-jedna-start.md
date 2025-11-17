@@ -1,5 +1,6 @@
 ---
 title: Tři, dva, jedna - START !
+post_id: '615'
 date: '2011-06-22T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Družina
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# Tři, dva, jedna - START !
 
 V pátek 24.6.2011 - " ODLÉTÁME"
 

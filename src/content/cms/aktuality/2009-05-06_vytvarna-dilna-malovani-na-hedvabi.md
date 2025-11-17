@@ -1,5 +1,6 @@
 ---
 title: Výtvarná dílna - MALOVÁNÍ NA HEDVÁBÍ
+post_id: '543'
 date: '2009-05-06T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# Výtvarná dílna - MALOVÁNÍ NA HEDVÁBÍ
 
 Zveme Vás na poslední výtvarnou dílnu v tomto školním roce.![](/fckeditor/editor/images/smiley/msn/62.gif)
 

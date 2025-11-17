@@ -1,13 +1,73 @@
 ---
 title: Zdobení perníčků a slepování lineckého
+post_id: '29489'
 date: '2019-12-17T07:23:09.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191215-WA0000.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191215-WA0001.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191215-WA0002.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191215-WA0003.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191215-WA0004.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191215-WA0005.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191215-WA0006.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191215-WA0007.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191215-WA0008.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191215-WA0009.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191215-WA0010.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191215-WA0011.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191215-WA0012.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191215-WA0013.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191215-WA0014.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191215-WA0015.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191215-WA0016.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191215-WA0017.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191215-WA0018.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191215-WA0019.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191215-WA0020.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191215-WA0021.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191215-WA0022.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191215-WA0023.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191215-WA0024.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191215-WA0025.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191215-WA0026.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191215-WA0027.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191215-WA0028.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191215-WA0029.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG-20191215-WA0030.jpg
+  
 tags:
 - akce
 ---
 
-# Zdobení perníčků a slepování lineckého
-
-[gallery ids="29500,29501,29502,29503,29505,29506,29507,29508,29509,29510,29511,29512,29513,29514,29515,29516,29517,29518,29519,29520,29521,29522,29523,29524,29525,29526,29527,29528,29529,29530,29531"

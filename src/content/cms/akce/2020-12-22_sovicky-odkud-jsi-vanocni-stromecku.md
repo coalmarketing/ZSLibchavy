@@ -1,13 +1,119 @@
 ---
 title: 'SOVIČKY: ODKUD JSI VÁNOČNÍ STROMEČKU?'
+post_id: '49589'
 date: '2020-12-22T10:41:20.000Z'
 author: Monika Frimlová
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/1-3.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/10-2.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/11.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/12-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/13-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/14-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/16-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/17-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/18-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/19-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/2-3.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/20-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/21-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/22-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/23-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/24-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/25-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/26-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/27-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/28-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/29-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/3-3.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/30-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/31-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/32-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/33-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/34-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/35-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/36-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/37-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/38-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/39-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/4-3.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/40-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/41-1.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/42.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/43.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/44.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/45.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/46.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/47.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/48.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/49.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/5-3.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/50.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/51.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/52.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/53.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/54.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/55.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/6-3.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/7-3.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/8-2.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/9-2.jpeg
+  
 tags:
 - akce
 ---
 
-# SOVIČKY: ODKUD JSI VÁNOČNÍ STROMEČKU?
-
-[gallery ids="49590,49591,49592,49593,49594,49595,49596,49597,49598,49599,49600,49601,49602,49603,49604,49605,49606,49607,49608,49609,49610,49611,49612,49613,49614,49615,49616,49617,49618,49619,49620,49621,49622,49623,49624,49625,49626,49627,49628,49629,49630,49631,49632,49633,49634,49635,49636,49637,49638,49639,49640,49641,49642,49643"

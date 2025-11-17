@@ -1,13 +1,23 @@
 ---
 title: Návštěva zahradnictví:-)
+post_id: '69983'
 date: '2022-03-20T12:52:16.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220314_102651.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220314_102654.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220314_102703.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220314_102718.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220314_102729.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220314_110132.jpg
+  
 tags:
 - akce
 ---
 
-# Návštěva zahradnictví:-)
-
-[gallery ids="69985,69986,69987,69988,69989,69984"

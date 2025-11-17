@@ -1,5 +1,6 @@
 ---
 title: Sběrové týdny
+post_id: '284'
 date: '2016-08-31T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# Sběrové týdny
 
 I v letošním školním roce budeme sbírat ve škole starý papír. Zde jsou termíny sběrových týdnů, kdy můžete papír buď odevzdat mezi 7:30 a 7:45, nebo jej zanechat během dne u našeho sběrového místa, tedy u garáže na boku školy.
 

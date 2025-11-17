@@ -1,13 +1,77 @@
 ---
 title: Vyrábíme dárečky pro tatínky :-)
+post_id: '91340'
 date: '2023-06-26T09:15:12.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230614_070225.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230614_070231.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230614_070354.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230614_070402.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230614_070623.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230614_070627.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230614_070630.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230614_071517.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230614_071521.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230614_071756.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230614_072709.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230614_072712.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230614_073022.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230614_073031.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230614_073048.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230614_073719.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230614_073959.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230614_074002.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230614_074259.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230614_075203.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230614_075658.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230614_080218.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230614_080223.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230614_091503.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230614_091910.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230614_091936.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230614_094222.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230614_095234.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230614_095235.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230615_073823.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230615_073827.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230615_073830_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20230615_075735.jpg
+  
 tags:
 - akce
 ---
 
-# Vyrábíme dárečky pro tatínky :-)
-
-[gallery ids="91342,91343,91344,91345,91346,91347,91348,91349,91350,91351,91352,91353,91354,91355,91356,91357,91358,91359,91360,91361,91362,91363,91364,91365,91366,91367,91368,91369,91370,91371,91372,91373,91374"

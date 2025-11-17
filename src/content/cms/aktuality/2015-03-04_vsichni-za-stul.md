@@ -1,5 +1,6 @@
 ---
 title: Všichni za stůl!
+post_id: '330'
 date: '2015-03-04T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# Všichni za stůl!
 
 Prosíme všechny příznivce naší školy, aby nám věnovali chvílku svého času a hlasovali pro naše žáky v soutěři o pingpongový stůl.
 

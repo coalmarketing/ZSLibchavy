@@ -1,13 +1,51 @@
 ---
 title: Klokánci a Broučci se těší na Masopust
+post_id: '8472'
 date: '2018-02-01T18:08:47.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180201_104330_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180201_104334_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180201_104339_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180201_104343_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180201_104403_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180201_104412.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180201_104422_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180201_104427_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180201_104441_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180201_104612.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180201_104944_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180201_105137_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180201_105146.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180201_105645_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180201_110113_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180201_111555_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180201_111822.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180201_112049_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180201_112052_1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20180201_112321_1.jpg
+  
 tags:
 - akce
 ---
 
-# Klokánci a Broučci se těší na Masopust
-
-[gallery ids="8476,8477,8478,8479,8482,8483,8484,8481,8480,8485,8486,8487,8474,8488,8475,8489,8490,8491,8473,8492"

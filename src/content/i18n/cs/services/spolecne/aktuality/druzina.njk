@@ -1,0 +1,39 @@
+---js
+const layout = "pages/posts-page.njk";
+
+const title = 'Efektivní weby na míru';
+const description = 'V Senoweb se specializujeme na tvorbu webových stránek na míru. Nepoužíváme koupené šablony, nástroje pro automatizované budování webů ani nástroje, které by váš web zahlcovali zbytečným kódem a tím vaší stránku zpomalovaly.';
+const permalink = '/spolecne/aktuality/druzina/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{% endif %}';
+  
+const category = 'spolecne';
+
+const pagination = { 
+    data: 'collections.aktuality',
+    size: 30,
+    reverse: true,
+    alias: 'posts',
+    before: function (paginationData, fullData) {
+      return paginationData.filter((d) => d.data.section === "Družina");
+    }
+  };
+  
+  const landing = {
+    badge: 'Společné',
+    heading: 'Aktuality',
+    breadcrumbs: [
+      { title: 'Domů', url: '/' },
+      { title: 'Společné' },
+      { title: 'Aktuality', url: '/spolecne/aktuality' },
+      { title: 'Družina' }
+    ],
+    image: {
+      url: '/assets/images/services/skola/landing.jpg',
+      alt: 'Jazyková učebna'
+    }
+  };
+
+  const contentOne = {
+    topper: 'Aktuality',
+    heading: 'Novinky pro žáky a rodiče'
+  };
+---

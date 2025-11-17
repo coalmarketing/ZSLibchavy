@@ -1,5 +1,6 @@
 ---
 title: Nová střední škola
+post_id: '424'
 date: '2012-05-10T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -8,4 +9,3 @@ tags:
 - aktuality
 ---
 
-# Nová střední škola

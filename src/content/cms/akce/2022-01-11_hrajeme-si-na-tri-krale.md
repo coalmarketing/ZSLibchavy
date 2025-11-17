@@ -1,13 +1,35 @@
 ---
 title: HRAJEME SI NA TŘI KRÁLE :-)
+post_id: '66639'
 date: '2022-01-11T12:59:01.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220107_110010.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220107_110014.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220107_110017.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220107_110019.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220107_110021.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220107_110134.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220107_110140.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220107_110143.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220107_110153.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220107_110156.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220107_110202.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20220107_110207.jpg
+  
 tags:
 - akce
 ---
 
-# HRAJEME SI NA TŘI KRÁLE :-)
-
-[gallery ids="66640,66641,66642,66643,66644,66645,66646,66647,66648,66649,66650,66651"

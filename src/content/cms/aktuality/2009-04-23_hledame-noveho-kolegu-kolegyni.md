@@ -1,5 +1,6 @@
 ---
 title: Hledáme nového kolegu - kolegyni
+post_id: '547'
 date: '2009-04-23T00:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Škola
@@ -7,8 +8,6 @@ images: []
 tags:
 - aktuality
 ---
-
-# Hledáme nového kolegu - kolegyni
 
 **_Důležité oznámení ![](/fckeditor/editor/images/smiley/msn/42.gif)_**
 

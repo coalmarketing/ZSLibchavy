@@ -1,13 +1,13 @@
 ---
 title: Beseda pro rodiče - NEBEZPEČÍ INTERNETU
+post_id: '14608'
 date: '2018-10-15T12:05:08.000Z'
 author: PaedDr.Hana Šťovíčková
 section: Škola
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/plakát.jpg
+  
 tags:
 - aktuality
 ---
 
-# Beseda pro rodiče - NEBEZPEČÍ INTERNETU
-
-[gallery ids="14612"

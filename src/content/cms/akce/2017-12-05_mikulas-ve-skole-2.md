@@ -1,13 +1,35 @@
 ---
 title: Mikuláš ve škole
+post_id: '6656'
 date: '2017-12-05T13:26:46.000Z'
 author: Mgr.Marie Linhartová
 section: Škola
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG_3536.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_3538.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_3543.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_3546.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_3552.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_3561.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_3565.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_3571.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_3574.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_3578-1.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_3584.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_3585.jpg
+  
 tags:
 - akce
 ---
 
-# Mikuláš ve škole
-
-[gallery ids="6628,6629,6638,6639,6641,6644,6646,6647,6648,6649,6650,6651"

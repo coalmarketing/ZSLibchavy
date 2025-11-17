@@ -1,13 +1,185 @@
 ---
 title: Besídka "Den maminek"
+post_id: '12452'
 date: '2018-06-13T10:21:03.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1797.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1799.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1800.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1801.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1802.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1803.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1806.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1807.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1808.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1809.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1812.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1813.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1814.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1815.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1816.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1817.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1822.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1831.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1833.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1835.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1836.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1837.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1838.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1839.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1840.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1841.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1843.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1844.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1845.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1846.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1847.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1848.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1849.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1851.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1852.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1854.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1855.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1856.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1857.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1858.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1859.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1860.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1861.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1862.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1863.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1864.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1867.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1869.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1870.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1871.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1872.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1873.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1874.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1876.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1878.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1883.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1884.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1885.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1886.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1887.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1889.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1891.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1897.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1898.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1899.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1900.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1901.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1902.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1903.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1904.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1905.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1907.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1908.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1909.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1910.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1911.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1918.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1925.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1926.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1928.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1929.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1930.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1931.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1933.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1935.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1945.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/DSC_1951.jpg
+  
 tags:
 - akce
 ---
 
-# Besídka "Den maminek"
-
-[gallery ids="12539,12538,12537,12536,12535,12534,12528,12529,12530,12531,12532,12533,12527,12526,12525,12524,12523,12522,12516,12517,12518,12519,12520,12521,12515,12514,12513,12512,12511,12510,12504,12505,12506,12507,12508,12509,12503,12502,12501,12500,12499,12498,12492,12493,12494,12495,12496,12497,12491,12490,12489,12488,12487,12486,12480,12481,12482,12483,12484,12485,12479,12478,12477,12476,12475,12474,12468,12469,12470,12471,12472,12473,12467,12466,12465,12464,12463,12462,12456,12457,12458,12459,12460,12461,12455,12454,12453"

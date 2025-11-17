@@ -1,13 +1,133 @@
 ---
 title: 'SOVIČKY: PRVNÍ SPOLEČNÉ DNY'
+post_id: '119425'
 date: '2025-09-17T14:28:31.000Z'
 author: Monika Frimlová
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1025.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1027.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1029.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1034.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1036.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1039.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1041.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1042.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1044.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1046.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1047.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1048.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1050.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1053.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1054.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1055.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1058.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1064.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1066.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1069.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1071.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1074.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1077.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1078.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1082.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1091.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1092.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1093.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1094.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1097.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1100.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1101.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1103.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1104.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1105.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1106.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1107.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1108.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1110.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1111.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1112.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1114.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1116.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1118.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1120.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1121.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1136.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1177.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1197.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1202.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1204.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1206.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1210.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1211.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1285.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1286.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1287.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1291.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1293.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1294.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_1295.jpeg
+  
 tags:
 - akce
 ---
 
-# SOVIČKY: PRVNÍ SPOLEČNÉ DNY
-
-[gallery ids="119426,119427,119428,119429,119430,119431,119432,119433,119434,119435,119436,119437,119438,119439,119440,119441,119442,119443,119444,119445,119446,119447,119448,119449,119450,119451,119452,119453,119454,119455,119456,119457,119458,119459,119460,119461,119462,119463,119464,119465,119466,119467,119468,119469,119471,119472,119474,119480,119482,119481,119483,119484,119485,119486,119470,119473,119475,119476,119477,119479,119478"

@@ -1,5 +1,6 @@
 ---
 title: Městečko - Libchavy / sport /
+post_id: '5728'
 date: '2014-06-17T22:00:00.000Z'
 author: ZŠ &amp; MŠ Libchavy
 section: Družina
@@ -8,4 +9,3 @@ tags:
 - akce
 ---
 
-# Městečko - Libchavy / sport /

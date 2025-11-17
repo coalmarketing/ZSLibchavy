@@ -1,13 +1,55 @@
 ---
 title: 'Slavíme: Klárka- narozeniny, Lucinka a Julinky - svátky :-)'
+post_id: '65643'
 date: '2021-12-17T07:16:56.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211213_100651.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211213_100700.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211213_100703.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211213_100712.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211213_100903.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211213_100926.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211213_100928.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211213_100942.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211213_101028.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211213_101041.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211213_101104.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211213_101129.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211213_101202.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211213_101228.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211213_101249.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211213_101321.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211213_101337.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211213_101344.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211213_101508.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211213_101700.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211213_101704.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20211213_101740.jpg
+  
 tags:
 - akce
 ---
 
-# Slavíme: Klárka- narozeniny, Lucinka a Julinky - svátky :-)
-
-[gallery ids="65644,65645,65646,65647,65648,65649,65650,65651,65652,65653,65654,65655,65656,65657,65658,65659,65660,65661,65662,65663,65664,65665"

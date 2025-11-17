@@ -1,0 +1,31 @@
+{
+    "layout": "layouts/post.njk",
+    "eleventyComputed": {
+        "permalink": "/aktuality/{{ page.fileSlug }}/index.html"
+    },
+    "tags": "aktuality",
+    "category": "{{ section | slug | lower }}",
+    "landing": {
+        "heading": "Aktualita",
+        "breadcrumbs": [
+            {
+                "title": "Domů",
+                "url": "/"
+            },
+            {
+                "title": "Společné"
+            },
+            {
+                "title": "Aktuality",
+                "url": "/spolecne/aktuality"
+            },
+            {
+                "title": "Tento příspěvek"
+            }
+        ],
+        "image": {
+            "url": "/assets/images/services/skola/landing.jpg",
+            "alt": "Jazyková učebna"
+        }
+    }
+}

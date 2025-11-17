@@ -1,13 +1,235 @@
 ---
 title: Program "VÁNOCE" z Oucmanic
+post_id: '48606'
 date: '2020-12-09T14:53:51.000Z'
 author: Martina Ferklová
 section: MŠ Korálek
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/S0015001.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0025004.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0035007.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0045010.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0055012.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0065014.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0065016.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0075017.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0085019.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0095021.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0105023.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0115025.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0125027.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0135028.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0145031.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0145032.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0145033.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0155034.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0155035.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0165037.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0175039.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0185041.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0195043.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0205046.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0215048.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0225050.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0225052.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0235053.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0235054.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0245055.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0514266.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0524269.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0524271.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0524272.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0534273.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0534274.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0544276.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0554279.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0554280.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0564282.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0564284.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0574285.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0574286.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0584289.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0594290.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0604292.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0604293.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0604294.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0614295.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0614296.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0624297.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0624298.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0634299.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0634300.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0644301.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0644302.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0654303.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0654304.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0664305.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0664306.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0664307.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0664308.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0674309.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0674310.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0684312.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0684313.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0694314.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0704317.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0714319.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0714320.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0724322.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0734324.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0744326.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0744327.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0744329.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0754331.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0754332.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0764333.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0774335.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0784337.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0794339.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0794341.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0804342.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0804343.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0804344.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0814345.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0814346.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0814347.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0824348.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0834351.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0844354.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0844355.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0854356.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0854357.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0854358.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0864359.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0874362.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0874364.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0884365.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0884366.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0894367.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0904370.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0914373.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0924376.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0924378.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0934379.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0944382.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0954385.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0964387.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0974390.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0984393.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/S0994396.jpg
+  
 tags:
 - akce
 ---
 
-# Program "VÁNOCE" z Oucmanic
-
-[gallery ids="48607,48610,48613,48616,48618,48620,48622,48623,48625,48627,48629,48631,48633,48634,48637,48638,48639,48640,48641,48643,48645,48647,48649,48652,48654,48656,48658,48659,48660,48661,48664,48667,48669,48670,48671,48672,48674,48677,48678,48680,48682,48683,48684,48687,48688,48690,48691,48692,48693,48694,48695,48696,48697,48698,48699,48700,48701,48702,48703,48704,48705,48706,48707,48708,48710,48711,48712,48715,48717,48718,48720,48722,48724,48725,48727,48729,48730,48731,48733,48735,48738,48740,48741,48742,48743,48744,48745,48746,48747,48750,48753,48754,48755,48756,48757,48758,48761,48763,48764,48765,48766,48769,48772,48775,48777,48778,48781,48784,48786,48789,48792,48795"

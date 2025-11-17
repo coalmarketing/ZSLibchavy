@@ -1,13 +1,17 @@
 ---
 title: práce "Broučků" II.
+post_id: '39175'
 date: '2020-06-01T13:19:10.000Z'
 author: Bc. Renata Krejčová, Dis
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200601_125002.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200601_125009.jpg
+  
+- url: https://zslibchavy.b-cdn.net/wp/IMG_20200601_125015.jpg
+  
 tags:
 - akce
 ---
 
-# práce "Broučků" II.
-
-[gallery ids="39176,39177,39178"

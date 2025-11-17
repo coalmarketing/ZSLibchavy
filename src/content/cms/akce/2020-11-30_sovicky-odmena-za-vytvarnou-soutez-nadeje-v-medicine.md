@@ -1,13 +1,23 @@
 ---
 title: 'SOVIČKY: ODMĚNA ZA VÝTVARNOU SOUTĚŽ ,,NADĚJE V MEDICÍNĚ"'
+post_id: '47766'
 date: '2020-11-30T13:00:31.000Z'
 author: Monika Frimlová
 section: MŠ Kamarád
-images: []
+images:
+- url: https://zslibchavy.b-cdn.net/wp/1-2.png
+  
+- url: https://zslibchavy.b-cdn.net/wp/2-4.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/3-4.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/4-4.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/5-4.jpeg
+  
+- url: https://zslibchavy.b-cdn.net/wp/6-3.jpeg
+  
 tags:
 - akce
 ---
 
-# SOVIČKY: ODMĚNA ZA VÝTVARNOU SOUTĚŽ ,,NADĚJE V MEDICÍNĚ"
-
-[gallery ids="47767,47768,47769,47770,47771,47772"
