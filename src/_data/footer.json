@@ -89,7 +89,7 @@
             "items": [
                 {
                     "text": "Kontakty",
-                    "url": "/kontakty",
+                    "url": "/spolecne/kontakty",
                     "target": "_self"
                 },
                 {
@@ -99,7 +99,7 @@
                 },
                 {
                     "text": "Proběhlé akce",
-                    "url": "/probehle-akce",
+                    "url": "/spolecne/probehle-akce",
                     "target": "_self"
                 },
                 {
@@ -112,7 +112,7 @@
     ],
     "copyright": "© 2025 Všechna práva vyhrazena - Vytvořeno s 💜 od",
     "privacyPolicy": {
-        "url": "/zpracovani-osobnich-udaju",
+        "url": "/spolecne/zpracovani-osobnich-udaju",
         "text": "Zpracování osobních údajů"
     }
 }

@@ -1,8 +1,8 @@
 ---
 layout: "pages/home.njk"
 
-title: 'Efektivní weby na míru'
-description: 'V Senoweb se specializujeme na tvorbu webových stránek na míru. Nepoužíváme koupené šablony, nástroje pro automatizované budování webů ani nástroje, které by váš web zahlcovali zbytečným kódem a tím vaší stránku zpomalovaly.'
+title: 'Domovská stránka'
+description: 'Prohlédněte si aktuální dění v ZŠ a MŠ Libchavy. Nabízíme moderní vzdělávání, přátelské prostředí, kvalitní školky, školní družinu, chutnou jídelnu a mnoho kroužků.'
 permalink: '/'
 
 category: domu
@@ -113,7 +113,7 @@ about:
   text: Naše škola v Libchavách stojí na&nbsp;pevných základech tradice a&nbsp;zároveň se&nbsp;neustále rozvíjí. Nabízíme moderní způsoby výuky, rodinnou atmosféru a&nbsp;podporu každého žáka podle individuálních potřeb. Věříme, že&nbsp;vzdělávání má děti připravovat nejen na&nbsp;školní úspěchy, ale i&nbsp;na&nbsp;život, proto klademe důraz na&nbsp;spolupráci, tvořivost a&nbsp;radost z&nbsp;učení.
 
   cta:
-    url: /skola/zakladni-informace
+    url: /skola
     text: Více o škole
 
   image:

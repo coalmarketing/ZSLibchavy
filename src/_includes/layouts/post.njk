@@ -12,7 +12,7 @@
 {% endblock %}
 
 {% block body %}
-    {% set category = section | slug | lower %}
+    {% set category = section | slug %}
     {% include "sections/landing.njk" %}
 
     <!-- SECTION -->

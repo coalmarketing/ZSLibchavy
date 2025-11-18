@@ -2,7 +2,7 @@
 {% set groups = files | groupby("data.group") %}
 
 {% for group in groups %}
-    <div {%- if group.key !== "_ungrouped" %} id="{{ group.key | slug | lower }}" {%- endif %} class="flex flex-col gap-4">
+    <div {%- if group.key !== "_ungrouped" %} id="{{ group.key | slug }}" {%- endif %} class="flex flex-col gap-4">
         {% if group.key !== "_ungrouped" %}
             <h3 class="text-2xl text-gray-950 dark:text-white font-semibold">{{ group.key }}</h3>
         {% endif %}

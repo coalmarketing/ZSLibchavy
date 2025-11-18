@@ -1,8 +1,8 @@
 ---
 layout: "pages/services/skola/uredni-deska.njk"
 
-title: 'Efektivní weby na míru'
-description: 'V Senoweb se specializujeme na tvorbu webových stránek na míru. Nepoužíváme koupené šablony, nástroje pro automatizované budování webů ani nástroje, které by váš web zahlcovali zbytečným kódem a tím vaší stránku zpomalovaly.'
+title: 'Úřední deska • Škola'
+description: 'Úřední deska Základní a mateřské školy Libchavy – dokumenty školy, oznámení, rozhodnutí a povinné informace pro rodiče a veřejnost.'
 permalink: 'skola/uredni-deska/'
 
 category: skola
@@ -17,6 +17,7 @@ landing:
       url: /
 
     - title: Škola
+      url: /skola
 
     - title: Úřední deska
 

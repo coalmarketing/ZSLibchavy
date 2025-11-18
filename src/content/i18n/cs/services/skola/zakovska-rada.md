@@ -1,8 +1,8 @@
 ---
 layout: "pages/services/skola/zakovska-rada.njk"
 
-title: 'Efektivní weby na míru'
-description: 'V Senoweb se specializujeme na tvorbu webových stránek na míru. Nepoužíváme koupené šablony, nástroje pro automatizované budování webů ani nástroje, které by váš web zahlcovali zbytečným kódem a tím vaší stránku zpomalovaly.'
+title: 'Žákovský parlament • Škola'
+description: 'Podpora žáků ve škole prostřednictvím žákovského parlamentu. Informace o členství, projektech a zapojení do rozhodování školy.'
 permalink: 'skola/zakovska-rada/'
 
 category: skola
@@ -17,6 +17,7 @@ landing:
       url: /
 
     - title: Škola
+      url: /skola
 
     - title: Žákovský parlament
 

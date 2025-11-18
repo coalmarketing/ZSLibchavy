@@ -175,6 +175,10 @@
                 "url": "/spolecne/dokumenty-ke-stazeni#druzina"
             },
             {
+                "text": "Jídelní lístek",
+                "url": "/jidelna/jidelni-listek"
+            },
+            {
                 "text": "Projekty",
                 "url": "/spolecne/projekty#druzina"
             },
@@ -312,6 +316,10 @@
             {
                 "text": "Kontakty",
                 "url": "/spolecne/kontakty"
+            },
+            {
+                "text": "Zpracování osobních údajů",
+                "url": "/spolecne/zpracovani-osobnich-udaju"
             }
         ]
     }

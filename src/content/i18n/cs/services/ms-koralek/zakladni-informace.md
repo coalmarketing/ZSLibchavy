@@ -1,8 +1,8 @@
 ---
 layout: "pages/services/ms-koralek/zakladni-informace.njk"
 
-title: 'Efektivní weby na míru'
-description: 'V Senoweb se specializujeme na tvorbu webových stránek na míru. Nepoužíváme koupené šablony, nástroje pro automatizované budování webů ani nástroje, které by váš web zahlcovali zbytečným kódem a tím vaší stránku zpomalovaly.'
+title: 'Základní informace • MŠ Korálek'
+description: 'Přehledné informace o MŠ Korálek v Libchavách. Kontakty, provoz, pedagogický sbor a základní údaje pro rodiče i veřejnost.'
 permalink: 'ms-koralek/'
 
 category: ms-koralek
@@ -25,8 +25,8 @@ landing:
     - title: Základní informace
 
   image:
-    url: /assets/images/services/skola/landing.jpg
-    alt: Jazyková učebna
+    url: /assets/images/services/ms-koralek/landing.jpg
+    alt: Herna námořníků MŠ Korálek
 
 
 sections:

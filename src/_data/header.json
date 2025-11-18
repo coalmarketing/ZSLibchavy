@@ -2,7 +2,7 @@
     "topBar": {
         "miscLinks": [
             {
-                "url": "/kontakty",
+                "url": "/spolecne/kontakty",
                 "target": "_self",
                 "icon": {
                     "url": "/assets/svgs/header/call.svg",

@@ -23,6 +23,10 @@
     &.bg-white {
       div {
         @apply bg-gray-950;
+
+        img {
+          @apply ~h-4/5 ~w-4/5;
+        }
       }
     }
   }
@@ -32,7 +36,7 @@
   }
 
   .btn-lg {
-    @apply py-2.5 pl-6 pr-3 ~text-base/lg;
+    @apply ~py-2/2.5 ~pl-4/6 ~pr-2/3 ~text-base/lg;
   }
 
   /* ============== */

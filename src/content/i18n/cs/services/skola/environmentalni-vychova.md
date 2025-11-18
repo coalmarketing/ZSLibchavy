@@ -1,8 +1,8 @@
 ---
 layout: "pages/services/skola/environmentalni-vychova.njk"
 
-title: 'Efektivní weby na míru'
-description: 'V Senoweb se specializujeme na tvorbu webových stránek na míru. Nepoužíváme koupené šablony, nástroje pro automatizované budování webů ani nástroje, které by váš web zahlcovali zbytečným kódem a tím vaší stránku zpomalovaly.'
+title: 'Environmentální výchova • Škola'
+description: 'ZŠ Libchavy nabízí environmentální výchovu prostřednictvím projektů, školních aktivit a programů, které učí děti respektu k přírodě.'
 permalink: 'skola/environmentalni-vychova/'
 
 category: skola
@@ -17,6 +17,7 @@ landing:
       url: /
 
     - title: Škola
+      url: /skola
 
     - title: Environmentální výchova
 

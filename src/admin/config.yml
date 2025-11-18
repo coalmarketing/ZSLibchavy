@@ -484,6 +484,13 @@ collections:
           - { label: "Nepedagogové", value: "Nepedagogové" }
 
       - { label: "Funkce", name: "function", widget: "string" }
+      - {
+          label: "Speciální role",
+          name: "role",
+          widget: "string",
+          hint: "Například: ICT koordinátor, výchovný poradce atd.",
+          required: false,
+        }
       - { label: "Email", name: "email", widget: "string", required: false }
       - { label: "Telefon", name: "phone", widget: "string", required: false }
       - {
@@ -533,6 +540,44 @@ collections:
         }
       - { label: "Soubor", name: "url", widget: "file" }
       - { label: "Štítky", name: "tags", widget: "hidden", default: ["deska"] }
+
+  # ========================================= #
+  # ===== ŠKOLSKÉ PORADENSKÉ PRACOVIŠTĚ ===== #
+  # ========================================= #
+  - name: "spp"
+    label: "Školské poradenské pracoviště"
+    label_singular: "Školské poradenské pracoviště"
+    folder: "src/content/cms/spp"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
+    editor:
+      preview: false
+
+    fields:
+      - {
+          label: "Název",
+          name: "title",
+          widget: "string",
+          hint: "Zadejte srozumitelný název, který se zobrazí na webu.",
+        }
+
+      - label: "Zaměstnanci"
+        label_singular: "Zaměstnanec"
+        name: "employees"
+        widget: "list"
+        minimize_collapsed: false
+        hint: "Vyberte zaměstnance, kteří souvisejí s touto položkou ŠPP."
+        fields:
+          - label: "Zaměstnanec"
+            name: "employee"
+            widget: "relation"
+            collection: "zamestnanci"
+            search_fields: ["title"]
+            value_field: "{{slug}}"
+            display_fields: ["{{ title }}"]
+
+      - { label: "Obsah", name: "body", widget: "markdown" }
+      - { label: "Štítky", name: "tags", widget: "hidden", default: ["spp"] }
 
   # =============================== #
   # ===== ZÁPIS DO 1. ROČNÍKU ===== #

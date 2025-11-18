@@ -1,8 +1,8 @@
 ---
 layout: "pages/services/spolecne/seznam-zamestnancu.njk"
 
-title: 'Efektivní weby na míru'
-description: 'V Senoweb se specializujeme na tvorbu webových stránek na míru. Nepoužíváme koupené šablony, nástroje pro automatizované budování webů ani nástroje, které by váš web zahlcovali zbytečným kódem a tím vaší stránku zpomalovaly.'
+title: 'Seznam zaměstnanců'
+description: 'Najděte kompletní seznam učitelů a zaměstnanců Základní a mateřské školy Libchavy. Informace o pedagogickém sboru, asistentech, vedení i provozních pracovnících.'
 permalink: 'spolecne/seznam-zamestnancu/'
 
 category: spolecne

@@ -1,8 +1,8 @@
 ---
 layout: "pages/services/spolecne/projekty.njk"
 
-title: 'Efektivní weby na míru'
-description: 'V Senoweb se specializujeme na tvorbu webových stránek na míru. Nepoužíváme koupené šablony, nástroje pro automatizované budování webů ani nástroje, které by váš web zahlcovali zbytečným kódem a tím vaší stránku zpomalovaly.'
+title: 'Projekty'
+description: 'Zajímá vás, jaké projekty pomáhají rozvíjet školu a školky v Libchavách? Podívejte se na seznam dotačních programů a jejich přínosů pro žáky.'
 permalink: 'spolecne/projekty/'
 
 category: spolecne

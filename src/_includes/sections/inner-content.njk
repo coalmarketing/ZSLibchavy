@@ -46,7 +46,7 @@
 
             {% if section.items %}
                 <!-- ITEMS -->
-                <ul class="grid max-md:!grid-cols-1 max-2xl:!grid-cols-2 gap-y-6 gap-x-4" style="grid-template-columns: repeat({{ section.columns }}, minmax(0, 1fr));">
+                <ul class="grid max-md:!grid-cols-1 max-2xl:!grid-cols-2 ~gap-y-4/6 ~gap-x-2/4" style="grid-template-columns: repeat({{ section.columns }}, minmax(0, 1fr));">
                     {% for item in section.items %}
                         {% if item.icon %}
                             <li class="flex flex-col items-center -space-y-8">

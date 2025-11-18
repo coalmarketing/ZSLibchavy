@@ -1,8 +1,8 @@
 ---
 layout: "pages/services/skola/zakladni-informace.njk"
 
-title: 'Efektivní weby na míru'
-description: 'V Senoweb se specializujeme na tvorbu webových stránek na míru. Nepoužíváme koupené šablony, nástroje pro automatizované budování webů ani nástroje, které by váš web zahlcovali zbytečným kódem a tím vaší stránku zpomalovaly.'
+title: 'Základní informace • Škola'
+description: 'Základní informace o ZŠ Libchavy. Přehled školy, historie, provoz, vedení a důležité kontakty pro rodiče a žáky.'
 permalink: 'skola/'
 
 category: skola
@@ -21,6 +21,7 @@ landing:
       url: /
 
     - title: Škola
+      url: /skola
 
     - title: Základní informace
 
@@ -182,7 +183,7 @@ subjects:
           title: Kapacita
           text: 85
 
-    - title: Školní jídelna MŠ
+    - title: Družina
 
       items:
         - category: druzina

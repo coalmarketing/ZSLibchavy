@@ -19,9 +19,9 @@
     <!-- HERO + SERVICES NAVIGATION -->
     <div class="relative">
         <!-- HERO -->
-        <section class="relative ~py-16/24 ~px-4/8 flex min-h-screen z-10 before:absolute before:top-0 before:left-0 before:h-full before:w-full before:bg-gradient-to-t before:from-black before:via-50% before:via-black/50 before:to-black/0 before:-z-10">
+        <section class="relative pt-48 ~pb-16/32 ~px-4/8 flex lg:min-h-screen z-10 before:absolute before:top-0 before:left-0 before:h-full before:w-full before:bg-gradient-to-t before:from-black before:via-50% before:via-black/50 before:to-black/0 before:-z-10">
             <div class="container m-auto flex flex-col items-center gap-8">
-                <h1 class="max-w-7xl text-center ~text-5xl/8xl text-white font-extrabold !leading-[1.1]">{{ hero.heading | safe }}</h1>
+                <h1 class="text-4xl lg:~max-w-2xl/7xl lg:~text-5xl/8xl text-center text-white font-extrabold !leading-[1.1]">{{ hero.heading | safe }}</h1>
 
                 <!-- CTA BUTTON -->
                 <div class="flex gap-4">
@@ -97,10 +97,10 @@
                 </div>
 
                 <!-- ITEMS -->
-                <ul class="flex flex-col -space-y-px lg:grid lg:grid-cols-6 lg:-space-x-px shadow-lg rounded-3xl">
+                <ul class="grid grid-cols-2 lg:grid-cols-6 lg:-space-x-px shadow-lg rounded-3xl">
                     {% for item in services.items %}
                         <li class="group">
-                            <a href="{{ item.url }}" data-category="{{ item.category }}" class="group flex justify-center items-center h-full py-8 px-6 bg-category max-lg:border-x-4 max-lg:group-first:border-t-4 max-lg:group-last:border-b-4 lg:border-y-4 max-lg:group-first:rounded-t-3xl max-lg:group-last:rounded-b-3xl lg:group-first:border-l-4 lg:group-last:border-r-4 lg:group-first:rounded-l-3xl lg:group-last:rounded-r-3xl transition-colors duration-300">
+                            <a href="{{ item.url }}" data-category="{{ item.category }}" class="group flex justify-center items-center h-full max-lg:p-6 lg:py-8 lg:px-6 bg-category max-lg:group-odd:border-l-4 max-lg:group-even:border-r-4 max-lg:group-first:border-t-4 max-lg:group-[&:nth-child(2)]:border-t-4 max-lg:group-last:border-b-4 max-lg:group-[&:nth-child(5)]:border-b-4 max-lg:group-first:rounded-tl-3xl max-lg:group-[&:nth-child(2)]:rounded-tr-3xl max-lg:group-[&:nth-child(5)]:rounded-bl-3xl max-lg:group-last:rounded-br-3xl lg:border-y-4 lg:group-first:border-l-4 lg:group-last:border-r-4 lg:group-first:rounded-l-3xl lg:group-last:rounded-r-3xl transition-colors duration-300">
                                 <!-- ICON + TEXT -->
                                 <div class="flex flex-col justify-center items-center ~gap-4/6 transition-transform duration-300 group-hover:scale-95">
                                     <!-- ICON -->

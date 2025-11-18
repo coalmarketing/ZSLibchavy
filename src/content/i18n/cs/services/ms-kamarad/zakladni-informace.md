@@ -1,8 +1,8 @@
 ---
 layout: "pages/services/ms-kamarad/zakladni-informace.njk"
 
-title: 'Efektivní weby na míru'
-description: 'V Senoweb se specializujeme na tvorbu webových stránek na míru. Nepoužíváme koupené šablony, nástroje pro automatizované budování webů ani nástroje, které by váš web zahlcovali zbytečným kódem a tím vaší stránku zpomalovaly.'
+title: 'Základní informace • MŠ Kamarád'
+description: 'Základní informace o MŠ Kamarád v Libchavách. Přehled provozu, pedagogického týmu, historie a důležitých kontaktů pro rodiče.'
 permalink: 'ms-kamarad/'
 
 category: ms-kamarad
@@ -25,8 +25,8 @@ landing:
     - title: Základní informace
 
   image:
-    url: /assets/images/services/skola/landing.jpg
-    alt: Jazyková učebna
+    url: /assets/images/services/ms-kamarad/landing.jpg
+    alt: Třída mladších dětí MŠ Kamarád
 
 
 sections:

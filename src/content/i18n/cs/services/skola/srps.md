@@ -1,8 +1,8 @@
 ---
 layout: "pages/services/skola/srps.njk"
 
-title: 'Efektivní weby na míru'
-description: 'V Senoweb se specializujeme na tvorbu webových stránek na míru. Nepoužíváme koupené šablony, nástroje pro automatizované budování webů ani nástroje, které by váš web zahlcovali zbytečným kódem a tím vaší stránku zpomalovaly.'
+title: 'SRPŠ • Škola'
+description: 'Seznam třídních důvěrníků spolku rodičů a přátel ZŠ Libchavy. Podpora rodičovského zapojení a spolupráce s pedagogickým sborem.'
 permalink: 'skola/srps/'
 
 category: skola
@@ -17,6 +17,7 @@ landing:
       url: /
 
     - title: Škola
+      url: /skola
 
     - title: Spolek rodičů a přátel školy
 

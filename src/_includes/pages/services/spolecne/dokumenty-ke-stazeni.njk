@@ -15,16 +15,16 @@
 
                 {# Loop through each section group #}
                 {% for section in documentsBySection %}
-                    <section id="{{ section.key | slug | lower }}">
+                    <section id="{{ section.key | slug }}">
                         <div class="flex flex-col gap-8">
                             <!-- TOPPER + HEADING -->
                             <div class="flex flex-col gap-3">
-                                <span class="topper text-category" data-category="{{ section.key | slug | lower }}">{{ landing.heading }}</span>
+                                <span class="topper text-category" data-category="{{ section.key | slug }}">{{ landing.heading }}</span>
                                 <h2 class="~text-2xl/4xl text-gray-950 dark:text-white font-extrabold">{{ section.key }}</h2>
                             </div>
 
                             {% set files = section.items | sortBy("data.title", "asc") %}
-                            {% set category = section.key | slug | lower %}
+                            {% set category = section.key | slug %}
                             {% include "components/files.njk" %}
                         </section>
                     {% endfor %}

@@ -1,8 +1,8 @@
 ---
 layout: "pages/services/jidelna/zakladni-informace.njk"
 
-title: 'Efektivní weby na míru'
-description: 'V Senoweb se specializujeme na tvorbu webových stránek na míru. Nepoužíváme koupené šablony, nástroje pro automatizované budování webů ani nástroje, které by váš web zahlcovali zbytečným kódem a tím vaší stránku zpomalovaly.'
+title: 'Základní informace • Jídelna'
+description: 'Základní informace o školní jídelně ZŠ Libchavy. Přehled provozu, jídelníčky a kontakty pro rodiče.'
 permalink: 'jidelna/'
 
 category: jidelna
@@ -25,8 +25,8 @@ landing:
     - title: Základní informace
 
   image:
-    url: /assets/images/services/skola/landing.jpg
-    alt: Jazyková učebna
+    url: /assets/images/services/jidelna/landing.jpg
+    alt: Jídelna ZŠ Libchavy
 
 
 sections:

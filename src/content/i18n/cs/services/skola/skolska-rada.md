@@ -1,8 +1,8 @@
 ---
 layout: "pages/services/skola/skolska-rada.njk"
 
-title: 'Efektivní weby na míru'
-description: 'V Senoweb se specializujeme na tvorbu webových stránek na míru. Nepoužíváme koupené šablony, nástroje pro automatizované budování webů ani nástroje, které by váš web zahlcovali zbytečným kódem a tím vaší stránku zpomalovaly.'
+title: 'Školská rada • Škola'
+description: 'Zjistěte, kdo tvoří Školskou radu ZŠ Libchavy a jak rada spolupracuje s rodiči při řízení a zlepšování školy.'
 permalink: 'skola/skolska-rada/'
 
 category: skola
@@ -17,6 +17,7 @@ landing:
       url: /
 
     - title: Škola
+      url: /skola
 
     - title: Školská rada
 

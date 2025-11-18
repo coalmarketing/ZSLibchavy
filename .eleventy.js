@@ -186,25 +186,37 @@ module.exports = function (eleventyConfig) {
      *   {% endif %}
      */
     eleventyConfig.addFilter("findWhere", function (collection, conditions = {}) {
-        // Return undefined if the collection is not a valid array
-        if (!Array.isArray(collection)) {
-            return undefined;
-        }
+        if (!Array.isArray(collection)) return undefined;
 
-        // Helper to safely access nested properties (e.g., "eleventyNavigation.key")
         function getDeep(obj, path) {
-            return path.split(".").reduce((acc, key) => acc && acc[key] !== undefined ? acc[key] : undefined, obj);
+            if (!obj) return undefined;
+            return path.split(".").reduce((acc, key) => (acc && acc[key] !== undefined ? acc[key] : undefined), obj);
         }
 
-        // Use Array.prototype.find() to return the FIRST item that matches the criteria
-        return collection.find((item) => {
-            // Use Object.entries().every() to ensure ALL conditions are met for the item
-            return Object.entries(conditions).every(([prop, expectedValue]) => {
-                // Get the actual value from the item's data, supporting nested paths
-                const actualValue = getDeep(item.data, prop);
+        function normalize(v) {
+            if (v === undefined || v === null) return v;
+            if (typeof v === "string") return v.trim().toLowerCase();
+            return v;
+        }
 
-                // Return true if the actual value matches the expected value
-                return actualValue === expectedValue;
+        return collection.find((item) => {
+            return Object.entries(conditions).every(([prop, expectedValue]) => {
+                // Try several places where Eleventy might store the value
+                const tries = [
+                    getDeep(item.data, prop),       // e.g. item.data.fileSlug
+                    getDeep(item, prop),            // e.g. item.fileSlug
+                    getDeep(item.data && item.data.page, prop), // e.g. item.data.page.fileSlug
+                ];
+
+                // first non-undefined
+                const actualRaw = tries.find(x => x !== undefined);
+
+                // Normalize for lenient comparison
+                const actual = normalize(actualRaw);
+                const expected = normalize(expectedValue);
+
+                // Strictly compare normalized values (works for strings and most primitives)
+                return actual === expected;
             });
         });
     });

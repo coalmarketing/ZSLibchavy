@@ -18,11 +18,11 @@
                     {# Within each section, group employees by their 'group' #}
                     {% set employeesByGroup = section.items | groupby("data.group") %}
 
-                    <section id="{{ section.key | slug | lower }}">
+                    <section id="{{ section.key | slug }}">
                         <div class="flex flex-col gap-8">
                             <!-- TOPPER + HEADING -->
                             <div class="flex flex-col gap-3">
-                                <span class="topper text-category" data-category="{{ section.key | slug | lower }}">{{ landing.heading }}</span>
+                                <span class="topper text-category" data-category="{{ section.key | slug }}">{{ landing.heading }}</span>
                                 <h2 class="~text-2xl/4xl text-gray-950 dark:text-white font-extrabold">{{ section.key }}</h2>
                             </div>
 
@@ -36,60 +36,7 @@
                                     <ul class="grid grid-cols-3 gap-6">
                                         {# Loop through and display each employee in the group #}
                                         {% for employee in group.items %}
-                                            <li class="flex flex-col justify-center items-center gap-4 p-5 bg-white dark:bg-gray-950 border-2 border-gray-200 dark:border-gray-800 shadow-md rounded-4xl">
-                                                <div class="flex flex-col items-center gap-1">
-                                                    <h4 class="text-center text-gray-950 dark:text-white font-semibold">{{ employee.data.title }}</h4>
-                                                    <span class="font-lora text-center text-gray-800 dark:text-gray-200">{{ employee.data.function }}</span>
-                                                </div>
-
-                                                {% if employee.data.email or employee.data.phone %}
-                                                    <div class="flex flex-col items-center gap-2">
-                                                        {% if employee.data.email %}
-                                                            <!-- EMAIL -->
-                                                            <div class="flex items-center gap-2">
-                                                                <!-- ICON -->
-                                                                <div class="shrink-0 p-1 bg-category rounded-lg" data-category="{{ section.key | slug | lower }}">
-                                                                    <img
-                                                                        src="/assets/svgs/employees/mail.svg"
-                                                                        alt="Ikona emailu"
-                                                                        width="20"
-                                                                        height="20"
-                                                                        loading="lazy"
-                                                                        decoding="async"
-                                                                        aria-hidden="true"
-                                                                        draggable="false">
-                                                                </div>
-
-                                                                <a href="mailto:{{ employee.data.email }}" class="font-lora text-center text-gray-800 dark:text-gray-200 hover:text-black dark:hover:text-white hover:underline">
-                                                                    {{ employee.data.email }}
-                                                                </a>
-                                                            </div>
-                                                        {% endif %}
-
-                                                        {% if employee.data.phone %}
-                                                            <!-- PHONE -->
-                                                            <div class="flex items-center gap-2">
-                                                                <!-- ICON -->
-                                                                <div class="shrink-0 p-1 bg-category rounded-lg" data-category="{{ section.key | slug | lower }}">
-                                                                    <img
-                                                                        src="/assets/svgs/employees/call.svg"
-                                                                        alt="Ikona telefonu"
-                                                                        width="20"
-                                                                        height="20"
-                                                                        loading="lazy"
-                                                                        decoding="async"
-                                                                        aria-hidden="true"
-                                                                        draggable="false">
-                                                                </div>
-
-                                                                <a href="tel:{{ employee.data.phone.trim().replaceAll(" ", "") }}" class="font-lora text-center text-gray-800 dark:text-gray-200 hover:text-black dark:hover:text-white hover:underline">
-                                                                    {{ employee.data.phone }}
-                                                                </a>
-                                                            </div>
-                                                        {% endif %}
-                                                    </div>
-                                                {% endif %}
-                                            </li>
+                                            {% include "components/employee.njk" %}
                                         {% endfor %}
                                     </ul>
                                 </div>

@@ -1,8 +1,8 @@
 ---
 layout: "pages/services/skola/zapis.njk"
 
-title: 'Efektivní weby na míru'
-description: 'V Senoweb se specializujeme na tvorbu webových stránek na míru. Nepoužíváme koupené šablony, nástroje pro automatizované budování webů ani nástroje, které by váš web zahlcovali zbytečným kódem a tím vaší stránku zpomalovaly.'
+title: 'Zápis do 1. ročníku • Škola'
+description: 'Informace o zápisu do 1. ročníku ZŠ Libchavy. Přehled dokumentů, formulářů a podmínek přijetí pro nový školní rok.'
 permalink: 'skola/zapis/'
 
 category: skola
@@ -17,6 +17,7 @@ landing:
       url: /
 
     - title: Škola
+      url: /skola
 
     - title: Zápis do 1. ročníku
 

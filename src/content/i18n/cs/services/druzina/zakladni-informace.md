@@ -1,8 +1,8 @@
 ---
 layout: "pages/services/druzina/zakladni-informace.njk"
 
-title: 'Efektivní weby na míru'
-description: 'V Senoweb se specializujeme na tvorbu webových stránek na míru. Nepoužíváme koupené šablony, nástroje pro automatizované budování webů ani nástroje, které by váš web zahlcovali zbytečným kódem a tím vaší stránku zpomalovaly.'
+title: 'Základní informace • Družina'
+description: 'Základní informace o školní družině ZŠ Libchavy. Přehled provozu, programu a důležitých kontaktů pro rodiče.'
 permalink: 'druzina/'
 
 category: druzina
@@ -25,8 +25,8 @@ landing:
     - title: Základní informace
 
   image:
-    url: /assets/images/services/skola/landing.jpg
-    alt: Jazyková učebna
+    url: /assets/images/services/druzina/landing.jpg
+    alt: Stolní fotbal v ZŠ Libchavy
 
 
 sections:

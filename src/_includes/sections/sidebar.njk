@@ -13,23 +13,24 @@
             {% for item in sidebar.items %}
                 <li class="group/li relative flex flex-col">
                     <a href="{{ item.url }}" class="flex w-full py-1 px-4 text-gray-800 dark:text-gray-200 hover:text-black dark:hover:text-white rounded-full" data-category="{{ category }}"
-                    {%- if page.url.includes(item.url + "/") -%}aria-current="page"{%- endif -%}>
+                    {%- if item.url + "/" === page.url -%} aria-current="page" {%- endif -%}>
                         {{ item.text }}
                     </a>
 
                     {# Subitems have their own <ul> list #}
                     {% if item.subitems %}
-                        <details class="group/details" {% if page.url.includes(item.url + "/") -%} open {%- endif %}>
+                        <details class="group/details" {%- if page.url.startsWith(item.url) %} open {%- endif %}>
                             <summary class="absolute top-1.5 right-4 list-none" aria-controls="{{ item.url }}-submenu">
                                 <svg xmlns="http://www.w3.org/2000/svg" height="20" width="20" viewBox="0 -960 960 960" fill="currentColor" class="text-gray-800 dark:text-gray-200 transition-transform duration-300 group-open/details:rotate-90">
                                     <path d="M504-480 320-664l56-56 240 240-240 240-56-56 184-184Z"/>
                                 </svg>
                             </summary>
 
-                            <ul id="{{ item.url }}-submenu" class="flex flex-col gap-1.5 py-2 px-6">
+                            <ul id="{{ item.url }}-submenu" class="flex flex-col gap-0.5 py-2 pl-4 pr-2">
                                 {% for subitem in item.subitems %}
                                     <li class="flex">
-                                        <a href="{{ subitem.url }}" class="w-full text-sm text-gray-800 dark:text-gray-200 hover:text-black dark:hover:text-white">
+                                        <a href="{{ subitem.url }}" class="w-full py-0.5 px-4 text-sm text-gray-800 dark:text-gray-200 hover:text-black dark:hover:text-white rounded-full" data-category="{{ category }}"
+                                        {%- if page.url.startsWith(subitem.url) -%} aria-current="page" {%- endif -%}>
                                             {{ subitem.text }}
                                         </a>
                                     </li>
