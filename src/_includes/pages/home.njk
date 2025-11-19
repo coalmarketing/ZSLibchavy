@@ -19,7 +19,7 @@
     <!-- HERO + SERVICES NAVIGATION -->
     <div class="relative">
         <!-- HERO -->
-        <section class="relative pt-48 ~pb-16/32 ~px-4/8 flex lg:min-h-screen z-10 before:absolute before:top-0 before:left-0 before:h-full before:w-full before:bg-gradient-to-t before:from-black before:via-50% before:via-black/50 before:to-black/0 before:-z-10">
+        <section class="relative pt-64 ~pb-32/48 ~px-4/8 flex lg:min-h-screen z-10 before:absolute before:top-0 before:left-0 before:h-full before:w-full before:bg-gradient-to-t before:from-black before:via-50% before:via-black/50 before:to-black/0 before:-z-10">
             <div class="container m-auto flex flex-col items-center gap-8">
                 <h1 class="text-4xl lg:~max-w-2xl/7xl lg:~text-5xl/8xl text-center text-white font-extrabold !leading-[1.1]">{{ hero.heading | safe }}</h1>
 
@@ -62,13 +62,13 @@
 
                 <picture>
                     <!-- MOBILE IMAGE -->
-                    <source media="(max-width: 600px)" srcset="{% getUrl hero.image.url | avif %}" type="image/avif">
-                    <source media="(max-width: 600px)" srcset="{% getUrl hero.image.url | webp %}" type="image/webp">
-                    <source media="(max-width: 600px)" srcset="{% getUrl hero.image.url | jpeg %}" type="image/jpeg">
+                    <source media="(max-width: 600px)" srcset="{% getUrl hero.image.url | resize({ width: 600, height: 923 }) | avif %}" type="image/avif">
+                    <source media="(max-width: 600px)" srcset="{% getUrl hero.image.url | resize({ width: 600, height: 923 }) | webp %}" type="image/webp">
+                    <source media="(max-width: 600px)" srcset="{% getUrl hero.image.url | resize({ width: 600, height: 923 }) | jpeg %}" type="image/jpeg">
                     <!-- TABLET IMAGE -->
-                    <source media="(max-width: 1024px)" srcset="{% getUrl hero.image.url | avif %}" type="image/avif">
-                    <source media="(max-width: 1024px)" srcset="{% getUrl hero.image.url | webp %}" type="image/webp">
-                    <source media="(max-width: 1024px)" srcset="{% getUrl hero.image.url | jpeg %}" type="image/jpeg">
+                    <source media="(max-width: 1024px)" srcset="{% getUrl hero.image.url | resize({ width: 1200, height: 867 }) | avif %}" type="image/avif">
+                    <source media="(max-width: 1024px)" srcset="{% getUrl hero.image.url | resize({ width: 1200, height: 867 }) | webp %}" type="image/webp">
+                    <source media="(max-width: 1024px)" srcset="{% getUrl hero.image.url | resize({ width: 1200, height: 867 }) | jpeg %}" type="image/jpeg">
                     <!-- DESKTOP IMAGE -->
                     <source media="(min-width: 1024px)" srcset="{% getUrl hero.image.url | resize({ width: 2880, height: 1620 }) | avif %}" type="image/avif">
                     <source media="(min-width: 1024px)" srcset="{% getUrl hero.image.url | resize({ width: 2880, height: 1620 }) | webp %}" type="image/webp">
@@ -79,7 +79,7 @@
                         alt="{{ hero.image.alt }}"
                         width="1920"
                         height="1080"
-                        loading="lazy"
+                        loading="eager"
                         decoding="async"
                         aria-hidden="true"
                         draggable="false">
@@ -127,7 +127,7 @@
 
     <!-- NEWS -->
     <section class="~pt-16/24 lg:pt-48 ~pb-16/24 ~px-4/8 bg-gray-100 dark:bg-gray-900">
-        <div class="container m-auto flex flex-col gap-12">
+        <div class="container m-auto flex flex-col ~gap-8/12">
             <!-- HEADING + CTA -->
             <div class="flex max-md:flex-col md:justify-between items-start md:items-end gap-4">
                 <!-- TOPPER + HEADING -->
@@ -137,7 +137,7 @@
                 </div>
 
                 <!-- CTA -->
-                <a href="{{ news.cta.url }}" class="btn">
+                <a href="{{ news.cta.url }}" class="btn max-md:hidden">
                     <span>{{ news.cta.text }}</span>
 
                     <div>
@@ -156,12 +156,29 @@
 
             {% set posts = collections.aktuality | reverse | limit(3) %}
             {% include "components/posts.njk" %}
+
+            <!-- MOBILE CTA -->
+            <a href="{{ news.cta.url }}" class="self-center btn md:hidden">
+                <span>{{ news.cta.text }}</span>
+
+                <div>
+                    <img
+                        src="/assets/svgs/arrow_outward_dark.svg"
+                        alt="Ikona šipky směřující nahoru"
+                        width="20"
+                        height="20"
+                        loading="lazy"
+                        decoding="async"
+                        aria-hidden="true"
+                        draggable="false">
+                </div>
+            </a>
         </div>
     </section>
 
     <!-- EVENTS -->
     <section class="~py-16/24 ~px-4/8 bg-white dark:bg-gray-800">
-        <div class="container m-auto flex flex-col gap-12">
+        <div class="container m-auto flex flex-col ~gap-8/12">
             <!-- HEADING + CTA -->
             <div class="flex justify-between items-end">
                 <!-- TOPPER + HEADING -->
@@ -171,7 +188,7 @@
                 </div>
 
                 <!-- CTA -->
-                <a href="{{ events.cta.url }}" class="btn">
+                <a href="{{ events.cta.url }}" class="btn max-md:hidden">
                     <span>{{ events.cta.text }}</span>
 
                     <div>
@@ -190,6 +207,23 @@
 
             {% set posts = collections.akce | reverse | limit(3) %}
             {% include "components/posts.njk" %}
+
+            <!-- MOBILE CTA -->
+            <a href="{{ events.cta.url }}" class="self-center btn md:hidden">
+                <span>{{ events.cta.text }}</span>
+
+                <div>
+                    <img
+                        src="/assets/svgs/arrow_outward_dark.svg"
+                        alt="Ikona šipky směřující nahoru"
+                        width="20"
+                        height="20"
+                        loading="lazy"
+                        decoding="async"
+                        aria-hidden="true"
+                        draggable="false">
+                </div>
+            </a>
         </div>
     </section>
 
@@ -200,23 +234,23 @@
             <div class="flex max-xl:flex-col items-center gap-8 xl:~gap-12/24">
                 <picture>
                     <!-- MOBILE IMAGE -->
-                    <source media="(max-width: 600px)" srcset="{% getUrl about.image.url | avif %}" type="image/avif">
-                    <source media="(max-width: 600px)" srcset="{% getUrl about.image.url | webp %}" type="image/webp">
-                    <source media="(max-width: 600px)" srcset="{% getUrl about.image.url | jpeg %}" type="image/jpeg">
+                    <source media="(max-width: 600px)" srcset="{% getUrl about.image.url | resize({ width: 552, height: 311, position: 'top' }) | avif %}" type="image/avif">
+                    <source media="(max-width: 600px)" srcset="{% getUrl about.image.url | resize({ width: 552, height: 311, position: 'top' }) | webp %}" type="image/webp">
+                    <source media="(max-width: 600px)" srcset="{% getUrl about.image.url | resize({ width: 552, height: 311, position: 'top' }) | jpeg %}" type="image/jpeg">
                     <!-- TABLET IMAGE -->
-                    <source media="(max-width: 1024px)" srcset="{% getUrl about.image.url | avif %}" type="image/avif">
-                    <source media="(max-width: 1024px)" srcset="{% getUrl about.image.url | webp %}" type="image/webp">
-                    <source media="(max-width: 1024px)" srcset="{% getUrl about.image.url | jpeg %}" type="image/jpeg">
+                    <source media="(max-width: 1024px)" srcset="{% getUrl about.image.url | resize({ width: 1143, height: 643, position: 'top' }) | avif %}" type="image/avif">
+                    <source media="(max-width: 1024px)" srcset="{% getUrl about.image.url | resize({ width: 1143, height: 643, position: 'top' }) | webp %}" type="image/webp">
+                    <source media="(max-width: 1024px)" srcset="{% getUrl about.image.url | resize({ width: 1143, height: 643, position: 'top' }) | jpeg %}" type="image/jpeg">
                     <!-- DESKTOP IMAGE -->
-                    <source media="(min-width: 1024px)" srcset="{% getUrl about.image.url | resize({ width: 1296, height: 576, position: 'top' }) | avif %}" type="image/avif">
-                    <source media="(min-width: 1024px)" srcset="{% getUrl about.image.url | resize({ width: 1296, height: 576, position: 'top' }) | webp %}" type="image/webp">
-                    <source media="(min-width: 1024px)" srcset="{% getUrl about.image.url | resize({ width: 1296, height: 576, position: 'top' }) | jpeg %}" type="image/jpeg">
+                    <source media="(min-width: 1024px)" srcset="{% getUrl about.image.url | resize({ width: 1296, height: 729, position: 'top' }) | avif %}" type="image/avif">
+                    <source media="(min-width: 1024px)" srcset="{% getUrl about.image.url | resize({ width: 1296, height: 729, position: 'top' }) | webp %}" type="image/webp">
+                    <source media="(min-width: 1024px)" srcset="{% getUrl about.image.url | resize({ width: 1296, height: 729, position: 'top' }) | jpeg %}" type="image/jpeg">
                     <img
-                        class="object-cover rounded-4xl"
-                        src="{% getUrl about.image.url | resize({ width: 1296, height: 576, position: 'top' }) | jpeg %}"
+                        class="object-cover aspect-video rounded-4xl"
+                        src="{% getUrl about.image.url | resize({ width: 1296, height: 729, position: 'top' }) | jpeg %}"
                         alt="{{ about.image.alt }}"
                         width="864"
-                        height="384"
+                        height="486"
                         loading="lazy"
                         decoding="async"
                         aria-hidden="true"

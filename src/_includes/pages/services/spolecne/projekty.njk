@@ -68,28 +68,24 @@
 
                                     {% if project.data.images | length > 0 %}
                                         <!-- IMAGES -->
-                                        <div class="grid grid-cols-4 gap-4">
+                                        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
                                             {% for image in project.data.images %}
                                                 <a href="{% getUrl image.url | resize({ height: 1944 }) | jpeg %}" data-fslightbox="{{ section.key | slug }}_{{ project.data.title | slug }}">
                                                     <picture>
                                                         <!-- MOBILE IMAGE -->
-                                                        <source media="(max-width: 600px)" srcset="{% getUrl image.url | avif %}" type="image/avif">
-                                                        <source media="(max-width: 600px)" srcset="{% getUrl image.url | webp %}" type="image/webp">
-                                                        <source media="(max-width: 600px)" srcset="{% getUrl image.url | jpeg %}" type="image/jpeg">
-                                                        <!-- TABLET IMAGE -->
-                                                        <source media="(max-width: 1024px)" srcset="{% getUrl image.url | avif %}" type="image/avif">
-                                                        <source media="(max-width: 1024px)" srcset="{% getUrl image.url | webp %}" type="image/webp">
-                                                        <source media="(max-width: 1024px)" srcset="{% getUrl image.url | jpeg %}" type="image/jpeg">
+                                                        <source media="(max-width: 600px)" srcset="{% getUrl image.url | resize({ width: 552, height: 552 }) | avif %}" type="image/avif">
+                                                        <source media="(max-width: 600px)" srcset="{% getUrl image.url | resize({ width: 552, height: 552 }) | webp %}" type="image/webp">
+                                                        <source media="(max-width: 600px)" srcset="{% getUrl image.url | resize({ width: 552, height: 552 }) | jpeg %}" type="image/jpeg">
                                                         <!-- DESKTOP IMAGE -->
-                                                        <source media="(min-width: 1024px)" srcset="{% getUrl image.url | resize({ width: 390, height: 292 }) | avif %}" type="image/avif">
-                                                        <source media="(min-width: 1024px)" srcset="{% getUrl image.url | resize({ width: 390, height: 292 }) | webp %}" type="image/webp">
-                                                        <source media="(min-width: 1024px)" srcset="{% getUrl image.url | resize({ width: 390, height: 292 }) | jpeg %}" type="image/jpeg">
+                                                        <source media="(min-width: 1024px)" srcset="{% getUrl image.url | resize({ width: 390, height: 390 }) | avif %}" type="image/avif">
+                                                        <source media="(min-width: 1024px)" srcset="{% getUrl image.url | resize({ width: 390, height: 390 }) | webp %}" type="image/webp">
+                                                        <source media="(min-width: 1024px)" srcset="{% getUrl image.url | resize({ width: 390, height: 390 }) | jpeg %}" type="image/jpeg">
                                                         <img
-                                                            class="object-cover border-2 border-gray-200 dark:border-gray-800 shadow-md rounded-4xl"
-                                                            src="{% getUrl image.url | resize({ width: 390, height: 292 }) | jpeg %}"
+                                                            class="object-cover w-full aspect-square border-2 border-gray-200 dark:border-gray-800 shadow-md rounded-4xl"
+                                                            src="{% getUrl image.url | resize({ width: 390, height: 390 }) | jpeg %}"
                                                             alt="{% if image.alt %}{{ image.alt }}{% else %}{{ project.data.title }}{% endif %}"
                                                             width="260"
-                                                            height="195"
+                                                            height="260"
                                                             loading="lazy"
                                                             decoding="async"
                                                             aria-hidden="true"

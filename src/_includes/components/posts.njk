@@ -44,48 +44,50 @@
                 .url
                 .startsWith('http') %}
 
-            {% if not isExternal %}
-                {# If the image is local, optimize it #}
-                <picture>
-                    <!-- MOBILE IMAGE -->
-                    <source media="(max-width: 600px)" srcset="{% getUrl image.url | avif %}" type="image/avif">
-                    <source media="(max-width: 600px)" srcset="{% getUrl image.url | webp %}" type="image/webp">
-                    <source media="(max-width: 600px)" srcset="{% getUrl image.url | jpeg %}" type="image/jpeg">
-                    <!-- TABLET IMAGE -->
-                    <source media="(max-width: 1024px)" srcset="{% getUrl image.url | avif %}" type="image/avif">
-                    <source media="(max-width: 1024px)" srcset="{% getUrl image.url | webp %}" type="image/webp">
-                    <source media="(max-width: 1024px)" srcset="{% getUrl image.url | jpeg %}" type="image/jpeg">
-                    <!-- DESKTOP IMAGE -->
-                    <source media="(min-width: 1024px)" srcset="{% getUrl image.url | resize({ width: 737, height: 491 }) | avif %}" type="image/avif">
-                    <source media="(min-width: 1024px)" srcset="{% getUrl image.url | resize({ width: 737, height: 491 }) | webp %}" type="image/webp">
-                    <source media="(min-width: 1024px)" srcset="{% getUrl image.url | resize({ width: 737, height: 491 }) | jpeg %}" type="image/jpeg">
+            <a href="{{ post.url }}">
+                {% if not isExternal %}
+                    {# If the image is local, optimize it #}
+                    <picture>
+                        <!-- MOBILE IMAGE -->
+                        <source media="(max-width: 600px)" srcset="{% getUrl image.url | resize({ width: 552, height: 368 }) | avif %}" type="image/avif">
+                        <source media="(max-width: 600px)" srcset="{% getUrl image.url | resize({ width: 552, height: 368 }) | webp %}" type="image/webp">
+                        <source media="(max-width: 600px)" srcset="{% getUrl image.url | resize({ width: 552, height: 368 }) | jpeg %}" type="image/jpeg">
+                        <!-- TABLET IMAGE -->
+                        <source media="(max-width: 1024px)" srcset="{% getUrl image.url | resize({ width: 1143, height: 762 }) | avif %}" type="image/avif">
+                        <source media="(max-width: 1024px)" srcset="{% getUrl image.url | resize({ width: 1143, height: 762 }) | webp %}" type="image/webp">
+                        <source media="(max-width: 1024px)" srcset="{% getUrl image.url | resize({ width: 1143, height: 762 }) | jpeg %}" type="image/jpeg">
+                        <!-- DESKTOP IMAGE -->
+                        <source media="(min-width: 1024px)" srcset="{% getUrl image.url | resize({ width: 737, height: 491 }) | avif %}" type="image/avif">
+                        <source media="(min-width: 1024px)" srcset="{% getUrl image.url | resize({ width: 737, height: 491 }) | webp %}" type="image/webp">
+                        <source media="(min-width: 1024px)" srcset="{% getUrl image.url | resize({ width: 737, height: 491 }) | jpeg %}" type="image/jpeg">
+                        <img
+                            class="object-cover w-full aspect-[3/2] border-2 border-gray-200 dark:border-gray-800 rounded-4xl"
+                            src="{% getUrl image.url | resize({ width: 737, height: 491 }) | jpeg %}"
+                            alt="{{ image.alt }}"
+                            width="491"
+                            height="327" 
+                            loading="lazy"
+                            decoding="async"
+                            aria-hidden="true"
+                            draggable="false">
+                    </picture>
+                {% else %}
+                    {# If the image is external link, display it as is #}
                     <img
-                    class="object-cover aspect-[3/2] border-2 border-gray-200 dark:border-gray-800 rounded-4xl"
-                    src="{% getUrl image.url | resize({ width: 737, height: 491 }) | jpeg %}"
-                    alt="{{ image.alt }}"
-                    width="491"
-                    height="327" 
-                    loading="lazy"
-                    decoding="async"
-                    aria-hidden="true"
-                    draggable="false">
-                </picture>
-            {% else %}
-                {# If the image is external link, display it as is #}
-                <img
-                    class="object-cover aspect-[3/2] border-2 border-gray-200 dark:border-gray-800 rounded-4xl"
-                    src="{{ image.url }}"
-                    alt="{{ image.alt or post.data.title }}"
-                    width="491"
-                    height="327"
-                    loading="lazy"
-                    decoding="async"
-                    aria-hidden="true"
-                    draggable="false">
-            {% endif %}
+                        class="object-cover w-full aspect-[3/2] border-2 border-gray-200 dark:border-gray-800 rounded-4xl"
+                        src="{{ image.url }}"
+                        alt="{{ image.alt or post.data.title }}"
+                        width="491"
+                        height="327"
+                        loading="lazy"
+                        decoding="async"
+                        aria-hidden="true"
+                        draggable="false">
+                {% endif %}
+            </a>
 
             <!-- POST CONTENT -->
-            <div class="flex flex-col gap-4 w-[calc(100%-2rem)] p-5 bg-white dark:bg-gray-950 border-2 border-gray-200 dark:border-gray-800 rounded-4xl shadow-md">
+            <div class="flex flex-col gap-4 w-[calc(100%-1rem)] sm:w-[calc(100%-2rem)] p-5 bg-white dark:bg-gray-950 border-2 border-gray-200 dark:border-gray-800 rounded-4xl shadow-md">
                 <!-- POST METADATA -->
                 <div class="flex items-center gap-2">
                     <!-- CATEGORY BADGE -->

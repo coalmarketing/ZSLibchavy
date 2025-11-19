@@ -11,7 +11,7 @@ tags:
 
 * **Školní informační centrum**
 
-Ve stávajících prostorách skladu v budově školy byla vybudována učebna Školního informačního centra, kde jsou realizovány aktivity  žáků a pedagogů.
+Ve stávajících prostorách skladu v budově školy byla vybudována učebna Školního informačního centra, kde jsou realizovány aktivity žáků a pedagogů.
 
 * **Expedice po zajímavých místech východních Čech**
 

@@ -54,23 +54,23 @@
                                         <span class="sr-only">{{ title }} - {{ loop.index }}</span>
                                         <picture>
                                             <!-- MOBILE IMAGE -->
-                                            <source media="(max-width: 600px)" srcset="{% getUrl image.url | avif %}" type="image/avif">
-                                            <source media="(max-width: 600px)" srcset="{% getUrl image.url | webp %}" type="image/webp">
-                                            <source media="(max-width: 600px)" srcset="{% getUrl image.url | jpeg %}" type="image/jpeg">
+                                            <source media="(max-width: 600px)" srcset="{% getUrl image.url | resize({ width: 552, height: 368 }) | avif %}" type="image/avif">
+                                            <source media="(max-width: 600px)" srcset="{% getUrl image.url | resize({ width: 552, height: 368 }) | webp %}" type="image/webp">
+                                            <source media="(max-width: 600px)" srcset="{% getUrl image.url | resize({ width: 552, height: 368 }) | jpeg %}" type="image/jpeg">
                                             <!-- TABLET IMAGE -->
-                                            <source media="(max-width: 1024px)" srcset="{% getUrl image.url | avif %}" type="image/avif">
-                                            <source media="(max-width: 1024px)" srcset="{% getUrl image.url | webp %}" type="image/webp">
-                                            <source media="(max-width: 1024px)" srcset="{% getUrl image.url | jpeg %}" type="image/jpeg">
+                                            <source media="(max-width: 1024px)" srcset="{% getUrl image.url | resize({ width: 1143, height: 762 }) | avif %}" type="image/avif">
+                                            <source media="(max-width: 1024px)" srcset="{% getUrl image.url | resize({ width: 1143, height: 762 }) | webp %}" type="image/webp">
+                                            <source media="(max-width: 1024px)" srcset="{% getUrl image.url | resize({ width: 1143, height: 762 }) | jpeg %}" type="image/jpeg">
                                             <!-- DESKTOP IMAGE -->
-                                            <source media="(min-width: 1024px)" srcset="{% getUrl image.url | avif %}" type="image/avif">
-                                            <source media="(min-width: 1024px)" srcset="{% getUrl image.url | webp %}" type="image/webp">
-                                            <source media="(min-width: 1024px)" srcset="{% getUrl image.url | jpeg %}" type="image/jpeg">
+                                            <source media="(min-width: 1024px)" srcset="{% getUrl image.url | resize({ width: 1344, height: 896 }) | avif %}" type="image/avif">
+                                            <source media="(min-width: 1024px)" srcset="{% getUrl image.url | resize({ width: 1344, height: 896 }) | webp %}" type="image/webp">
+                                            <source media="(min-width: 1024px)" srcset="{% getUrl image.url | resize({ width: 1344, height: 896 }) | jpeg %}" type="image/jpeg">
                                             <img
                                                 class="object-cover aspect-[3/2] rounded-4xl"
-                                                src="{% getUrl image.url | jpeg %}"
+                                                src="{% getUrl image.url | resize({ width: 1344, height: 896 }) | jpeg %}"
                                                 alt="{% if image.alt %}{{ image.alt }}{% else %}{{ title }} - {{ loop.index }}{% endif %}"
-                                                width=""
-                                                height=""
+                                                width="896"
+                                                height="597"
                                                 loading="lazy"
                                                 decoding="async"
                                                 aria-hidden="true"

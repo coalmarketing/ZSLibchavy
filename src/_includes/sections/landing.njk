@@ -46,13 +46,13 @@
   <!-- BACKGROUND IMAGE -->
   <picture>
     <!-- MOBILE IMAGE -->
-    <source media="(max-width: 600px)" srcset="{% getUrl landing.image.url | avif %}" type="image/avif">
-    <source media="(max-width: 600px)" srcset="{% getUrl landing.image.url | webp %}" type="image/webp">
-    <source media="(max-width: 600px)" srcset="{% getUrl landing.image.url | jpeg %}" type="image/jpeg">
+    <source media="(max-width: 600px)" srcset="{% getUrl landing.image.url | resize({ width: 600, height: 576 }) | avif %}" type="image/avif">
+    <source media="(max-width: 600px)" srcset="{% getUrl landing.image.url | resize({ width: 600, height: 576 }) | webp %}" type="image/webp">
+    <source media="(max-width: 600px)" srcset="{% getUrl landing.image.url | resize({ width: 600, height: 576 }) | jpeg %}" type="image/jpeg">
     <!-- TABLET IMAGE -->
-    <source media="(max-width: 1024px)" srcset="{% getUrl landing.image.url | avif %}" type="image/avif">
-    <source media="(max-width: 1024px)" srcset="{% getUrl landing.image.url | webp %}" type="image/webp">
-    <source media="(max-width: 1024px)" srcset="{% getUrl landing.image.url | jpeg %}" type="image/jpeg">
+    <source media="(max-width: 1024px)" srcset="{% getUrl landing.image.url | resize({ width: 1200, height: 627 }) | avif %}" type="image/avif">
+    <source media="(max-width: 1024px)" srcset="{% getUrl landing.image.url | resize({ width: 1200, height: 627 }) | webp %}" type="image/webp">
+    <source media="(max-width: 1024px)" srcset="{% getUrl landing.image.url | resize({ width: 1200, height: 627 }) | jpeg %}" type="image/jpeg">
     <!-- DESKTOP IMAGE -->
     <source media="(min-width: 1024px)" srcset="{% getUrl landing.image.url | resize({ width: 2880, height: 864 }) | avif %}" type="image/avif">
     <source media="(min-width: 1024px)" srcset="{% getUrl landing.image.url | resize({ width: 2880, height: 864 }) | webp %}" type="image/webp">
