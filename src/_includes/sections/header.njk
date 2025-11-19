@@ -7,7 +7,7 @@
       <ul class="flex [&>li:nth-child(1)>a]:bg-gray-700 [&>li:nth-child(2)>a]:bg-gray-800">
         {% for item in header.topBar.miscLinks %}
           <li>
-            <a href="{{ item.url }}" target="{{ item.target }}" class="group flex items-center gap-2 py-3 px-4">
+            <a href="{{ item.url }}" target="{{ item.target }}" class="group flex items-center gap-2 py-3 ~px-3/4">
               <img
                 src="{{ item.icon.url }}"
                 alt="{{ item.icon.alt }}"
@@ -100,7 +100,7 @@
             {% for entry in navPages %}
               <li>
                 <a href="{{ entry.url }}"
-                class="border-category flex items-center py-2 px-3 border-l-2 text-center text-sm font-medium text-gray-800 dark:text-gray-200 hover:text-gray-950 dark:hover:text-white whitespace-nowrap rounded-r-3xl"
+                class="border-category flex items-center py-2 px-3 border-l-2 text-center text-sm font-medium text-gray-800 dark:text-gray-200 hover:text-gray-950 dark:hover:text-white whitespace-nowrap rounded-r-lg"
                 data-category="{{ entry.data.category }}"
                 {%- if entry.url === page.url -%}aria-current="page"{%- endif -%}>
                   {{ entry.key }}

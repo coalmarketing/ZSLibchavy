@@ -88,6 +88,11 @@
             "title": "Odkazy",
             "items": [
                 {
+                    "text": "Jídelní lístek",
+                    "url": "/jidelna/jidelni-listek",
+                    "target": "_self"
+                },
+                {
                     "text": "Kontakty",
                     "url": "/spolecne/kontakty",
                     "target": "_self"

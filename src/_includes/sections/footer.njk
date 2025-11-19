@@ -45,9 +45,15 @@
                                             draggable="false">
                                     {% endif %}
 
-                                    <a href="{{ item.url }}" target="{{ item.target }}" class="font-sora text-sm text-gray-200 leading-5 hover:text-white hover:underline">
-                                        {{ item.text | safe }}
-                                    </a>
+                                    {% if item.url %}
+                                        <a href="{{ item.url }}" target="{{ item.target }}" class="font-sora text-sm text-gray-200 leading-5 hover:text-white hover:underline">
+                                            {{ item.text | safe }}
+                                        </a>
+                                    {% else %}
+                                        <span class="font-sora text-sm text-gray-200 leading-5">
+                                            {{ item.text | safe }}
+                                        </span>
+                                    {% endif %}
                                 </li>
                             {% endfor %}
                         </ul>

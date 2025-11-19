@@ -4,7 +4,7 @@
   <div class="container mx-auto flex flex-col items-start ~gap-4/8">
     <!-- BADGE + HEADING -->
     <div class="flex flex-col items-start gap-3">
-      <span class="py-2 px-4 bg-category ~text-sm/base text-white font-medium !leading-none rounded-full" data-category="{{ category }}">Škola</span>
+      <span class="py-2 px-4 bg-category ~text-sm/base text-white font-medium !leading-none rounded-full" data-category="{{ category }}">{{ landing.badge }}</span>
       <h1 class="~text-3xl/5xl text-white font-extrabold leading-none">{{ landing.heading }}</h1>
     </div>
 
@@ -18,7 +18,7 @@
 
           {# Show the chevron icon if this is not the last item #}
           {% if loop.index != landing.breadcrumbs.length %}
-            <li class="text-gray-200">
+            <li class="flex items-center text-gray-200">
               <svg width="18" height="18" viewBox="0 0 18 18" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
                 <path d="M9.9,8.8L6.5,5.3l0.8-0.8l4.2,4.2L7.3,13l-0.8-0.8L9.9,8.8z"/>
               </svg>

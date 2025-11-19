@@ -17,6 +17,7 @@ landing:
       url: /
 
     - title: Společné
+      url: /spolecne/aktuality
 
     - title: Zpracování osobních údajů
 

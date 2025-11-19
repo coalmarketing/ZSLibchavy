@@ -44,7 +44,7 @@
   /* ============== */
 
   .topper {
-    @apply font-lora text-primary font-bold leading-none uppercase;
+    @apply font-lora ~text-sm/base text-primary font-bold leading-none uppercase;
   }
 
   /* ===================== */

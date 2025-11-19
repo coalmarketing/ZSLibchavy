@@ -10,15 +10,16 @@ category: spolecne
 
 landing:
   badge: Společné
-  heading: Zpracování osobních údajů
+  heading: Kontakty
 
   breadcrumbs:
     - title: Domů
       url: /
 
     - title: Společné
+      url: /spolecne/aktuality
 
-    - title: Zpracování osobních údajů
+    - title: Kontakty
 
   image:
     url: /assets/images/services/skola/landing.jpg
@@ -26,6 +27,6 @@ landing:
 
 
 contentOne:
-  topper: GDPR
-  heading: Zpracování osobních údajů
+  topper: Kontakty
+  heading: Kontakty na školu a školky
 ---

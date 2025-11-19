@@ -13,7 +13,7 @@ eleventyNavigation:
 
 
 landing:
-  badge: Škola
+  badge: Jídelna
   heading: Základní informace
 
   breadcrumbs:

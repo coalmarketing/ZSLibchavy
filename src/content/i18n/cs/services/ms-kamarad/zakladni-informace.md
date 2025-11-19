@@ -13,7 +13,7 @@ eleventyNavigation:
 
 
 landing:
-  badge: Škola
+  badge: MŠ Kamarád
   heading: Základní informace
 
   breadcrumbs:

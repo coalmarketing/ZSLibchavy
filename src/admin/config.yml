@@ -508,6 +508,49 @@ collections:
           default: ["zamestnanci"],
         }
 
+  # ==================== #
+  # ===== KONTAKTY ===== #
+  # ==================== #
+  - name: "kontakty"
+    label: "Kontakty"
+    label_singular: "Kontakt"
+    folder: "src/content/cms/kontakty"
+    create: true
+    delete: false
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
+    editor:
+      preview: false
+
+    fields:
+      - {
+          label: "Název",
+          name: "title",
+          widget: "string",
+          hint: "Zadejte srozumitelný název, který se zobrazí na webu.",
+        }
+
+      - label: "Zaměstnanci"
+        label_singular: "Zaměstnanec"
+        name: "employees"
+        widget: "list"
+        minimize_collapsed: false
+        hint: "Vyberte zaměstnance, kteří souvisejí s touto položkou ŠPP."
+        fields:
+          - label: "Zaměstnanec"
+            name: "employee"
+            widget: "relation"
+            collection: "zamestnanci"
+            search_fields: ["title"]
+            value_field: "{{slug}}"
+            display_fields: ["{{ title }}"]
+
+          - label: "Popis"
+            name: "title"
+            widget: "string"
+
+      - { label: "Obsah", name: "body", widget: "markdown" }
+      - { label: "Štítky", name: "tags", widget: "hidden", default: ["spp"] }
+
   # ======================== #
   # ===== ÚŘEDNÍ DESKA ===== #
   # ======================== #

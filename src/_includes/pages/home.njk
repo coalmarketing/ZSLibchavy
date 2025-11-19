@@ -24,7 +24,7 @@
                 <h1 class="text-4xl lg:~max-w-2xl/7xl lg:~text-5xl/8xl text-center text-white font-extrabold !leading-[1.1]">{{ hero.heading | safe }}</h1>
 
                 <!-- CTA BUTTON -->
-                <div class="flex gap-4">
+                <div class="flex flex-wrap justify-center gap-y-2 gap-x-4">
                     <!-- NEWS CTA -->
                     <a href="{{ hero.ctaNews.url }}" class="btn btn-lg bg-white text-gray-950 hover:text-white">
                         <span>{{ hero.ctaNews.text }}</span>
@@ -131,7 +131,7 @@
             <!-- HEADING + CTA -->
             <div class="flex max-md:flex-col md:justify-between items-start md:items-end gap-4">
                 <!-- TOPPER + HEADING -->
-                <div class="flex flex-col gap-3">
+                <div class="flex flex-col ~gap-2/3">
                     <span class="topper">{{ news.topper }}</span>
                     <h2 class="~text-3xl/5xl text-gray-950 dark:text-white font-extrabold">{{ news.heading }}</h2>
                 </div>
@@ -165,7 +165,7 @@
             <!-- HEADING + CTA -->
             <div class="flex justify-between items-end">
                 <!-- TOPPER + HEADING -->
-                <div class="flex flex-col gap-3">
+                <div class="flex flex-col ~gap-2/3">
                     <span class="topper">{{ events.topper }}</span>
                     <h2 class="~text-3xl/5xl text-gray-950 dark:text-white font-extrabold">{{ events.heading }}</h2>
                 </div>
@@ -289,7 +289,7 @@
             <!-- HEADING + GALLERY BUTTONS -->
             <div class="flex max-lg:flex-col lg:justify-between lg:items-end gap-8">
                 <!-- TOPPER + HEADING -->
-                <div class="flex flex-col gap-3">
+                <div class="flex flex-col ~gap-2/3">
                     <span class="topper">{{ gallery.topper }}</span>
                     <h2 class="~text-3xl/5xl text-gray-950 dark:text-white font-extrabold">{{ gallery.heading | safe }}</h2>
                 </div>
@@ -332,6 +332,4 @@
             </div>
         </div>
     </section>
-
-    {% include "sections/cta.njk" %}
 {% endblock body %}

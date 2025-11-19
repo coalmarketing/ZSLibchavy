@@ -1,32 +1,29 @@
 ---
-layout: "pages/services/ms-koralek/zakladni-informace.njk"
+layout: "pages/services/jidelna/zakladni-informace.njk"
 
-title: 'Základní informace • MŠ Korálek'
-description: 'Přehledné informace o MŠ Korálek v Libchavách. Kontakty, provoz, pedagogický sbor a základní údaje pro rodiče i veřejnost.'
-permalink: 'ms-koralek/'
+title: 'Základní informace • Jídelna'
+description: 'Základní informace o školní jídelně ZŠ Libchavy. Přehled provozu, jídelníčky a kontakty pro rodiče.'
+permalink: 'jidelna/jidelni-listek/'
 
-category: ms-koralek
-
-eleventyNavigation:
-  key: MŠ Korálek
-  order: 300
+category: jidelna
 
 
 landing:
-  badge: MŠ Korálek
-  heading: Základní informace
+  badge: Jídelna
+  heading: Jídelní lístek
 
   breadcrumbs:
     - title: Domů
       url: /
 
-    - title: MŠ Korálek
+    - title: Jídelna
+      url: /jidelna
 
-    - title: Základní informace
+    - title: Jídelní lístek
 
   image:
-    url: /assets/images/services/ms-koralek/landing.jpg
-    alt: Herna námořníků MŠ Korálek
+    url: /assets/images/services/jidelna/landing.jpg
+    alt: Jídelna ZŠ Libchavy
 
 
 sections:
