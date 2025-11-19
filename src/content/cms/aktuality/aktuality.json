@@ -4,7 +4,6 @@
         "permalink": "/aktuality/{{ page.fileSlug }}/index.html"
     },
     "tags": "aktuality",
-    "category": "{{ section | slug | lower }}",
     "landing": {
         "heading": "Aktualita",
         "breadcrumbs": [

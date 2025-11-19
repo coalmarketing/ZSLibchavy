@@ -51,7 +51,11 @@
     {% include "sections/header.njk" %}
     <main id="main">
       {% block body %}{% endblock %}
-      {% include "sections/cta.njk" %}
+
+      {# Contact CTA section - do not display on the contact page #}
+      {% if page.url !== "/spolecne/kontakty/" %}
+        {% include "sections/cta.njk" %}
+      {% endif %}
     </main>
     {% include "sections/footer.njk" %}
 

@@ -4,7 +4,6 @@
         "permalink": "/probehle-akce/{{ page.fileSlug }}/index.html"
     },
     "tags": "akce",
-    "category": "{{ section | slug | lower }}",
     "landing": {
         "heading": "Proběhlá akce",
         "breadcrumbs": [

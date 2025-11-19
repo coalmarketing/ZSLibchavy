@@ -521,20 +521,52 @@ collections:
     editor:
       preview: false
 
+    view_filters:
+      - label: "Škola"
+        field: "section"
+        pattern: "Škola"
+
+      - label: "MŠ Korálek"
+        field: "section"
+        pattern: "MŠ Korálek"
+
+      - label: "MŠ Kamarád"
+        field: "section"
+        pattern: "MŠ Kamarád"
+
+      - label: "Družina"
+        field: "section"
+        pattern: "Družina"
+
+      - label: "Jídelna"
+        field: "section"
+        pattern: "Jídelna"
+
     fields:
       - {
-          label: "Název",
+          label: "Název sekce",
           name: "title",
           widget: "string",
-          hint: "Zadejte srozumitelný název, který se zobrazí na webu.",
+          hint: "Zadejte srozumitelný název, který se zobrazí jako název sekce kontaktů.",
         }
+
+      - label: "Sekce webu"
+        name: "section"
+        widget: "select"
+        required: true
+        options:
+          - { label: "Škola", value: "Škola" }
+          - { label: "MŠ Korálek", value: "MŠ Korálek" }
+          - { label: "MŠ Kamarád", value: "MŠ Kamarád" }
+          - { label: "Družina", value: "Družina" }
+          - { label: "Jídelna", value: "Jídelna" }
 
       - label: "Zaměstnanci"
         label_singular: "Zaměstnanec"
         name: "employees"
         widget: "list"
         minimize_collapsed: false
-        hint: "Vyberte zaměstnance, kteří souvisejí s touto položkou ŠPP."
+        hint: "Vyberte zaměstnance, kteří souvisejí s touto sekcí a budou zobrazeny na podstránce 'Kontakty'."
         fields:
           - label: "Zaměstnanec"
             name: "employee"
@@ -544,12 +576,13 @@ collections:
             value_field: "{{slug}}"
             display_fields: ["{{ title }}"]
 
-          - label: "Popis"
-            name: "title"
-            widget: "string"
-
-      - { label: "Obsah", name: "body", widget: "markdown" }
-      - { label: "Štítky", name: "tags", widget: "hidden", default: ["spp"] }
+      - { label: "Obsah", name: "body", widget: "markdown", required: false }
+      - {
+          label: "Štítky",
+          name: "tags",
+          widget: "hidden",
+          default: ["kontakty"],
+        }
 
   # ======================== #
   # ===== ÚŘEDNÍ DESKA ===== #

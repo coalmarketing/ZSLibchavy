@@ -1,6 +1,6 @@
 <li {% if employee.data.role -%} id="{{ employee.data.role | slug }}" {%- endif %} class="flex flex-col justify-center items-center gap-4 p-5 bg-white dark:bg-gray-950 border-2 border-gray-200 dark:border-gray-800 shadow-md rounded-4xl">
     {% if employee.data.role %}
-        <span class="py-1 px-3 bg-category text-sm text-white font-medium rounded-full" data-category="{% if section %}{{ section.key | slug }}{% else %}{{ category }}{% endif %}">
+        <span class="py-1 px-3 bg-category text-sm text-white font-medium rounded-full" data-category="{% if section and section.key %}{{ section.key | slug }}{% else %}{{ category }}{% endif %}">
             {{ employee.data.role }}
         </span>
     {% endif %}
@@ -16,7 +16,7 @@
                 <!-- EMAIL -->
                 <div class="flex items-center gap-2">
                     <!-- ICON -->
-                    <div class="shrink-0 p-1 bg-category rounded-lg" data-category="{% if section %}{{ section.key | slug }}{% else %}{{ category }}{% endif %}">
+                    <div class="shrink-0 p-1 bg-category rounded-lg" data-category="{% if section and section.key %}{{ section.key | slug }}{% else %}{{ category }}{% endif %}">
                         <img
                             src="/assets/svgs/employees/mail.svg"
                             alt="Ikona emailu"
@@ -28,7 +28,7 @@
                             draggable="false">
                     </div>
 
-                    <a href="mailto:{{ employee.data.email }}" class="font-lora text-center text-gray-800 dark:text-gray-200 hover:text-black dark:hover:text-white hover:underline">
+                    <a href="mailto:{{ employee.data.email }}" class="font-lora text-center text-gray-800 dark:text-gray-200 truncate hover:text-black dark:hover:text-white hover:underline">
                         {{ employee.data.email }}
                     </a>
                 </div>
@@ -38,7 +38,7 @@
                 <!-- PHONE -->
                 <div class="flex items-center gap-2">
                     <!-- ICON -->
-                    <div class="shrink-0 p-1 bg-category rounded-lg" data-category="{% if section %}{{ section.key | slug }}{% else %}{{ category }}{% endif %}">
+                    <div class="shrink-0 p-1 bg-category rounded-lg" data-category="{% if section and section.key %}{{ section.key | slug }}{% else %}{{ category }}{% endif %}">
                         <img
                             src="/assets/svgs/employees/call.svg"
                             alt="Ikona telefonu"
@@ -50,7 +50,7 @@
                             draggable="false">
                     </div>
 
-                    <a href="tel:{{ employee.data.phone.trim().replaceAll(" ", "") }}" class="font-lora text-center text-gray-800 dark:text-gray-200 hover:text-black dark:hover:text-white hover:underline">
+                    <a href="tel:{{ employee.data.phone.trim().replaceAll(" ", "") }}" class="font-lora text-center text-gray-800 dark:text-gray-200 truncate hover:text-black dark:hover:text-white hover:underline">
                         {{ employee.data.phone }}
                     </a>
                 </div>

@@ -35,7 +35,7 @@ module.exports = function (eleventyConfig) {
      */
     if (!isProduction) {
         eleventyConfig.ignores.add("./src/content/cms/akce");
-        eleventyConfig.ignores.add("./src/content/cms/aktuality");
+        //eleventyConfig.ignores.add("./src/content/cms/aktuality");
     }
 
     // ═════════════════════════════════════════════════════════════════════════

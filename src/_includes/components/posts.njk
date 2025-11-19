@@ -1,9 +1,91 @@
 <!-- POSTS -->
 <ul class="grid grid-cols-1 lg:grid-cols-2 2xl:grid-cols-3 gap-y-8 gap-x-6">
     {% for post in posts %}
-        <li class="flex flex-col">
+        <li class="flex flex-col items-center -space-y-8">
+            <!-- POST IMAGE -->
+            {% set defaultImages = {
+                "skola": {
+                    "url": "/assets/images/about-us/about-us.jpg",
+                    "alt": "Budova základní a mateřské školy Libchavy"
+                },
+                "ms-koralek": {
+                    "url": "/assets/images/services/ms-koralek/landing.jpg",
+                    "alt": "Herna námořníků MŠ Korálek"
+                },
+                "ms-kamarad": {
+                    "url": "/assets/images/services/ms-kamarad/landing.jpg",
+                    "alt": "Třída mladších dětí MŠ Kamarád"
+                },
+                "druzina": {
+                    "url": "/assets/images/services/druzina/landing.jpg",
+                    "alt": "Stolní fotbal v ZŠ Libchavy"
+                },
+                "jidelna": {
+                    "url": "/assets/images/services/jidelna/landing.jpg",
+                    "alt": "Jídelna ZŠ Libchavy"
+                }
+            } %}
+
+            {% if post.data.images | length > 0 %}
+                {% set image = post
+                    .data
+                    .images[0] %}
+            {% elif post.data.section | slug in defaultImages %}
+                {% set image = defaultImages[post.data.section | slug] %}
+            {% else %}
+                {% set image = {
+                    "url": "/assets/images/about-us/about-us.jpg",
+                    "alt": "Budova základní a mateřské školy Libchavy"
+                } %}
+            {% endif %}
+
+            {# Check whether the image's url is a link #}
+            {% set isExternal = image
+                .url
+                .startsWith('http') %}
+
+            {% if not isExternal %}
+                {# If the image is local, optimize it #}
+                <picture>
+                    <!-- MOBILE IMAGE -->
+                    <source media="(max-width: 600px)" srcset="{% getUrl image.url | avif %}" type="image/avif">
+                    <source media="(max-width: 600px)" srcset="{% getUrl image.url | webp %}" type="image/webp">
+                    <source media="(max-width: 600px)" srcset="{% getUrl image.url | jpeg %}" type="image/jpeg">
+                    <!-- TABLET IMAGE -->
+                    <source media="(max-width: 1024px)" srcset="{% getUrl image.url | avif %}" type="image/avif">
+                    <source media="(max-width: 1024px)" srcset="{% getUrl image.url | webp %}" type="image/webp">
+                    <source media="(max-width: 1024px)" srcset="{% getUrl image.url | jpeg %}" type="image/jpeg">
+                    <!-- DESKTOP IMAGE -->
+                    <source media="(min-width: 1024px)" srcset="{% getUrl image.url | resize({ width: 737, height: 491 }) | avif %}" type="image/avif">
+                    <source media="(min-width: 1024px)" srcset="{% getUrl image.url | resize({ width: 737, height: 491 }) | webp %}" type="image/webp">
+                    <source media="(min-width: 1024px)" srcset="{% getUrl image.url | resize({ width: 737, height: 491 }) | jpeg %}" type="image/jpeg">
+                    <img
+                    class="object-cover aspect-[3/2] border-2 border-gray-200 dark:border-gray-800 rounded-4xl"
+                    src="{% getUrl image.url | resize({ width: 737, height: 491 }) | jpeg %}"
+                    alt="{{ image.alt }}"
+                    width="491"
+                    height="327" 
+                    loading="lazy"
+                    decoding="async"
+                    aria-hidden="true"
+                    draggable="false">
+                </picture>
+            {% else %}
+                {# If the image is external link, display it as is #}
+                <img
+                    class="object-cover aspect-[3/2] border-2 border-gray-200 dark:border-gray-800 rounded-4xl"
+                    src="{{ image.url }}"
+                    alt="{{ image.alt or post.data.title }}"
+                    width="491"
+                    height="327"
+                    loading="lazy"
+                    decoding="async"
+                    aria-hidden="true"
+                    draggable="false">
+            {% endif %}
+
             <!-- POST CONTENT -->
-            <div class="flex flex-col gap-4 p-5 bg-white dark:bg-gray-950 border-2 border-gray-200 dark:border-gray-800 rounded-4xl shadow-md">
+            <div class="flex flex-col gap-4 w-[calc(100%-2rem)] p-5 bg-white dark:bg-gray-950 border-2 border-gray-200 dark:border-gray-800 rounded-4xl shadow-md">
                 <!-- POST METADATA -->
                 <div class="flex items-center gap-2">
                     <!-- CATEGORY BADGE -->
@@ -16,9 +98,11 @@
 
                 <!-- POST TITLE + TEXT -->
                 <div class="flex flex-col gap-2">
-                    <a href="{{ post.url }}" title="{{ post.data.title }}" class="text-gray-950 dark:text-white font-semibold first-letter:uppercase">{{ post.data.title }}</a>
+                    <a href="{{ post.url }}" title="{{ post.data.title }}" class="text-gray-950 dark:text-white font-semibold line-clamp-2 first-letter:uppercase">
+                        {{ post.data.title }}
+                    </a>
 
-                    <p class="font-lora text-sm text-gray-800 dark:text-gray-200 line-clamp-3">{{ post.content | stripHtml }}</p>
+                    <p class="font-lora text-sm text-gray-800 dark:text-gray-200 line-clamp-2">{{ post.content | stripHtml }}</p>
                 </div>
             </div>
         </li>
