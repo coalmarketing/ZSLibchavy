@@ -1,0 +1,36 @@
+<!-- GALLERY -->
+<section id="fotogalerie">
+    <div class="container m-auto flex flex-col ~gap-6/8">
+        <!-- TOPPER + HEADING -->
+        <div class="flex flex-col ~gap-0.5/gap-1.5">
+            <span class="topper text-category" data-category="{{ category }}">
+                {{ gallery.topper }}
+            </span>
+            <h2 class="~text-2xl/4xl text-gray-950 dark:text-white font-extrabold">{{ gallery.heading }}</h2>
+        </div>
+
+        <!-- IMAGES -->
+        <div class="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-4 gap-2">
+            {% for image in gallery.images %}
+                <a href="{% getUrl image.url | resize({ height: 1944 }) | jpeg %}" data-fslightbox="fotogalerie_{{ category }}">
+                    <span class="sr-only">Zobrazit fotografii - {{ image.alt }}</span>
+                    <picture>
+                        <source srcset="{% getUrl image.url | resize({ width: 558, height: 419 }) | avif %}" type="image/avif">
+                        <source srcset="{% getUrl image.url | resize({ width: 558, height: 419 }) | webp %}" type="image/webp">
+                        <source srcset="{% getUrl image.url | resize({ width: 558, height: 419 }) | jpeg %}" type="image/jpeg">
+                        <img
+                            class="object-cover h-full w-full border-2 border-gray-200 dark:border-gray-800 shadow-md rounded-4xl"
+                            src="{% getUrl image.url | resize({ width: 558, height: 419 }) | jpeg %}"
+                            alt="{{ image.alt }}"
+                            width="372"
+                            height="279"
+                            loading="lazy"
+                            decoding="async"
+                            aria-hidden="true"
+                            draggable="false">
+                    </picture>
+                </a>
+            {% endfor %}
+        </div>
+    </div>
+</section>

@@ -8,7 +8,7 @@
   /* =================== */
 
   .btn {
-    @apply flex items-center gap-3 bg-gray-950 ~text-sm/base text-white font-medium leading-none rounded-full transition-[transform,_background-color] duration-300 hover:scale-95 hover:bg-primary;
+    @apply flex items-center gap-2 bg-gray-950 ~text-sm/base text-white font-medium leading-none rounded-full transition-[transform,_background-color] duration-300 hover:scale-95 hover:bg-primary;
   }
 
   .btn {
@@ -44,7 +44,7 @@
   /* ============== */
 
   .topper {
-    @apply font-lora ~text-sm/base text-primary font-bold leading-none uppercase;
+    @apply font-kalam ~text-sm/base text-primary font-bold leading-none uppercase;
   }
 
   /* ===================== */
@@ -52,7 +52,7 @@
   /* ===================== */
 
   .prose {
-    @apply prose-gray dark:prose-invert prose-td:text-base prose-p:font-lora prose-li:font-lora prose-td:font-lora;
+    @apply prose-gray dark:prose-invert prose-p:~text-sm/base prose-li:~text-sm/base prose-td:~text-sm/base;
   }
 
 
@@ -180,37 +180,37 @@
   header nav {
     /* === DOMŮ === */
     [data-category="domu"][aria-current="page"] {
-      @apply bg-gray-100 text-domu;
+      @apply bg-domu-100 dark:bg-domu/50 text-domu dark:text-white;
     }
   
     /* === ŠKOLA === */
     [data-category="skola"][aria-current="page"] {
-      @apply bg-blue-100 text-skola;
+      @apply bg-skola-100 dark:bg-skola/50 text-skola dark:text-white;
     }
   
     /* === MŠ KORÁLEK === */
     [data-category="ms-koralek"][aria-current="page"] {
-      @apply bg-pink-100 text-koralek;
+      @apply bg-koralek-100 dark:bg-koralek/50 text-koralek dark:text-white;
     }
   
     /* === MŠ KAMARÁD === */
     [data-category="ms-kamarad"][aria-current="page"] {
-      @apply bg-purple-100 text-kamarad;
+      @apply bg-kamarad-100 dark:bg-kamarad/50 text-kamarad dark:text-white;
     }
   
     /* === DRUŽINA === */
     [data-category="druzina"][aria-current="page"] {
-      @apply bg-orange-100 text-druzina;
+      @apply bg-druzina-100 dark:bg-druzina/50 text-druzina dark:text-white;
     }
   
     /* === JÍDELNA === */
     [data-category="jidelna"][aria-current="page"] {
-      @apply bg-green-100 text-jidelna;
+      @apply bg-jidelna-100 dark:bg-jidelna/50 text-jidelna dark:text-white;
     }
   
     /* === SPOLEČNÉ === */
     [data-category="spolecne"][aria-current="page"] {
-        @apply bg-gray-100 text-spolecne;
+        @apply bg-spolecne-100 dark:bg-spolecne/50 text-spolecne dark:text-white;
     }
   }
 
@@ -220,32 +220,32 @@
   nav#services {
     /* === ŠKOLA === */
     [data-category="skola"] {
-      @apply border-blue-900 hover:bg-blue-700;
+      @apply border-skola-900 hover:bg-skola-700;
     }
 
     /* === MŠ KORÁLEK === */
     [data-category="ms-koralek"] {
-      @apply border-pink-900 hover:bg-pink-700;
+      @apply border-koralek-900 hover:bg-koralek-700;
     }
   
     /* === MŠ KAMARÁD === */
     [data-category="ms-kamarad"] {
-      @apply border-purple-900 hover:bg-purple-700;
+      @apply border-kamarad-900 hover:bg-kamarad-700;
     }
   
     /* === DRUŽINA === */
     [data-category="druzina"] {
-      @apply border-orange-900 hover:bg-orange-700;
+      @apply border-druzina-900 hover:bg-druzina-700;
     }
   
     /* === JÍDELNA === */
     [data-category="jidelna"] {
-      @apply border-green-900 hover:bg-green-700;
+      @apply border-jidelna-900 hover:bg-jidelna-700;
     }
   
     /* === SPOLEČNÉ === */
     [data-category="spolecne"] {
-      @apply border-gray-900 hover:bg-gray-800;
+      @apply border-spolecne-900 hover:bg-spolecne-800;
     }
   }
 
@@ -255,55 +255,55 @@
   div#sidebar {
     /* === ŠKOLA === */
     &[data-category="skola"] {
-      @apply bg-blue-100 dark:bg-blue-950 border-blue-200 dark:border-blue-800;
+      @apply bg-skola-100 dark:bg-skola-950 border-skola-200 dark:border-skola-800;
 
       a[aria-current="page"] {
-        @apply font-medium bg-blue-200 dark:bg-blue-800 text-blue-950 dark:text-blue-50;
+        @apply font-medium bg-skola-200 dark:bg-skola-800 text-skola-950 dark:text-skola-50;
       }
     }
 
     /* === MŠ KORÁLEK === */
     &[data-category="ms-koralek"] {
-      @apply bg-pink-100 dark:bg-pink-950 border-pink-200 dark:border-pink-800;
+      @apply bg-koralek-100 dark:bg-koralek-950 border-koralek-200 dark:border-koralek-800;
 
       a[aria-current="page"] {
-        @apply font-medium bg-pink-200 dark:bg-pink-800 text-pink-950 dark:text-pink-50;
+        @apply font-medium bg-koralek-200 dark:bg-koralek-800 text-koralek-950 dark:text-koralek-50;
       }
     }
 
     /* === MŠ KAMARÁD === */
     &[data-category="ms-kamarad"] {
-      @apply bg-purple-100 dark:bg-purple-950 border-purple-200 dark:border-purple-800;
+      @apply bg-kamarad-100 dark:bg-kamarad-950 border-kamarad-200 dark:border-kamarad-800;
 
       a[aria-current="page"] {
-        @apply font-medium bg-purple-200 dark:bg-purple-800 text-purple-950 dark:text-purple-50;
+        @apply font-medium bg-kamarad-200 dark:bg-kamarad-800 text-kamarad-950 dark:text-kamarad-50;
       }
     }
 
     /* === DRUŽINA === */
     &[data-category="druzina"] {
-      @apply bg-orange-100 dark:bg-orange-950 border-orange-200 dark:border-orange-800;
+      @apply bg-druzina-100 dark:bg-druzina-950 border-druzina-200 dark:border-druzina-800;
 
       a[aria-current="page"] {
-        @apply font-medium bg-orange-200 dark:bg-orange-800 text-orange-950 dark:text-orange-50;
+        @apply font-medium bg-druzina-200 dark:bg-druzina-800 text-druzina-950 dark:text-druzina-50;
       }
     }
 
     /* === JÍDELNA === */
     &[data-category="jidelna"] {
-      @apply bg-green-100 dark:text-green-950 border-green-200 dark:border-green-800;
+      @apply bg-jidelna-100 dark:bg-jidelna-950 border-jidelna-200 dark:border-jidelna-800;
 
       a[aria-current="page"] {
-        @apply font-medium bg-green-200 dark:bg-green-800 text-green-950 dark:text-green-50;
+        @apply font-medium bg-jidelna-200 dark:bg-jidelna-800 text-jidelna-950 dark:text-jidelna-50;
       }
     }
 
     /* === SPOLEČNÉ === */
     &[data-category="spolecne"] {
-      @apply bg-gray-100 dark:bg-gray-950 border-gray-200 dark:border-gray-800;
+      @apply bg-spolecne-100 dark:bg-spolecne-950 border-spolecne-200 dark:border-spolecne-800;
 
       a[aria-current="page"] {
-        @apply font-medium bg-gray-200 dark:bg-gray-800 text-gray-950 dark:text-gray-50;
+        @apply font-medium bg-spolecne-200 dark:bg-spolecne-800 text-spolecne-950 dark:text-spolecne-50;
       }
     }
   }
@@ -357,6 +357,15 @@
   font-style: normal;
   font-weight: 700;
   src: url('../fonts/lora-v37-latin-ext-700.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* kalam-700 - latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Kalam';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../fonts/kalam-v18-latin-ext-700.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
 /* ====================================== */

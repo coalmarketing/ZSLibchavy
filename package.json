@@ -6,7 +6,7 @@
 	"main": "index.js",
 	"scripts": {
 		"watch:eleventy": "cross-env ELEVENTY_ENV=DEV eleventy --serve",
-		"build:eleventy": "cross-env ELEVENTY_ENV=PROD eleventy",
+		"build:eleventy": "cross-env ELEVENTY_ENV=PROD eleventy --incremental",
 		"watch:tailwind": "tailwindcss -i ./src/assets/css/input.css -o ./src/assets/css/main.css --watch --postcss",
 		"build:tailwind": "tailwindcss -i ./src/assets/css/input.css -o ./public/assets/css/main.css --minify --postcss",
 		"watch:cms": "npx decap-server",

@@ -2,7 +2,7 @@
     <!-- TITLE + TEXT -->
     <div class="flex flex-col justify-center items-center gap-1">
         <span class="text-center text-lg text-gray-950 dark:text-white font-semibold">{{ item.title }}</span>
-        <p class="font-lora text-center text-gray-800 dark:text-gray-200">{{ item.text }}</p>
+        <p class="text-center text-gray-800 dark:text-gray-200">{{ item.text }}</p>
     </div>
 
     {% if item.email %}
@@ -21,7 +21,7 @@
                     draggable="false">
             </div>
 
-            <a href="mailto:{{ item.email }}" class="font-lora text-gray-800 dark:text-gray-200 hover:text-black underline">
+            <a href="mailto:{{ item.email }}" class="~text-sm/base text-gray-800 dark:text-gray-200 hover:text-black underline">
                 {{ item.email }}
             </a>
         </div>

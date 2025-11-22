@@ -27,14 +27,14 @@
                     <!-- BLOG METADATA -->
                     <div class="flex items-center">
 
-                        <span class="font-lora text-gray-800 dark:text-gray-200 font-medium">{{ author }}</span>
+                        <span class="~text-sm/base text-gray-800 dark:text-gray-200 font-medium">{{ author }}</span>
 
                         <!-- DIVIDER-->
-                        <svg class="text-gray-800 dark:text-gray-200" xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" viewBox="0 0 16 16">
+                        <svg class="~text-sm/base text-gray-800 dark:text-gray-200" xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" viewBox="0 0 16 16">
                             <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
                         </svg>
 
-                        <span class="font-lora text-gray-800 dark:text-gray-200 font-medium">{{ date | postDate }}</span>
+                        <span class="~text-sm/base text-gray-800 dark:text-gray-200 font-medium">{{ date | postDate }}</span>
                     </div>
                 </div>
 
@@ -78,9 +78,33 @@
                                         </picture>
                                     </a>
                                 {% else %}
-                                    {# If the image is external link, display it as is #}
+                                    {# If the image is external link, optimize it via Netlify Images CDN #}
                                     <a href="{{ image.url }}" data-fslightbox="{{ title | slug }}" class="embla__slide flex-grow-0 flex-shrink-0 basis-full">
                                         <span class="sr-only">{{ title }} - {{ loop.index }}</span>
+                                        <picture>
+                                            <!-- MOBILE IMAGE -->
+                                            <source media="(max-width: 600px)" srcset="/.netlify/images?url={{ image.url }}&w=552&h=368&fit=cover&fm=avif" type="image/avif">
+                                            <source media="(max-width: 600px)" srcset="/.netlify/images?url={{ image.url }}&w=552&h=368&fit=cover&fm=webp" type="image/webp">
+                                            <source media="(max-width: 600px)" srcset="/.netlify/images?url={{ image.url }}&w=552&h=368&fit=cover&fm=jpg" type="image/jpeg">
+                                            <!-- TABLET IMAGE -->
+                                            <source media="(max-width: 1024px)" srcset="/.netlify/images?url={{ image.url }}&w=1143&h=762&fit=cover&fm=avif" type="image/avif">
+                                            <source media="(max-width: 1024px)" srcset="/.netlify/images?url={{ image.url }}&w=1143&h=762&fit=cover&fm=webp" type="image/webp">
+                                            <source media="(max-width: 1024px)" srcset="/.netlify/images?url={{ image.url }}&w=1143&h=762&fit=cover&fm=jpg" type="image/jpeg">
+                                            <!-- DESKTOP IMAGE -->
+                                            <source media="(min-width: 1024px)" srcset="/.netlify/images?url={{ image.url }}&w=1344&h=896&fit=cover&fm=avif" type="image/avif">
+                                            <source media="(min-width: 1024px)" srcset="/.netlify/images?url={{ image.url }}&w=1344&h=896&fit=cover&fm=webp" type="image/webp">
+                                            <source media="(min-width: 1024px)" srcset="/.netlify/images?url={{ image.url }}&w=1344&h=896&fit=cover&fm=jpg" type="image/jpeg">
+                                            <img
+                                                class="object-cover aspect-[3/2] rounded-4xl"
+                                                src="/.netlify/images?url={{ image.url }}&w=1344&h=896&fit=cover&fm=jpg"
+                                                alt="{% if image.alt %}{{ image.alt }}{% else %}{{ title }} - {{ loop.index }}{% endif %}"
+                                                width="896"
+                                                height="597"
+                                                loading="lazy"
+                                                decoding="async"
+                                                aria-hidden="true"
+                                                draggable="false">
+                                        </picture>
                                         <img
                                             class="object-cover aspect-[3/2] rounded-4xl"
                                             src="{{ image.url }}"

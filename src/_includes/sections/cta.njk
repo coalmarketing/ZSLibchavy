@@ -4,12 +4,12 @@
         <!-- HEADING + TEXT -->
         <div class="flex flex-col items-center ~gap-4/5">
             <!-- TOPPER + HEADING -->
-            <div class="flex flex-col items-center gap-2">
+            <div class="flex flex-col items-center gap-1.5">
                 <span class="topper text-center">{{ cta.topper }}</span>
                 <h2 class="~max-w-xs/xl text-center ~text-2xl/5xl text-gray-950 dark:text-white font-extrabold !leading-[1.2]">{{ cta.heading | safe }}</h2>
             </div>
 
-            <p class="~max-w-sm/xl font-lora ~text-base/lg text-center text-gray-800 dark:text-gray-200">{{ cta.text }}</p>
+            <p class="~max-w-lg/2xl ~text-sm/lg text-center text-gray-800 dark:text-gray-200">{{ cta.text | safe }}</p>
         </div>
 
         <!-- CTA -->

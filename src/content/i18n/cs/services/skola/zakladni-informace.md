@@ -38,60 +38,58 @@ sections:
       url: /assets/images/about-us/about-us.jpg
       alt: Budova základní a mateřské školy Libchavy
 
-    columns: 4
+    gallery:
+      cta:
+        url: "#fotogalerie"
+        text: Všechny fotografie
+
+      images:
+        - url: /assets/images/gallery/skola-1.jpg
+          alt: Budova ZŠ Libchavy
+
+        - url: /assets/images/gallery/skola-9.jpg
+          alt: Vchod do ZŠ Libchavy
+
+        - url: /assets/images/gallery/skola-6.jpg
+          alt: Třída 2. stupně
+
     items:
-      - icon:
-          url: /assets/svgs/services/skola/workspaces.svg
-          alt: Ikona 3 kroužků
+      title: Základní informace
+      columns: 4
 
-        title: Druh školy
-        text: základní a mateřská
+      data:
+        - icon:
+            url: /assets/svgs/services/skola/workspaces.svg
+            alt: Ikona 3 kroužků
 
-      - icon:
-          url: /assets/svgs/services/skola/account_balance.svg
-          alt: Ikona organizace
+          title: Druh školy
+          text: základní a mateřská
 
-        title: Právní forma
-        text: příspěvková organizace
+        - icon:
+            url: /assets/svgs/services/skola/account_balance.svg
+            alt: Ikona organizace
 
-      - icon:
-          url: /assets/svgs/services/skola/supervised_user_circle.svg
-          alt: Ikona zřizovatele
+          title: Právní forma
+          text: příspěvková organizace
 
-        title: Zřizovatel
-        text: Obec Libchavy
+        - icon:
+            url: /assets/svgs/services/skola/supervised_user_circle.svg
+            alt: Ikona zřizovatele
 
-      - icon:
-          url: /assets/svgs/services/skola/pin.svg
-          alt: Ikona číselného PIN kódu
+          title: Zřizovatel
+          text: Obec Libchavy
 
-        title: IČO
-        text: 75017890
+        - icon:
+            url: /assets/svgs/services/skola/pin.svg
+            alt: Ikona číselného PIN kódu
 
-  - topper: Škola
-    heading: Klíčoví zaměstnanci
+          title: IČO
+          text: 75017890
 
-    columns: 3
-    items:
-      - title: Mgr. Veronika Vaňousová
-        text: ředitelka
 
-        email: v.vanousova@zslibchavy.cz
-
-      - title: Mgr. et Mgr. Eva Adamcová
-        text: zástupkyně ředitelky pro I. stupeň
-
-        email: e.adamcova@zslibchavy.cz
-
-      - title: Mgr. Zuzana Novotná
-        text: zástupkyně ředitelky pro II. stupeň
-
-        email: z.novotna@zslibchavy.cz
-
-      - title: Mgr. Zuzana Novotná
-        text: hospodářka
-
-        email: l.medunova@zslibchavy.cz
+employees:
+  topper: Škola
+  heading: Klíčoví zaměstnanci
 
 
 subjects:
@@ -203,4 +201,34 @@ subjects:
 
           title: Kapacita
           text: 75
+
+
+gallery:
+  topper: Fotogalerie
+  heading: Fotografie ze ZŠ Libchavy
+
+  images:
+    - url: /assets/images/gallery/skola-1.jpg
+      alt: Budova
+
+    - url: /assets/images/gallery/skola-2.jpg
+      alt: Vstupní prostory
+
+    - url: /assets/images/gallery/skola-3.jpg
+      alt: Schodiště
+
+    - url: /assets/images/gallery/skola-4.jpg
+      alt: Třída 1. stupně
+
+    - url: /assets/images/gallery/skola-5.jpg
+      alt: 2. stupeň
+
+    - url: /assets/images/gallery/skola-6.jpg
+      alt: Třída 2. stupně
+
+    - url: /assets/images/gallery/skola-7.jpg
+      alt: Školní jídelna
+
+    - url: /assets/images/gallery/skola-8.jpg
+      alt: Knihovna
 ---

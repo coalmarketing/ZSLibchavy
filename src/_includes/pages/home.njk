@@ -91,9 +91,9 @@
         <nav id="services" class="~px-4/8 max-lg:~py-12/24 max-lg:bg-white max-lg:dark:bg-gray-800 lg:absolute lg:bottom-0 lg:left-1/2 lg:translate-y-1/2 lg:-translate-x-1/2 lg:w-full lg:z-10">
             <div class="container m-auto flex flex-col gap-6">
                 <!-- TOPPER + HEADING -->
-                <div class="flex lg:hidden flex-col gap-3">
+                <div class="flex lg:hidden flex-col ~gap-0.5/1.5">
                     <span class="topper">{{ services.topper }}</span>
-                    <h2 class="~text-3xl/5xl text-gray-950 dark:text-white font-extrabold">{{ services.heading }}</h2>
+                    <h2 class="~text-2xl/5xl text-gray-950 dark:text-white font-extrabold">{{ services.heading }}</h2>
                 </div>
 
                 <!-- ITEMS -->
@@ -131,9 +131,9 @@
             <!-- HEADING + CTA -->
             <div class="flex max-md:flex-col md:justify-between items-start md:items-end gap-4">
                 <!-- TOPPER + HEADING -->
-                <div class="flex flex-col ~gap-1/3">
+                <div class="flex flex-col ~gap-0.5/1.5">
                     <span class="topper">{{ news.topper }}</span>
-                    <h2 class="~text-3xl/5xl text-gray-950 dark:text-white font-extrabold">{{ news.heading }}</h2>
+                    <h2 class="~text-2xl/5xl text-gray-950 dark:text-white font-extrabold">{{ news.heading }}</h2>
                 </div>
 
                 <!-- CTA -->
@@ -182,9 +182,9 @@
             <!-- HEADING + CTA -->
             <div class="flex justify-between items-end">
                 <!-- TOPPER + HEADING -->
-                <div class="flex flex-col ~gap-1/3">
+                <div class="flex flex-col ~gap-0.5/1.5">
                     <span class="topper">{{ events.topper }}</span>
-                    <h2 class="~text-3xl/5xl text-gray-950 dark:text-white font-extrabold">{{ events.heading }}</h2>
+                    <h2 class="~text-2xl/5xl text-gray-950 dark:text-white font-extrabold">{{ events.heading }}</h2>
                 </div>
 
                 <!-- CTA -->
@@ -262,12 +262,12 @@
                     <!-- HEADING + TEXT -->
                     <div class="max-w-xl flex flex-col gap-4">
                         <!-- TOPPER + HEADING -->
-                        <div class="flex flex-col ~gap-1/3">
+                        <div class="flex flex-col ~gap-0.5/1.5">
                             <span class="topper">{{ about.topper }}</span>
                             <h2 class="~text-2xl/4xl text-gray-950 dark:text-white font-extrabold">{{ about.heading }}</h2>
                         </div>
 
-                        <p class="font-lora text-gray-800 dark:text-gray-200">{{ about.text | safe }}</p>
+                        <p class="text-gray-800 dark:text-gray-200">{{ about.text | safe }}</p>
                     </div>
 
                     <!-- CTA -->
@@ -307,9 +307,9 @@
                         </div>
 
                         <!-- TITLE + TEXT -->
-                        <div class="flex flex-col justify-center items-center gap-2 h-full p-6 pt-16 bg-white dark:bg-gray-950 border-2 border-gray-200 dark:border-gray-800 shadow-md rounded-4xl">
+                        <div class="flex flex-col justify-center items-center gap-1 h-full p-6 pt-16 bg-white dark:bg-gray-950 border-2 border-gray-200 dark:border-gray-800 shadow-md rounded-4xl">
                             <span class="text-center text-lg text-gray-950 dark:text-white font-semibold">{{ item.title }}</span>
-                            <p class="font-sora text-center text-gray-800 dark:text-gray-200">{{ item.text }}</p>
+                            <p class="text-center text-gray-800 dark:text-gray-200">{{ item.text }}</p>
                         </div>
                     </li>
                 {% endfor %}
@@ -323,15 +323,15 @@
             <!-- HEADING + GALLERY BUTTONS -->
             <div class="flex max-lg:flex-col lg:justify-between lg:items-end gap-8">
                 <!-- TOPPER + HEADING -->
-                <div class="flex flex-col ~gap-1/3">
+                <div class="flex flex-col ~gap-0.5/1.5">
                     <span class="topper">{{ gallery.topper }}</span>
-                    <h2 class="~text-3xl/5xl text-gray-950 dark:text-white font-extrabold">{{ gallery.heading | safe }}</h2>
+                    <h2 class="~text-2xl/5xl text-gray-950 dark:text-white font-extrabold">{{ gallery.heading | safe }}</h2>
                 </div>
 
                 <!-- GALLERY BUTTONS -->
-                <div class="flex gap-6">
+                <div class="flex ~gap-4/6">
                     {% for album in gallery.albums %}
-                        <button type="button" data-gallery="{{ album.key }}" class="text-gray-800 dark:text-gray-200 {%- if album.key === 'all' %} font-semibold {%- endif %}">
+                        <button type="button" data-gallery="{{ album.key }}" class="~text-sm/base text-gray-800 dark:text-gray-200 {%- if album.key === 'all' %} font-semibold {%- endif %}">
                             {{ album.title }}
                         </button>
                     {% endfor %}
@@ -341,15 +341,17 @@
             <!-- IMAGE ALBUMS -->
             <div class="relative" data-selected-album="all">
                 {% for album in gallery.albums %}
-                    <div class="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-4 gap-4 transition-opacity duration-500 opacity-0 [&.active]:opacity-100 {%- if album.key === 'all' %} active {%- else %} absolute top-0 left-0 h-full w-full {%- endif %}" data-gallery="{{ album.key }}">
-                        {% for image in album.images %}
-                            <a href="{% getUrl image.url | resize({ height: 1944 }) | jpeg %}" data-fslightbox="{{ album.key }}" data-gallery="{{ album.key }}">
-                                <picture>
-                                    <source srcset="{% getUrl image.url | resize({ width: 558, height: 419 }) | avif %}" type="image/avif">
-                                    <source srcset="{% getUrl image.url | resize({ width: 558, height: 419 }) | webp %}" type="image/webp">
-                                    <source srcset="{% getUrl image.url | resize({ width: 558, height: 419 }) | jpeg %}" type="image/jpeg">
-                                    <img
-                                        class="object-cover w-full rounded-4xl"
+                    <div class="group/gallery flex flex-col items-center gap-8 transition-opacity duration-500 opacity-0 pointer-events-none [&.active]/gallery:opacity-100 [&.active]/gallery:pointer-events-auto {%- if album.key === 'all' %} active {%- else %} absolute top-0 left-0 h-full w-full {%- endif %}" data-gallery="{{ album.key }}">
+                        <div class="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-4 ~gap-2/4">
+                            {% for image in album.images %}
+                                <a href="{% getUrl image.url | resize({ height: 1944 }) | jpeg %}" data-fslightbox="{{ album.key }}" data-gallery="{{ album.key }}">
+                                    <span class="sr-only">Zobrazit fotografii - {{ image.alt }}</span>
+                                    <picture>
+                                        <source srcset="{% getUrl image.url | resize({ width: 558, height: 419 }) | avif %}" type="image/avif">
+                                        <source srcset="{% getUrl image.url | resize({ width: 558, height: 419 }) | webp %}" type="image/webp">
+                                        <source srcset="{% getUrl image.url | resize({ width: 558, height: 419 }) | jpeg %}" type="image/jpeg">
+                                        <img
+                                        class="object-cover h-full w-full border-2 border-gray-200 dark:border-gray-800 shadow-md rounded-4xl"
                                         src="{% getUrl image.url | resize({ width: 558, height: 419 }) | jpeg %}"
                                         alt="{{ image.alt }}"
                                         width="372"
@@ -358,9 +360,26 @@
                                         decoding="async"
                                         aria-hidden="true"
                                         draggable="false">
-                                </picture>
-                            </a>
-                        {% endfor %}
+                                    </picture>
+                                </a>
+                            {% endfor %}
+                        </div>
+
+                        <a href="{{ album.cta.url }}" class="btn hidden group-[.active]/gallery:flex">
+                            <span>{{ album.cta.text }}</span>
+
+                            <div>
+                                <img
+                                src="/assets/svgs/arrow_outward_dark.svg"
+                                alt="Ikona šipky směřující nahoru"
+                                width="20"
+                                height="20"
+                                loading="lazy"
+                                decoding="async"
+                                aria-hidden="true"
+                                draggable="false">
+                            </div>
+                        </a>
                     </div>
                 {% endfor %}
             </div>

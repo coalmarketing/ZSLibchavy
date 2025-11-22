@@ -20,7 +20,7 @@
                     <span class="~text-xl/2xl text-white font-medium ~leading-6/8">Základní a mateřská<br>škola Libchavy</span>
                 </div>
 
-                <p class="max-w-sm font-lora text-gray-200">{{ footer.description }}</p>
+                <p class="max-w-md text-gray-200">{{ footer.description | safe }}</p>
             </div>
 
             <!-- LINKS -->
@@ -69,12 +69,12 @@
 
             <!-- CREDITS + PRIVACY POLICY -->
             <div class="flex max-md:flex-col-reverse md:justify-between items-center gap-4">
-                <p class="font-lora text-center text-sm text-gray-400">
+                <p class="text-center text-sm text-gray-400">
                     {{ footer.copyright }}
                     <a href="https://coalmarketing.cz/" target="_blank" class="underline hover:text-white">coalmarketing.cz</a>
                 </p>
 
-                <a href="{{ footer.privacyPolicy.url }}" class="font-lora text-sm text-gray-400 hover:underline hover:text-white">{{ footer.privacyPolicy.text }}</a>
+                <a href="{{ footer.privacyPolicy.url }}" class="text-sm text-gray-400 hover:underline hover:text-white">{{ footer.privacyPolicy.text }}</a>
             </div>
         </div>
     </div>

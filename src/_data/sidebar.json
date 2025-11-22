@@ -23,16 +23,12 @@
                 "url": "/skola/environmentalni-vychova"
             },
             {
-                "text": "ICT koordinátor",
-                "url": "/spolecne/seznam-zamestnancu#ict-koordinator"
-            },
-            {
                 "text": "Projekty",
                 "url": "/spolecne/projekty#skola"
             },
             {
                 "text": "Seznam zaměstnanců",
-                "url": "/spolecne/seznam-zamestnancu#skola"
+                "url": "/spolecne/kontakty#skola"
             },
             {
                 "text": "Školské poradenské pracoviště",
@@ -93,7 +89,7 @@
             },
             {
                 "text": "Seznam zaměstnanců",
-                "url": "/spolecne/seznam-zamestnancu#ms-koralek"
+                "url": "/spolecne/kontakty#ms-koralek"
             }
         ]
     },
@@ -122,7 +118,7 @@
             },
             {
                 "text": "Seznam zaměstnanců",
-                "url": "/spolecne/seznam-zamestnancu#ms-kamarad"
+                "url": "/spolecne/kontakty#ms-kamarad"
             }
         ]
     },
@@ -151,7 +147,7 @@
             },
             {
                 "text": "Seznam zaměstnanců",
-                "url": "/spolecne/seznam-zamestnancu#druzina"
+                "url": "/spolecne/kontakty#druzina"
             }
         ]
     },
@@ -184,7 +180,7 @@
             },
             {
                 "text": "Seznam zaměstnanců",
-                "url": "/spolecne/seznam-zamestnancu#druzina"
+                "url": "/spolecne/kontakty#druzina"
             }
         ]
     },
@@ -288,34 +284,38 @@
                 ]
             },
             {
-                "text": "Seznam zaměstnanců",
-                "url": "/spolecne/seznam-zamestnancu",
+                "text": "Kontakty",
+                "url": "/spolecne/kontakty",
                 "subitems": [
                     {
+                        "text": "Klíčové kontakty",
+                        "url": "/spolecne/kontakty#skola"
+                    },
+                    {
                         "text": "Škola",
-                        "url": "/spolecne/seznam-zamestnancu#skola"
+                        "url": "/spolecne/kontakty#skola"
                     },
                     {
                         "text": "MŠ Korálek",
-                        "url": "/spolecne/seznam-zamestnancu#ms-koralek"
+                        "url": "/spolecne/kontakty#ms-koralek"
                     },
                     {
                         "text": "MŠ Kamarád",
-                        "url": "/spolecne/seznam-zamestnancu#ms-kamarad"
+                        "url": "/spolecne/kontakty#ms-kamarad"
                     },
                     {
                         "text": "Družina",
-                        "url": "/spolecne/seznam-zamestnancu#druzina"
+                        "url": "/spolecne/kontakty#druzina"
                     },
                     {
                         "text": "Jídelna",
-                        "url": "/spolecne/seznam-zamestnancu#jidelna"
+                        "url": "/spolecne/kontakty#jidelna"
                     }
                 ]
             },
             {
-                "text": "Kontakty",
-                "url": "/spolecne/kontakty"
+                "text": "ICT koordinátor",
+                "url": "/spolecne/kontakty#ict-koordinator"
             },
             {
                 "text": "Zpracování osobních údajů",

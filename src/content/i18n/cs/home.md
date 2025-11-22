@@ -158,9 +158,13 @@ gallery:
     - title: Vše
       key: all
 
+      cta:
+        url: /skola#fotogalerie
+        text: Všechny fotografie
+
       images:
         - url: /assets/images/gallery/skola-1.jpg
-          alt: Budova
+          alt: Budova ZŠ Libchavy
 
         - url: /assets/images/gallery/skola-2.jpg
           alt: Vstupní prostory
@@ -185,6 +189,10 @@ gallery:
 
     - title: Škola
       key: skola
+
+      cta:
+        url: /skola#fotogalerie
+        text: Všechny fotografie
 
       images:
         - url: /assets/images/gallery/skola-1.jpg
@@ -213,7 +221,11 @@ gallery:
 
 
     - title: MŠ Korálek
-      key: koralek
+      key: ms-koralek
+
+      cta:
+        url: /ms-koralek#fotogalerie
+        text: Všechny fotografie
 
       images:
         - url: /assets/images/gallery/koralek-1.jpg
@@ -241,7 +253,11 @@ gallery:
           alt: Herna dráčků
 
     - title: MŠ Kamarád
-      key: kamarad
+      key: ms-kamarad
+
+      cta:
+        url: /ms-kamarad#fotogalerie
+        text: Všechny fotografie
 
       images:
         - url: /assets/images/gallery/kamarad-1.jpg

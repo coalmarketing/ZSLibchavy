@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
     const gallerySection = document.querySelector("[data-selected-album]");
     const galleryButtons = document.querySelectorAll("button[data-gallery]");
-    const galleryAlbums = document.querySelectorAll("[data-gallery][class*='grid']");
+    const galleryAlbums = document.querySelectorAll("[data-gallery][class*='group/gallery']");
 
     if (!gallerySection) return;
 

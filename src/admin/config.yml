@@ -25,7 +25,7 @@ collections:
     label: "Stránky webu"
     label_singular: "Stránka webu"
     folder: "src/content/cms/pages"
-    create: true
+    create: false
     delete: false
     slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
     editor:
@@ -454,6 +454,10 @@ collections:
         field: "section"
         pattern: "Jídelna"
 
+      - label: "Klíčoví zaměstnanci"
+        field: "isKeyEmployee"
+        pattern: true
+
     view_groups:
       - label: "Sekce webu"
         field: "section"
@@ -486,9 +490,24 @@ collections:
       - { label: "Funkce", name: "function", widget: "string" }
       - {
           label: "Speciální role",
-          name: "role",
+          name: "roles",
+          widget: "array",
+          hint: "Například: ICT koordinátor, výchovný poradce atd. V případě, že má zaměstnanec několik speciálních rolí, oddělte je čárkou.",
+          required: false,
+        }
+      - {
+          label: "Klíčový zaměstnanec",
+          name: "isKeyEmployee",
+          widget: "boolean",
+          hint: "Klíčoví zaměstnanci jsou na webu zobrazeni jako první a také na ostatních podstránkách webu",
+          default: false,
+          required: false,
+        }
+      - {
+          label: "Odkaz",
+          name: "anchor",
           widget: "string",
-          hint: "Například: ICT koordinátor, výchovný poradce atd.",
+          hint: "V případě, že toto pole vyplníte bude ke kartě zaměstnance přiřazena navigační kotva.",
           required: false,
         }
       - { label: "Email", name: "email", widget: "string", required: false }
@@ -512,71 +531,32 @@ collections:
   # ===== KONTAKTY ===== #
   # ==================== #
   - name: "kontakty"
-    label: "Kontakty"
-    label_singular: "Kontakt"
+    label: "Obecné kontakty"
+    label_singular: "Obecný kontakt"
     folder: "src/content/cms/kontakty"
-    create: true
+    create: false
     delete: false
     slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
     editor:
       preview: false
 
-    view_filters:
-      - label: "Škola"
-        field: "section"
-        pattern: "Škola"
-
-      - label: "MŠ Korálek"
-        field: "section"
-        pattern: "MŠ Korálek"
-
-      - label: "MŠ Kamarád"
-        field: "section"
-        pattern: "MŠ Kamarád"
-
-      - label: "Družina"
-        field: "section"
-        pattern: "Družina"
-
-      - label: "Jídelna"
-        field: "section"
-        pattern: "Jídelna"
-
     fields:
+      - { label: "Popis", name: "title", widget: "string" }
+      - { label: "Identifikátor", name: "key", widget: "string" }
       - {
-          label: "Název sekce",
-          name: "title",
+          label: "Kontakt",
+          name: "value",
           widget: "string",
-          hint: "Zadejte srozumitelný název, který se zobrazí jako název sekce kontaktů.",
+          hint: "Zadejte telefonní číslo nebo email.",
         }
 
-      - label: "Sekce webu"
-        name: "section"
+      - label: "Typ kontaktu"
+        name: "type"
         widget: "select"
-        required: true
         options:
-          - { label: "Škola", value: "Škola" }
-          - { label: "MŠ Korálek", value: "MŠ Korálek" }
-          - { label: "MŠ Kamarád", value: "MŠ Kamarád" }
-          - { label: "Družina", value: "Družina" }
-          - { label: "Jídelna", value: "Jídelna" }
+          - { label: "Telefon", value: "tel:" }
+          - { label: "Email", value: "mailto:" }
 
-      - label: "Zaměstnanci"
-        label_singular: "Zaměstnanec"
-        name: "employees"
-        widget: "list"
-        minimize_collapsed: false
-        hint: "Vyberte zaměstnance, kteří souvisejí s touto sekcí a budou zobrazeny na podstránce 'Kontakty'."
-        fields:
-          - label: "Zaměstnanec"
-            name: "employee"
-            widget: "relation"
-            collection: "zamestnanci"
-            search_fields: ["title"]
-            value_field: "{{slug}}"
-            display_fields: ["{{ title }}"]
-
-      - { label: "Obsah", name: "body", widget: "markdown", required: false }
       - {
           label: "Štítky",
           name: "tags",

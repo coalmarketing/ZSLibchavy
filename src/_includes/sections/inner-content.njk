@@ -5,7 +5,7 @@
             <!-- HEADING + TEXT -->
             <div class="flex flex-col gap-4">
                 <!-- TOPPER + HEADING -->
-                <div class="flex flex-col ~gap-1/3">
+                <div class="flex flex-col ~gap-0.5/gap-1.5">
                     <span class="topper text-category" data-category="{% if section.data.section %}{{ section.data.section | slug }}{% else %}{{ category }}{% endif %}">
                         {{ section.topper or section.data.section }}
                     </span>
@@ -14,47 +14,105 @@
 
                 {% if section.text %}
                     {% for text in section.text %}
-                        <p class="font-lora text-gray-800 dark:text-gray-200">{{ text.paragraph | safe }}</p>
+                        <p class="~text-sm/base text-gray-800 dark:text-gray-200">{{ text.paragraph | safe }}</p>
                     {% endfor %}
                 {% endif %}
             </div>
 
-            {% if section.image %}
-                <picture>
-                    <!-- MOBILE IMAGE -->
-                    <source media="(max-width: 600px)" srcset="{% getUrl section.image.url | resize({ width: 552, height: 311, position: 'attention' }) | avif %}" type="image/avif">
-                    <source media="(max-width: 600px)" srcset="{% getUrl section.image.url | resize({ width: 552, height: 311, position: 'attention' }) | webp %}" type="image/webp">
-                    <source media="(max-width: 600px)" srcset="{% getUrl section.image.url | resize({ width: 552, height: 311, position: 'attention' }) | jpeg %}" type="image/jpeg">
-                    <!-- TABLET IMAGE -->
-                    <source media="(max-width: 1024px)" srcset="{% getUrl section.image.url | resize({ width: 1143, height: 644, position: 'attention' }) | avif %}" type="image/avif">
-                    <source media="(max-width: 1024px)" srcset="{% getUrl section.image.url | resize({ width: 1143, height: 644, position: 'attention' }) | webp %}" type="image/webp">
-                    <source media="(max-width: 1024px)" srcset="{% getUrl section.image.url | resize({ width: 1143, height: 644, position: 'attention' }) | jpeg %}" type="image/jpeg">
-                    <!-- DESKTOP IMAGE -->
-                    <source media="(min-width: 1024px)" srcset="{% getUrl section.image.url | resize({ width: 1632, height: 918, position: 'attention' }) | avif %}" type="image/avif">
-                    <source media="(min-width: 1024px)" srcset="{% getUrl section.image.url | resize({ width: 1632, height: 918, position: 'attention' }) | webp %}" type="image/webp">
-                    <source media="(min-width: 1024px)" srcset="{% getUrl section.image.url | resize({ width: 1632, height: 918, position: 'attention' }) | jpeg %}" type="image/jpeg">
-                    <img
-                        class="object-cover aspect-video w-full rounded-4xl"
-                        src="{% getUrl section.image.url | resize({ width: 1632, height: 918, position: 'attention' }) | jpeg %}"
-                        alt="{{ section.image.alt }}"
-                        width="1088"
-                        height="612"
-                        loading="lazy"
-                        decoding="async"
-                        aria-hidden="true"
-                        draggable="false">
-                </picture>
-            {% endif %}
+            <div class="flex flex-col gap-2">
+                {% if section.image %}
+                    <picture>
+                        <!-- MOBILE IMAGE -->
+                        <source media="(max-width: 600px)" srcset="{% getUrl section.image.url | resize({ width: 552, height: 311, position: 'attention' }) | avif %}" type="image/avif">
+                        <source media="(max-width: 600px)" srcset="{% getUrl section.image.url | resize({ width: 552, height: 311, position: 'attention' }) | webp %}" type="image/webp">
+                        <source media="(max-width: 600px)" srcset="{% getUrl section.image.url | resize({ width: 552, height: 311, position: 'attention' }) | jpeg %}" type="image/jpeg">
+                        <!-- TABLET IMAGE -->
+                        <source media="(max-width: 1024px)" srcset="{% getUrl section.image.url | resize({ width: 1143, height: 644, position: 'attention' }) | avif %}" type="image/avif">
+                        <source media="(max-width: 1024px)" srcset="{% getUrl section.image.url | resize({ width: 1143, height: 644, position: 'attention' }) | webp %}" type="image/webp">
+                        <source media="(max-width: 1024px)" srcset="{% getUrl section.image.url | resize({ width: 1143, height: 644, position: 'attention' }) | jpeg %}" type="image/jpeg">
+                        <!-- DESKTOP IMAGE -->
+                        <source media="(min-width: 1024px)" srcset="{% getUrl section.image.url | resize({ width: 1632, height: 918, position: 'attention' }) | avif %}" type="image/avif">
+                        <source media="(min-width: 1024px)" srcset="{% getUrl section.image.url | resize({ width: 1632, height: 918, position: 'attention' }) | webp %}" type="image/webp">
+                        <source media="(min-width: 1024px)" srcset="{% getUrl section.image.url | resize({ width: 1632, height: 918, position: 'attention' }) | jpeg %}" type="image/jpeg">
+                        <img
+                            class="object-cover aspect-video h-full w-full border-2 border-gray-200 dark:border-gray-800 shadow-md rounded-4xl"
+                            src="{% getUrl section.image.url | resize({ width: 1632, height: 918, position: 'attention' }) | jpeg %}"
+                            alt="{{ section.image.alt }}"
+                            width="1088"
+                            height="612"
+                            loading="lazy"
+                            decoding="async"
+                            aria-hidden="true"
+                            draggable="false">
+                    </picture>
+                {% endif %}
 
-            {% if section.items %}
-                <!-- ITEMS -->
-                <ul class="grid max-md:!grid-cols-1 max-2xl:!grid-cols-2 ~gap-y-4/6 ~gap-x-2/4" style="grid-template-columns: repeat({{ section.columns }}, minmax(0, 1fr));">
-                    {% for item in section.items %}
-                        {% if item.icon %}
-                            <li class="flex flex-col items-center -space-y-8">
+                {% if section.gallery %}
+                    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-2">
+                        {% for image in section.gallery.images %}
+                            <picture>
+                                <!-- MOBILE IMAGE -->
+                                <source media="(max-width: 600px)" srcset="{% getUrl image.url | avif %}" type="image/avif">
+                                <source media="(max-width: 600px)" srcset="{% getUrl image.url | webp %}" type="image/webp">
+                                <source media="(max-width: 600px)" srcset="{% getUrl image.url | jpeg %}" type="image/jpeg">
+                                <!-- TABLET IMAGE -->
+                                <source media="(max-width: 1024px)" srcset="{% getUrl image.url | avif %}" type="image/avif">
+                                <source media="(max-width: 1024px)" srcset="{% getUrl image.url | webp %}" type="image/webp">
+                                <source media="(max-width: 1024px)" srcset="{% getUrl image.url | jpeg %}" type="image/jpeg">
+                                <!-- DESKTOP IMAGE -->
+                                <source media="(min-width: 1024px)" srcset="{% getUrl image.url | resize({ width: 390, height: 260 }) | avif %}" type="image/avif">
+                                <source media="(min-width: 1024px)" srcset="{% getUrl image.url | resize({ width: 390, height: 260 }) | webp %}" type="image/webp">
+                                <source media="(min-width: 1024px)" srcset="{% getUrl image.url | resize({ width: 390, height: 260 }) | jpeg %}" type="image/jpeg">
+                                <img
+                                    class="object-cover aspect-[3/2] h-full w-full border-2 border-gray-200 dark:border-gray-800 shadow-md rounded-4xl"
+                                    src="{% getUrl image.url | resize({ width: 390, height: 260 }) | jpeg %}"
+                                    alt="{{ image.alt }}"
+                                    width="260"
+                                    height="173"
+                                    loading="lazy"
+                                    decoding="async"
+                                    aria-hidden="true"
+                                    draggable="false">
+                            </picture>
+                        {% endfor %}
+
+                        {% if section.gallery.cta %}
+                            <a href="{{ section.gallery.cta.url }}" class="flex flex-col justify-center items-center gap-4 aspect-[3/2] w-full p-6 bg-white dark:bg-gray-950 border-2 border-gray-200 dark:border-gray-800 shadow-md rounded-4xl transition-colors duration-300 hover:bg-gray-100 dark:hover:bg-gray-800">
                                 <!-- ICON -->
                                 <div class="relative p-2 bg-category rounded-2xl z-10" data-category="{{ category }}">
                                     <img
+                                        class="h-10 aspect-square"
+                                        src="/assets/svgs/gallery/image.svg"
+                                        alt="Ikona obrázku"
+                                        width="40"
+                                        height="40"
+                                        loading="lazy"
+                                        decoding="async"
+                                        aria-hidden="true"
+                                        draggable="false">
+                                </div>
+
+                                <span class="text-center text-lg text-gray-950 dark:text-white font-semibold">{{ section.gallery.cta.text }}</span>
+                            </a>
+                        {% endif %}
+                    </div>
+                {% endif %}
+            </div>
+
+            {% if section.items %}
+                <div class="flex flex-col gap-4">
+                    {% if section.items.title %}
+                        <h3 class="~text-xl/2xl text-gray-950 dark:text-white font-semibold">{{ section.items.title }}</h3>
+                    {% endif %}
+
+                    <!-- ITEMS -->
+                    <ul class="grid max-md:!grid-cols-1 max-2xl:!grid-cols-2 ~gap-y-4/6 ~gap-x-2/4" style="grid-template-columns: repeat({{ section.items.columns }}, minmax(0, 1fr));">
+                        {% for item in section.items.data %}
+                            {% if item.icon %}
+                                <li class="flex flex-col items-center -space-y-8">
+                                    <!-- ICON -->
+                                    <div class="relative p-2 bg-category rounded-2xl z-10" data-category="{{ category }}">
+                                        <img
                                         class="h-8 aspect-square"
                                         src="{{ item.icon.url }}"
                                         alt="{{ item.icon.alt }}"
@@ -64,53 +122,54 @@
                                         decoding="async"
                                         aria-hidden="true"
                                         draggable="false">
-                                </div>
-
-                                <!-- TITLE + TEXT -->
-                                <div class="flex flex-col justify-center items-center gap-1 h-full w-full p-6 pt-12 bg-white dark:bg-gray-950 border-2 border-gray-200 dark:border-gray-800 shadow-md rounded-4xl">
-                                    <span class="text-center text-lg text-gray-950 dark:text-white font-semibold">{{ item.title }}</span>
-                                    {% if item.url %}
-                                        <a href="{{ item.url }}" target="{{ item.target }}" class="font-lora text-center text-gray-800 dark:text-gray-200 underline hover:text-black dark:hover:text-white">
-                                            {{ item.text | safe }}
-                                        </a>
-                                    {% else %}
-                                        <p class="font-lora text-center text-gray-800 dark:text-gray-200">{{ item.text | safe }}</p>
-                                    {% endif %}
-                                </div>
-                            </li>
-                        {% else %}
-                            <li class="flex flex-col items-center gap-5 p-6 bg-white dark:bg-gray-950 border-2 border-gray-200 dark:border-gray-800 shadow-md rounded-4xl">
-                                <!-- TITLE + TEXT -->
-                                <div class="flex flex-col justify-center items-center gap-1">
-                                    <span class="text-center text-lg text-gray-950 dark:text-white font-semibold">{{ item.title }}</span>
-                                    <p class="font-lora text-center text-gray-800 dark:text-gray-200">{{ item.text }}</p>
-                                </div>
-
-                                {% if item.email %}
-                                    <!-- EMAIL -->
-                                    <div class="flex items-center gap-2">
-                                        <!-- ICON -->
-                                        <div class="p-1 bg-category rounded-lg" data-category="{{ category }}">
-                                            <img
-                                                src="/assets/svgs/header/mail.svg"
-                                                alt="Ikona emailu"
-                                                width="20"
-                                                height="20"
-                                                loading="lazy"
-                                                decoding="async"
-                                                aria-hidden="true"
-                                                draggable="false">
-                                        </div>
-
-                                        <a href="mailto:{{ item.email }}" class="font-lora text-gray-800 dark:text-gray-200 hover:text-black underline">
-                                            {{ item.email }}
-                                        </a>
                                     </div>
-                                {% endif %}
-                            </li>
-                        {% endif %}
-                    {% endfor %}
-                </ul>
+
+                                    <!-- TITLE + TEXT -->
+                                    <div class="flex flex-col justify-center items-center gap-1 h-full w-full p-6 pt-12 bg-white dark:bg-gray-950 border-2 border-gray-200 dark:border-gray-800 shadow-md rounded-4xl">
+                                        <span class="text-center text-lg text-gray-950 dark:text-white font-semibold">{{ item.title }}</span>
+                                        {% if item.url %}
+                                            <a href="{{ item.url }}" target="{{ item.target }}" class="text-center text-gray-800 dark:text-gray-200 underline hover:text-black dark:hover:text-white">
+                                                {{ item.text | safe }}
+                                            </a>
+                                        {% else %}
+                                            <p class="text-center text-gray-800 dark:text-gray-200">{{ item.text | safe }}</p>
+                                        {% endif %}
+                                    </div>
+                                </li>
+                            {% else %}
+                                <li class="flex flex-col items-center gap-5 p-6 bg-white dark:bg-gray-950 border-2 border-gray-200 dark:border-gray-800 shadow-md rounded-4xl">
+                                    <!-- TITLE + TEXT -->
+                                    <div class="flex flex-col justify-center items-center gap-1">
+                                        <span class="text-center text-lg text-gray-950 dark:text-white font-semibold">{{ item.title }}</span>
+                                        <p class="text-center text-gray-800 dark:text-gray-200">{{ item.text }}</p>
+                                    </div>
+
+                                    {% if item.email %}
+                                        <!-- EMAIL -->
+                                        <div class="flex items-center gap-2">
+                                            <!-- ICON -->
+                                            <div class="p-1 bg-category rounded-lg" data-category="{{ category }}">
+                                                <img
+                                                    src="/assets/svgs/header/mail.svg"
+                                                    alt="Ikona emailu"
+                                                    width="20"
+                                                    height="20"
+                                                    loading="lazy"
+                                                    decoding="async"
+                                                    aria-hidden="true"
+                                                    draggable="false">
+                                            </div>
+
+                                            <a href="mailto:{{ item.email }}" class="~text-sm/base text-gray-800 dark:text-gray-200 hover:text-black underline">
+                                                {{ item.email }}
+                                            </a>
+                                        </div>
+                                    {% endif %}
+                                </li>
+                            {% endif %}
+                        {% endfor %}
+                    </ul>
+                </div>
             {% endif %}
 
             {% if section.data.employees and section.data.employees.length > 0 %}
@@ -119,7 +178,7 @@
                         {% set employee = collections.zamestnanci | findWhere({"fileSlug": item.employee}) %}
                         {% set category = section.data.section | slug %}
 
-                        {% include "components/employee.njk" %}
+                        {% include "components/employee-card.njk" %}
                     {% endfor %}
                 </ul>
             {% endif %}
